@@ -1,0 +1,9 @@
+<map id="free_placement_structs" name="free_placement_structs">
+<area shape="rect" id="node2" href="$d5/d28/place_8c.html#acd52280332fe9a5137c1b888ed6cfb5a" title="free_legal_placements" alt="" coords="227,5,379,32"/>
+<area shape="rect" id="node3" href="$d5/d28/place_8c.html#a472cdef7feaf78f3442ef83f2960cd86" title="free_fast_cost_update" alt="" coords="227,56,378,83"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#a3931c4ab87f99a070968c1f299454c07" title="free_matrix" alt="" coords="259,107,346,133"/>
+<area shape="rect" id="node5" href="$de/d20/place__macro_8c.html#a74c35bd1792dd0bda4e8f58cf71b4ec2" title="free_placement_macros\l_structs" alt="" coords="222,158,383,199"/>
+<area shape="rect" id="node7" href="$d6/d8f/vpr__utils_8c.html#a349a0612447489e860e0f522c8d0a736" title="free_port_pin_from\l_blk_pin" alt="" coords="237,223,368,265"/>
+<area shape="rect" id="node8" href="$d6/d8f/vpr__utils_8c.html#ac339cd7dbbf57f903e250c2974a8d6d2" title="free_blk_pin_from_port_pin" alt="" coords="213,289,392,316"/>
+<area shape="rect" id="node6" href="$de/d20/place__macro_8c.html#ac93eaa2f9c080ac486890ace54bdd34d" title="free_imacro_from_iblk" alt="" coords="441,165,591,192"/>
+</map>

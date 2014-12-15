@@ -1,0 +1,8 @@
+<map id="alloc_and_assign_internal_structures" name="alloc_and_assign_internal_structures">
+<area shape="rect" id="node2" href="$d5/d01/timing__place__lookup_8c.html#aa937bdc868bd46f3472eb8d26263caeb" title="alloc_net" alt="" coords="247,5,321,32"/>
+<area shape="rect" id="node4" href="$d5/d01/timing__place__lookup_8c.html#a72dfacd9dbd535307446cbdfa575712d" title="alloc_block" alt="" coords="241,56,327,83"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#a2f2745a19fae73b247f390aea7acbe55" title="alloc_matrix" alt="" coords="239,107,329,133"/>
+<area shape="rect" id="node7" href="$d5/d01/timing__place__lookup_8c.html#a727489d5c21cf50da61a249ed084ae4b" title="reset_placement" alt="" coords="225,157,343,184"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="393,31,477,57"/>
+<area shape="rect" id="node6" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="393,107,477,133"/>
+</map>

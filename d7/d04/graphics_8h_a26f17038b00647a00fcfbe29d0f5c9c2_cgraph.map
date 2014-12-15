@@ -1,0 +1,12 @@
+<map id="init_postscript" name="init_postscript">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#abcfab372ab6921c7ffaf7707ae311670" title="update_ps_transform" alt="" coords="157,5,301,32"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#ab0bf9685ef88f80707870fbd9647fda5" title="force_setcolor" alt="" coords="492,145,596,172"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#af01949dc6f36ebdd5591e6c2aa749af4" title="force_setlinestyle" alt="" coords="168,107,291,133"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#a7d5b4c1e5e5947c118440fb2c72dfe2e" title="force_setlinewidth" alt="" coords="166,157,293,184"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#a178f60bd5ebeb788e1d3a47317ab8f62" title="force_setfontsize" alt="" coords="483,221,605,248"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#acdec9ac4c32977b9aeec6bf6d73e2eec" title="draw_message" alt="" coords="174,208,285,235"/>
+<area shape="rect" id="node7" href="$d5/d95/graphics_8c.html#af9c48c9bd315cbd663b4dca3212cb6e3" title="load_font" alt="" coords="653,221,728,248"/>
+<area shape="rect" id="node8" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="777,221,861,248"/>
+<area shape="rect" id="node10" href="$d5/d95/graphics_8c.html#a1bb83f94ad307bc6f88d8786aa2224eb" title="setcolor" alt="" coords="358,157,426,184"/>
+<area shape="rect" id="node11" href="$d5/d95/graphics_8c.html#af2d1bf3f2a2dc16ef6785d0f8aa6e866" title="setfontsize" alt="" coords="349,208,435,235"/>
+</map>

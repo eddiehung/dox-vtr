@@ -1,0 +1,12 @@
+<map id="power_usage_wire" name="power_usage_wire">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html#ae442afefd3eba67fb80f4be75faf37d1" title="power_usage_local_pin\l_buffer_and_wire" alt="" coords="184,5,341,46"/>
+<area shape="rect" id="node9" href="$d4/d81/power_8c.html#adb5adffc1a8dfa46b4173e3a76b3312e" title="power_usage_clock_single" alt="" coords="389,71,568,97"/>
+<area shape="rect" id="node11" href="$d4/d81/power_8c.html#a07a077ef8a222ba2012e7ddc72a10b5e" title="power_usage_routing" alt="" coords="803,121,949,148"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#a1f73254af13c1251c9a2a7d79ea44469" title="power_usage_local_buffers\l_and_wires" alt="" coords="389,5,568,46"/>
+<area shape="rect" id="node4" href="$d4/d81/power_8c.html#a894137e7496df591f7f7c0f35b73e6f8" title="power_usage_pb" alt="" coords="625,15,745,41"/>
+<area shape="rect" id="node5" href="$d4/d81/power_8c.html#aa5848ac7e0ff88d1a50d7b8d3f77a233" title="power_usage_blocks" alt="" coords="804,19,948,45"/>
+<area shape="rect" id="node6" href="$d3/d6a/power_8h.html#a618a0ec5323986d02d47962e3153f00a" title="power_total" alt="" coords="998,71,1087,97"/>
+<area shape="rect" id="node7" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="1136,71,1285,97"/>
+<area shape="rect" id="node8" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1333,71,1384,97"/>
+<area shape="rect" id="node10" href="$d4/d81/power_8c.html#ab692908ddadccc579f3befa831f6526b" title="power_usage_clock" alt="" coords="617,71,754,97"/>
+</map>

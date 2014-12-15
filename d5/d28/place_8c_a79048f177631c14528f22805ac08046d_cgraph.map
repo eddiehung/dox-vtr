@@ -1,0 +1,22 @@
+<map id="initial_placement" name="initial_placement">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="609,172,693,199"/>
+<area shape="rect" id="node3" href="$d5/d28/place_8c.html#adfcad011211f4b1c1ddf3f374e690f58" title="initial_placement_pl\l_macros" alt="" coords="188,5,324,46"/>
+<area shape="rect" id="node7" href="$d5/d28/place_8c.html#ab85fc55db79aee9dfa27187373c87ea9" title="initial_placement_blocks" alt="" coords="174,71,338,97"/>
+<area shape="rect" id="node8" href="$d0/d3f/read__place_8c.html#a1df3a96aa1d9bf87ef90eb946bfe4e55" title="read_user_pad_loc" alt="" coords="191,248,321,275"/>
+<area shape="rect" id="node18" href="$d5/d28/place_8c.html#a631479b4fee1a670ce8d6b59a3809696" title="load_legal_placements" alt="" coords="179,299,333,325"/>
+<area shape="rect" id="node19" href="$da/de8/ReadOptions_8c.html#a67e71380c30310e66ebfa46e7701c43d" title="getEchoEnabled" alt="" coords="199,349,313,376"/>
+<area shape="rect" id="node20" href="$da/de8/ReadOptions_8c.html#a39049f75bed23a03f48d428d056876be" title="isEchoFileEnabled" alt="" coords="192,400,320,427"/>
+<area shape="rect" id="node21" href="$da/de8/ReadOptions_8c.html#a0ccc74aaef0e224700e9a7395e8e6e37" title="getEchoFileName" alt="" coords="193,451,319,477"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#ab23e424631f4adabd831b92d980e87dd" title="my_irand" alt="" coords="420,67,495,93"/>
+<area shape="rect" id="node5" href="$d5/d28/place_8c.html#a166c67c05d15ec446c97c8586ea406cf" title="try_place_macro" alt="" coords="399,12,516,39"/>
+<area shape="rect" id="node6" href="$d5/d28/place_8c.html#ad16763b87acec27a1c09380879db528a" title="check_macro_can_be\l_placed" alt="" coords="576,5,725,46"/>
+<area shape="rect" id="node9" href="$d1/d04/hash_8c.html#abd5438dfb9b7764ed7e5c09bf7e9d191" title="alloc_hash_table" alt="" coords="398,425,517,452"/>
+<area shape="rect" id="node11" href="$d1/d04/hash_8c.html#a258b76b9f100b866a85fe7a88c6c021c" title="insert_in_hash_table" alt="" coords="387,223,528,249"/>
+<area shape="rect" id="node13" href="$d8/d3c/util_8h.html#a8472f1ae002ee260debe9296ea660e60" title="my_fgets" alt="" coords="420,172,495,199"/>
+<area shape="rect" id="node14" href="$d8/d3c/util_8h.html#a0c4e8ac6ef54cc6495938ba83252a614" title="my_strtok" alt="" coords="418,375,497,401"/>
+<area shape="rect" id="node16" href="$d1/d04/hash_8c.html#a79232114e0d0b11f6e794ee5c8fb9798" title="get_hash_entry" alt="" coords="402,273,513,300"/>
+<area shape="rect" id="node17" href="$d1/d04/hash_8c.html#a32583ec5d53b6ea927d5dc66c716f6d1" title="free_hash_table" alt="" coords="400,324,515,351"/>
+<area shape="rect" id="node10" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="611,451,691,477"/>
+<area shape="rect" id="node12" href="$d1/d04/hash_8c.html#a9186b5f092351c329fce5acb2f56823a" title="hash_value" alt="" coords="607,273,695,300"/>
+<area shape="rect" id="node15" href="$de/df1/util_8c.html#a8472f1ae002ee260debe9296ea660e60" title="my_fgets" alt="" coords="613,375,688,401"/>
+</map>

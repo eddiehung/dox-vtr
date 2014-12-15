@@ -1,0 +1,10 @@
+<map id="update_cluster_stats" name="update_cluster_stats">
+<area shape="rect" id="node2" href="$de/d3a/cluster__placement_8c.html#a09819ffc3d7b6e34427b9a41fecaaf5a" title="get_array_size_of_molecule" alt="" coords="206,27,389,53"/>
+<area shape="rect" id="node3" href="$d9/d4d/cluster_8c.html#abdfcc058e92cad2578bfa4bc6627e457" title="mark_and_update_partial_gain" alt="" coords="198,77,397,104"/>
+<area shape="rect" id="node8" href="$d9/d4d/cluster_8c.html#a0859aeb14f1b3d3f3f059247b9fa8da6" title="update_total_gain" alt="" coords="235,128,359,155"/>
+<area shape="rect" id="node9" href="$d9/d4d/cluster_8c.html#a60079b8967ba234fcd4ea80edb29909f" title="commit_lookahead_pins_used" alt="" coords="199,179,396,205"/>
+<area shape="rect" id="node4" href="$d6/d8f/vpr__utils_8c.html#a082d82106a804634d9fe57e49c186ca4" title="num_ext_inputs_logical\l_block" alt="" coords="448,5,605,46"/>
+<area shape="rect" id="node5" href="$d9/d4d/cluster_8c.html#a02067ece1ef617eb369ccc184b920bc0" title="update_connection_gain\l_values" alt="" coords="445,70,608,111"/>
+<area shape="rect" id="node7" href="$d9/d4d/cluster_8c.html#a82659939c9c4ec46da0d66c5265a53b0" title="update_timing_gain\l_values" alt="" coords="459,135,594,177"/>
+<area shape="rect" id="node6" href="$d9/d4d/cluster_8c.html#a59c023a16b5edfd5235a043e4d2e68ea" title="is_logical_blk_in_pb" alt="" coords="656,77,795,104"/>
+</map>

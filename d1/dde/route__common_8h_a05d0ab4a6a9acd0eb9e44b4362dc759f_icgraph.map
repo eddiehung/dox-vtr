@@ -1,0 +1,18 @@
+<map id="alloc_route_static_structs" name="alloc_route_static_structs">
+<area shape="rect" id="node2" href="$d8/d55/cluster__legality_8h.html#abd19c55ac536c4e989ea9d1c6f17eeba" title="alloc_and_load_cluster\l_legality_checker" alt="" coords="777,57,932,98"/>
+<area shape="rect" id="node10" href="$de/dbf/route__export_8h.html#a62ccc94ed7e0b5bca92d06fa8d6cee1a" title="alloc_route_structs" alt="" coords="179,148,311,175"/>
+<area shape="rect" id="node3" href="$d9/d4d/cluster_8c.html#a11afd55b7a07119335aa20425311d3ca" title="alloc_and_init_clustering" alt="" coords="1003,9,1167,36"/>
+<area shape="rect" id="node8" href="$d6/d82/vpr__api_8c.html#a19ab847263a38002b1522989edf297e8" title="clay_logical_equivalence\l_handling" alt="" coords="1216,57,1381,98"/>
+<area shape="rect" id="node4" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="1249,5,1348,32"/>
+<area shape="rect" id="node5" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="1477,5,1547,32"/>
+<area shape="rect" id="node6" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="1677,13,1752,40"/>
+<area shape="rect" id="node7" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1835,71,1885,97"/>
+<area shape="rect" id="node9" href="$db/dc2/vpr__api_8h.html#a6571e661b158cd25c1713da697be66eb" title="vpr_resync_post_route\l_netlist_to_TI_CLAY_v1\l_architecture" alt="" coords="1430,56,1594,112"/>
+<area shape="rect" id="node11" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="1453,167,1571,193"/>
+<area shape="rect" id="node13" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="1229,174,1369,215"/>
+<area shape="rect" id="node14" href="$d5/d01/timing__place__lookup_8c.html#aae763ba8510489478024b2700f61be1d" title="alloc_routing_structs" alt="" coords="361,228,503,255"/>
+<area shape="rect" id="node12" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="1643,151,1786,177"/>
+<area shape="rect" id="node15" href="$dd/d75/timing__place__lookup_8h.html#a1d2181b94fee952fc0d04599df134407" title="compute_delay_lookup\l_tables" alt="" coords="552,225,707,266"/>
+<area shape="rect" id="node16" href="$db/d3c/timing__place_8h.html#a1565c2ac95e3032c61718efd0e711951" title="alloc_lookups_and_criticalities" alt="" coords="755,232,954,259"/>
+<area shape="rect" id="node17" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="1048,232,1123,259"/>
+</map>

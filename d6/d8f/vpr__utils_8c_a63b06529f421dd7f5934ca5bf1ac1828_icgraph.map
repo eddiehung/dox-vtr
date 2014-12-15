@@ -1,0 +1,9 @@
+<map id="get_max_primitives_in_pb_type" name="get_max_primitives_in_pb_type">
+<area shape="rect" id="node2" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="789,39,888,65"/>
+<area shape="rect" id="node6" href="$dc/d07/cluster__placement_8h.html#a5e723c9d4d1a882bcaf5d3b8bba89269" title="alloc_and_load_cluster\l_placement_stats" alt="" coords="373,31,528,73"/>
+<area shape="rect" id="node8" href="$df/dde/vpr__utils_8h.html#a63b06529f421dd7f5934ca5bf1ac1828" title="get_max_primitives\l_in_pb_type" alt="" coords="190,102,325,143"/>
+<area shape="rect" id="node3" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="937,39,1007,65"/>
+<area shape="rect" id="node4" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="1056,39,1131,65"/>
+<area shape="rect" id="node5" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1179,39,1229,65"/>
+<area shape="rect" id="node7" href="$d9/d4d/cluster_8c.html#a11afd55b7a07119335aa20425311d3ca" title="alloc_and_init_clustering" alt="" coords="577,39,741,65"/>
+</map>

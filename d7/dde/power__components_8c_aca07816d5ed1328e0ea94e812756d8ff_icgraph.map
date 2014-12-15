@@ -1,0 +1,10 @@
+<map id="power_component_add_usage" name="power_component_add_usage">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html#a894137e7496df591f7f7c0f35b73e6f8" title="power_usage_pb" alt="" coords="240,5,360,32"/>
+<area shape="rect" id="node4" href="$d3/d6a/power_8h.html#a618a0ec5323986d02d47962e3153f00a" title="power_total" alt="" coords="633,81,722,108"/>
+<area shape="rect" id="node7" href="$d4/d81/power_8c.html#adb5adffc1a8dfa46b4173e3a76b3312e" title="power_usage_clock_single" alt="" coords="211,107,389,133"/>
+<area shape="rect" id="node9" href="$d4/d81/power_8c.html#a07a077ef8a222ba2012e7ddc72a10b5e" title="power_usage_routing" alt="" coords="438,157,583,184"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#aa5848ac7e0ff88d1a50d7b8d3f77a233" title="power_usage_blocks" alt="" coords="439,5,583,32"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="771,81,920,108"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="968,81,1019,108"/>
+<area shape="rect" id="node8" href="$d4/d81/power_8c.html#ab692908ddadccc579f3befa831f6526b" title="power_usage_clock" alt="" coords="442,107,579,133"/>
+</map>

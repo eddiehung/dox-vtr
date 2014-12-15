@@ -1,0 +1,6 @@
+<map id="show_blif_stats" name="show_blif_stats">
+<area shape="rect" id="node2" href="$dd/d45/read__blif_8h.html#a41312c0c10698bb253892098ccb6a322" title="read_and_process_blif" alt="" coords="168,31,320,57"/>
+<area shape="rect" id="node3" href="$db/dc2/vpr__api_8h.html#a9bd9340df0499b6ec5687b6ad0ac3e16" title="vpr_init" alt="" coords="425,5,489,32"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a73828da073e6e53599f06587bf63f8d9" title="vpr_read_and_process_blif" alt="" coords="369,56,546,83"/>
+<area shape="rect" id="node4" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="595,5,645,32"/>
+</map>

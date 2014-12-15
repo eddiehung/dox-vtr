@@ -1,0 +1,6 @@
+<map id="ProcessPb_TypePort_Power" name="ProcessPb_TypePort_Power">
+<area shape="rect" id="node2" href="$d7/dcd/read__xml__arch__file_8c.html#af04238ce37dd82cc50a9308215af6233" title="ProcessPb_TypePort" alt="" coords="201,12,346,39"/>
+<area shape="rect" id="node3" href="$d7/dcd/read__xml__arch__file_8c.html#a47910fdd38e5beed9909ff7d84ab263e" title="ProcessPb_Type" alt="" coords="395,12,517,39"/>
+<area shape="rect" id="node4" href="$d7/dcd/read__xml__arch__file_8c.html#ae442ba7269e31ae59bd180276ca744cc" title="ProcessMode" alt="" coords="594,12,697,39"/>
+<area shape="rect" id="node5" href="$d7/dcd/read__xml__arch__file_8c.html#ae83694ad47fb1f7c7aa96e9ba069cc53" title="ProcessComplexBlocks" alt="" coords="565,63,725,89"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="highlight_crit_path" name="highlight_crit_path">
+<area shape="rect" id="node2" href="$d6/dd9/draw_8c.html#a74d733b53adef3955b68bb887d76a057" title="deselect_all" alt="" coords="237,64,328,91"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#af4deb3c34c6f90ae1889771ecf369edf" title="update_message" alt="" coords="222,115,343,141"/>
+<area shape="rect" id="node11" href="$dc/dfb/path__delay_8c.html#a9163ee1e068f8f869eaae3f79d6b6586" title="allocate_and_load_critical_path" alt="" coords="181,165,384,192"/>
+<area shape="rect" id="node20" href="$dc/dfb/path__delay_8c.html#ab013b6000df1bac9973379eccf6ec278" title="get_tnode_block_and\l_output_net" alt="" coords="210,217,355,258"/>
+<area shape="rect" id="node21" href="$d8/d3c/util_8h.html#a476a48b9748e225fdb0e7368f503e3f9" title="free_int_list" alt="" coords="238,283,327,309"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#acdec9ac4c32977b9aeec6bf6d73e2eec" title="draw_message" alt="" coords="443,56,554,83"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#a1bb83f94ad307bc6f88d8786aa2224eb" title="setcolor" alt="" coords="677,5,745,32"/>
+<area shape="rect" id="node7" href="$d5/d95/graphics_8c.html#af2d1bf3f2a2dc16ef6785d0f8aa6e866" title="setfontsize" alt="" coords="668,56,753,83"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#ab0bf9685ef88f80707870fbd9647fda5" title="force_setcolor" alt="" coords="865,5,969,32"/>
+<area shape="rect" id="node8" href="$d5/d95/graphics_8c.html#a178f60bd5ebeb788e1d3a47317ab8f62" title="force_setfontsize" alt="" coords="857,56,978,83"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#af9c48c9bd315cbd663b4dca3212cb6e3" title="load_font" alt="" coords="1027,56,1101,83"/>
+<area shape="rect" id="node10" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="1150,81,1234,108"/>
+<area shape="rect" id="node12" href="$dc/dfb/path__delay_8c.html#a1bf959f68b24d06cc9af1c21adca022a" title="do_timing_analysis\l_for_constraint" alt="" coords="433,158,565,199"/>
+<area shape="rect" id="node18" href="$dc/dfb/path__delay_8c.html#ad8f6f73c833c7c5ab76f16882715b430" title="has_valid_T_arr" alt="" coords="441,224,556,251"/>
+<area shape="rect" id="node19" href="$dc/dfb/path__delay_8c.html#a6c21eae0aaba1aec5287e38ffd435c1d" title="has_valid_T_req" alt="" coords="440,275,557,301"/>
+<area shape="rect" id="node13" href="$dc/dfb/path__delay_8c.html#a9dacdc583588f6939673bbbb227b2e79" title="set_and_balance_arrival_time" alt="" coords="613,157,808,184"/>
+<area shape="rect" id="node16" href="$dc/dfb/path__delay_8c.html#ad48e342ff88097452d22e17991fccfb0" title="find_cf_constraint" alt="" coords="649,208,773,235"/>
+<area shape="rect" id="node17" href="$dc/dfb/path__delay_8c.html#a95692debb5af04237ce6d0a43be608a8" title="find_tnode_net_name" alt="" coords="638,259,783,285"/>
+<area shape="rect" id="node14" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="877,157,957,184"/>
+<area shape="rect" id="node15" href="$dc/dfb/path__delay_8c.html#ab7d8619d6fdd99c266bf1d854f5cb42d" title="get_tnode_index" alt="" coords="859,208,975,235"/>
+</map>

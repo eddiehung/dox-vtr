@@ -1,0 +1,12 @@
+<map id="count_bidir_routing_transistors" name="count_bidir_routing_transistors">
+<area shape="rect" id="node2" href="$da/d1d/rr__graph__area_8c.html#ada2a28f78514a94982ff177d50e4b819" title="trans_per_buf" alt="" coords="413,17,515,44"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="233,224,313,251"/>
+<area shape="rect" id="node5" href="$da/d1d/rr__graph__area_8c.html#aa2fbc019cf21103373510387160ff7cd" title="alloc_and_load_unsharable\l_switch_trans" alt="" coords="184,107,363,149"/>
+<area shape="rect" id="node7" href="$da/d1d/rr__graph__area_8c.html#acd423bc8c6f49303b0d214140f2b9f04" title="alloc_and_load_sharable\l_switch_trans" alt="" coords="191,42,355,83"/>
+<area shape="rect" id="node8" href="$d6/d4f/rr__graph__util_8c.html#a27208fcba5b953f49a074eadc8470145" title="seg_index_of_sblock" alt="" coords="202,275,345,301"/>
+<area shape="rect" id="node9" href="$d6/d4f/rr__graph__util_8c.html#a43b1f1aa774fb4e9ec550a2eeadc1982" title="seg_index_of_cblock" alt="" coords="202,325,345,352"/>
+<area shape="rect" id="node10" href="$da/d1d/rr__graph__area_8c.html#a201c0c9c67941bca82b2495f0cd06321" title="get_cblock_trans" alt="" coords="213,173,334,200"/>
+<area shape="rect" id="node3" href="$da/d1d/rr__graph__area_8c.html#a7ce9cf7cb1bdb666a2f16a074aded813" title="trans_per_R" alt="" coords="566,43,658,69"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="422,119,506,145"/>
+<area shape="rect" id="node11" href="$da/d1d/rr__graph__area_8c.html#aa01e55ce443a9b3a28f72d965113a026" title="trans_per_mux" alt="" coords="411,173,517,200"/>
+</map>

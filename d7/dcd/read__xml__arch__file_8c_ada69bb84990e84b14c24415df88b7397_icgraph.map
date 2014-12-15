@@ -1,0 +1,7 @@
+<map id="findPortByName" name="findPortByName">
+<area shape="rect" id="node2" href="$d7/dcd/read__xml__arch__file_8c.html#a9d77d1b9029e2eb75525788a49fe4ca6" title="ProcessPb_TypePowerPinToggle" alt="" coords="171,5,387,32"/>
+<area shape="rect" id="node3" href="$d7/dcd/read__xml__arch__file_8c.html#a273852221befced3724f2fe7db6ab206" title="ProcessPb_TypePower" alt="" coords="435,5,594,32"/>
+<area shape="rect" id="node4" href="$d7/dcd/read__xml__arch__file_8c.html#a47910fdd38e5beed9909ff7d84ab263e" title="ProcessPb_Type" alt="" coords="643,5,765,32"/>
+<area shape="rect" id="node5" href="$d7/dcd/read__xml__arch__file_8c.html#ae442ba7269e31ae59bd180276ca744cc" title="ProcessMode" alt="" coords="842,5,945,32"/>
+<area shape="rect" id="node6" href="$d7/dcd/read__xml__arch__file_8c.html#ae83694ad47fb1f7c7aa96e9ba069cc53" title="ProcessComplexBlocks" alt="" coords="813,56,973,83"/>
+</map>

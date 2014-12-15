@@ -1,0 +1,21 @@
+<map id="verilog_writer.h" name="verilog_writer.h">
+<area shape="rect" id="node6" href="$d8/d3c/util_8h.html" title="util.h" alt="" coords="430,453,479,480"/>
+<area shape="rect" id="node10" href="$d1/d3f/vpr__types_8h.html" title="vpr_types.h" alt="" coords="273,80,361,107"/>
+<area shape="rect" id="node13" href="$df/d81/physical__types_8h.html" title="physical_types.h" alt="" coords="148,304,264,331"/>
+<area shape="rect" id="node16" href="$df/dde/vpr__utils_8h.html" title="vpr_utils.h" alt="" coords="493,229,573,256"/>
+<area shape="rect" id="node17" href="$d5/d87/globals_8h.html" title="globals.h" alt="" coords="943,80,1016,107"/>
+<area shape="rect" id="node18" href="$d3/dc8/read__place_8h.html" title="read_place.h" alt="" coords="1041,80,1135,107"/>
+<area shape="rect" id="node19" href="$de/d28/draw_8h.html" title="draw.h" alt="" coords="1159,80,1219,107"/>
+<area shape="rect" id="node20" href="$d9/d9b/stats_8h.html" title="stats.h" alt="" coords="1244,80,1305,107"/>
+<area shape="rect" id="node21" href="$d0/dbb/check__route_8h.html" title="check_route.h" alt="" coords="1330,80,1432,107"/>
+<area shape="rect" id="node22" href="$df/dfd/rr__graph_8h.html" title="rr_graph.h" alt="" coords="1457,80,1535,107"/>
+<area shape="rect" id="node23" href="$dd/de5/path__delay_8h.html" title="path_delay.h" alt="" coords="1559,80,1653,107"/>
+<area shape="rect" id="node24" href="$d4/d8c/net__delay_8h.html" title="net_delay.h" alt="" coords="1678,80,1764,107"/>
+<area shape="rect" id="node25" href="$db/d3c/timing__place_8h.html" title="timing_place.h" alt="" coords="1789,80,1893,107"/>
+<area shape="rect" id="node26" href="$d9/d15/read__xml__arch__file_8h.html" title="read_xml_arch_file.h" alt="" coords="385,80,524,107"/>
+<area shape="rect" id="node27" href="$d6/dff/ReadOptions_8h.html" title="ReadOptions.h" alt="" coords="1919,80,2025,107"/>
+<area shape="rect" id="node11" href="$d5/d3c/arch__types_8h.html" title="arch_types.h" alt="" coords="309,155,403,181"/>
+<area shape="rect" id="node12" href="$d5/d14/logic__types_8h.html" title="logic_types.h" alt="" coords="263,379,360,405"/>
+<area shape="rect" id="node14" href="$d5/d3f/cad__types_8h.html" title="cad_types.h" alt="" coords="327,229,417,256"/>
+<area shape="rect" id="node28" href="$d9/dde/OptionTokens_8h.html" title="OptionTokens.h" alt="" coords="1915,155,2028,181"/>
+</map>

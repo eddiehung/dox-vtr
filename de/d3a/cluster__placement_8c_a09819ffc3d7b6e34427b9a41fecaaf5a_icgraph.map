@@ -1,0 +1,24 @@
+<map id="get_array_size_of_molecule" name="get_array_size_of_molecule">
+<area shape="rect" id="node2" href="$d9/d4d/cluster_8c.html#aca4d2997a9ad941157a7f542f077872f" title="get_molecule_by_num\l_ext_inputs" alt="" coords="238,106,389,148"/>
+<area shape="rect" id="node5" href="$d9/d4d/cluster_8c.html#aeb0d64214d708417cf7c2edddcbfd38d" title="try_pack_molecule" alt="" coords="668,290,799,316"/>
+<area shape="rect" id="node11" href="$d9/d4d/cluster_8c.html#a9627d1a8e27fc6e4147bf897c9e32d85" title="update_cluster_stats" alt="" coords="442,458,585,484"/>
+<area shape="rect" id="node12" href="$d9/d4d/cluster_8c.html#ab7adbc9ab2c69a8e1507d421d0aab98f" title="get_highest_gain_molecule" alt="" coords="644,55,823,82"/>
+<area shape="rect" id="node13" href="$d9/d4d/cluster_8c.html#ae28210d62cf6ab7678bf8aeda04900e8" title="get_molecule_gain" alt="" coords="248,55,379,82"/>
+<area shape="rect" id="node15" href="$dd/db1/cluster__legality_8c.html#a8151e24d3faf47cb1f68a97a768addc2" title="setup_intracluster\l_routing_for_molecule" alt="" coords="439,224,588,265"/>
+<area shape="rect" id="node16" href="$de/d3a/cluster__placement_8c.html#aee3b51d3420dbe1b0d1efd82ee6ba4f9" title="try_place_molecule" alt="" coords="247,274,380,300"/>
+<area shape="rect" id="node18" href="$df/dde/vpr__utils_8h.html#ac63433767f7ea088bd9adaa995560bab" title="free_pb" alt="" coords="281,348,346,375"/>
+<area shape="rect" id="node3" href="$d9/d4d/cluster_8c.html#a3dfbb7e21e27ded705f323f966c6cda6" title="get_free_molecule_with\l_most_ext_inputs_for_cluster" alt="" coords="637,106,829,148"/>
+<area shape="rect" id="node4" href="$d9/d4d/cluster_8c.html#ae5b5d19106e8486ecf8232dad30be491" title="get_molecule_for_cluster" alt="" coords="878,84,1045,111"/>
+<area shape="rect" id="node6" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="912,382,1011,408"/>
+<area shape="rect" id="node10" href="$d9/d4d/cluster_8c.html#a5ab5154fd25a2c5c4918921718262c35" title="start_new_cluster" alt="" coords="899,290,1024,316"/>
+<area shape="rect" id="node7" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="1154,382,1225,408"/>
+<area shape="rect" id="node8" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="1341,382,1416,408"/>
+<area shape="rect" id="node9" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1472,407,1523,434"/>
+<area shape="rect" id="node14" href="$d9/d4d/cluster_8c.html#a31006a92f295d723b9078d34cc288593" title="add_molecule_to_pb\l_stats_candidates" alt="" coords="443,48,584,89"/>
+<area shape="rect" id="node17" href="$dc/d07/cluster__placement_8h.html#a02570f11f187e9339f0c20c48265b976" title="get_next_primitive_list" alt="" coords="438,290,589,316"/>
+<area shape="rect" id="node19" href="$d9/d4d/cluster_8c.html#aebcaf129fdf2235eb71d5ccfc80a6d0d" title="revert_place_logical\l_block" alt="" coords="445,341,582,382"/>
+<area shape="rect" id="node20" href="$df/dde/vpr__utils_8h.html#ab8538c85f12e6ae1afa752c9b88bb007" title="free_cb" alt="" coords="701,407,766,434"/>
+<area shape="rect" id="node21" href="$d6/d82/vpr__api_8c.html#a4016bcfbf1f2be89e8059c9d5e7807bb" title="free_circuit" alt="" coords="918,432,1005,459"/>
+<area shape="rect" id="node22" href="$db/dc2/vpr__api_8h.html#a7d359b5fd0379a51d5ca989d802c5075" title="vpr_free_vpr_data_structures" alt="" coords="1094,432,1285,459"/>
+<area shape="rect" id="node23" href="$db/dc2/vpr__api_8h.html#ac75d478035753ab7a65ddc3dd241301e" title="vpr_free_all" alt="" coords="1334,432,1423,459"/>
+</map>

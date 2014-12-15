@@ -1,0 +1,11 @@
+<map id="build_unidir_rr_opins" name="build_unidir_rr_opins">
+<area shape="rect" id="node2" href="$d1/dbf/rr__graph2_8c.html#af419eedb4399bea2a63a2b6fc9cbf931" title="get_unidir_opin_connections" alt="" coords="195,81,381,108"/>
+<area shape="rect" id="node7" href="$d1/dbf/rr__graph2_8c.html#a3e368028d8824b4e829e0770d34ca565" title="get_rr_node_index" alt="" coords="431,157,558,184"/>
+<area shape="rect" id="node9" href="$d9/db8/rr__graph_8c.html#a52cd489ff3c68ddd8fc1499e5ae6a42b" title="get_opin_direct_connecions" alt="" coords="197,132,379,159"/>
+<area shape="rect" id="node10" href="$d9/db8/rr__graph_8c.html#a2ec141f81cacb1e51f58ae281cc07ec0" title="alloc_and_load_edges\l_and_switches" alt="" coords="213,234,363,275"/>
+<area shape="rect" id="node3" href="$d1/dbf/rr__graph2_8c.html#a43ddeaf15c938f957f705c4d5f0e061a" title="label_wire_muxes" alt="" coords="432,56,557,83"/>
+<area shape="rect" id="node8" href="$d6/d4f/rr__graph__util_8c.html#af9bb9240a04c5ea56c11b2e2ea3bfcc4" title="insert_in_edge_list" alt="" coords="429,107,560,133"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="617,107,701,133"/>
+<area shape="rect" id="node5" href="$d1/dbf/rr__graph2_8c.html#a9b9dbfcf0619eb94874f29138540d3a6" title="get_seg_start" alt="" coords="608,56,709,83"/>
+<area shape="rect" id="node6" href="$d1/dbf/rr__graph2_8c.html#a1db0e684fb1d09a600e7c0bd67ac93d2" title="get_seg_end" alt="" coords="611,5,707,32"/>
+</map>

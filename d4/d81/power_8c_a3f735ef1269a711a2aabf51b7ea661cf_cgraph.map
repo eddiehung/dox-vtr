@@ -1,0 +1,6 @@
+<map id="power_print_breakdown_summary" name="power_print_breakdown_summary">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html#ac48b605aa97efd9aee6fbeef815e8fca" title="power_print_breakdown\l_entry" alt="" coords="422,5,581,46"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#a8ab2a4302d46188c6d16f30d9c02a6a2" title="power_print_breakdown\l_component" alt="" coords="214,63,373,105"/>
+<area shape="rect" id="node4" href="$d5/dc1/power__util_8c.html#a3b77219acbfc8eec4d3cd3664ccf04c0" title="power_sum_usage" alt="" coords="629,96,760,123"/>
+<area shape="rect" id="node5" href="$d5/dc1/power__util_8c.html#af6043e95c88b16abd83c20b9a7953841" title="power_perc_dynamic" alt="" coords="429,121,573,148"/>
+</map>

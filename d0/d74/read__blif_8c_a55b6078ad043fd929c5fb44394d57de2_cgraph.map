@@ -1,0 +1,11 @@
+<map id="add_subckt" name="add_subckt">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#a0c4e8ac6ef54cc6495938ba83252a614" title="my_strtok" alt="" coords="161,5,239,32"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="158,56,242,83"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="307,107,389,133"/>
+<area shape="rect" id="node7" href="$d0/d74/read__blif_8c.html#a7dd5904ad8f33040d3cfbdb7c6a23c4e" title="add_vpack_net" alt="" coords="145,157,255,184"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="306,208,390,235"/>
+<area shape="rect" id="node10" href="$d8/d3c/util_8h.html#a122391cf5ffec82660391de1985ca799" title="my_atoi" alt="" coords="167,259,233,285"/>
+<area shape="rect" id="node3" href="$de/df1/util_8c.html#a8472f1ae002ee260debe9296ea660e60" title="my_fgets" alt="" coords="311,5,385,32"/>
+<area shape="rect" id="node6" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="441,107,525,133"/>
+<area shape="rect" id="node8" href="$d1/d04/hash_8c.html#a9186b5f092351c329fce5acb2f56823a" title="hash_value" alt="" coords="304,157,392,184"/>
+</map>

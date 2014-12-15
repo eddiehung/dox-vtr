@@ -1,0 +1,8 @@
+<map id="reset_legalizer_for_cluster" name="reset_legalizer_for_cluster">
+<area shape="rect" id="node2" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="181,13,280,40"/>
+<area shape="rect" id="node6" href="$d6/d82/vpr__api_8c.html#a19ab847263a38002b1522989edf297e8" title="clay_logical_equivalence\l_handling" alt="" coords="328,62,493,103"/>
+<area shape="rect" id="node3" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="375,8,446,35"/>
+<area shape="rect" id="node4" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="587,5,661,32"/>
+<area shape="rect" id="node5" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="755,39,805,65"/>
+<area shape="rect" id="node7" href="$db/dc2/vpr__api_8h.html#a6571e661b158cd25c1713da697be66eb" title="vpr_resync_post_route\l_netlist_to_TI_CLAY_v1\l_architecture" alt="" coords="542,56,706,112"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="place.c" name="place.c">
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html" title="util.h" alt="" coords="238,453,287,480"/>
+<area shape="rect" id="node8" href="$d1/d3f/vpr__types_8h.html" title="vpr_types.h" alt="" coords="223,80,311,107"/>
+<area shape="rect" id="node14" href="$d5/d87/globals_8h.html" title="globals.h" alt="" coords="691,80,764,107"/>
+<area shape="rect" id="node15" href="$d2/d2e/place_8h.html" title="place.h" alt="" coords="789,80,851,107"/>
+<area shape="rect" id="node16" href="$d3/dc8/read__place_8h.html" title="read_place.h" alt="" coords="875,80,969,107"/>
+<area shape="rect" id="node17" href="$de/d28/draw_8h.html" title="draw.h" alt="" coords="994,80,1053,107"/>
+<area shape="rect" id="node18" href="$d5/d5a/place__and__route_8h.html" title="place_and_route.h" alt="" coords="1078,80,1204,107"/>
+<area shape="rect" id="node19" href="$d4/d8c/net__delay_8h.html" title="net_delay.h" alt="" coords="1229,80,1315,107"/>
+<area shape="rect" id="node20" href="$dd/de5/path__delay_8h.html" title="path_delay.h" alt="" coords="1339,80,1433,107"/>
+<area shape="rect" id="node21" href="$dd/d75/timing__place__lookup_8h.html" title="timing_place_lookup.h" alt="" coords="1458,80,1608,107"/>
+<area shape="rect" id="node22" href="$db/d3c/timing__place_8h.html" title="timing_place.h" alt="" coords="1633,80,1737,107"/>
+<area shape="rect" id="node23" href="$d3/dda/place__stats_8h.html" title="place_stats.h" alt="" coords="1763,80,1861,107"/>
+<area shape="rect" id="node24" href="$d9/d15/read__xml__arch__file_8h.html" title="read_xml_arch_file.h" alt="" coords="335,80,473,107"/>
+<area shape="rect" id="node25" href="$d6/dff/ReadOptions_8h.html" title="ReadOptions.h" alt="" coords="1885,80,1992,107"/>
+<area shape="rect" id="node27" href="$df/dde/vpr__utils_8h.html" title="vpr_utils.h" alt="" coords="442,229,523,256"/>
+<area shape="rect" id="node28" href="$d2/d6a/place__macro_8h.html" title="place_macro.h" alt="" coords="2016,80,2123,107"/>
+<area shape="rect" id="node9" href="$d5/d3c/arch__types_8h.html" title="arch_types.h" alt="" coords="239,155,333,181"/>
+<area shape="rect" id="node10" href="$d5/d14/logic__types_8h.html" title="logic_types.h" alt="" coords="195,379,292,405"/>
+<area shape="rect" id="node11" href="$df/d81/physical__types_8h.html" title="physical_types.h" alt="" coords="199,304,315,331"/>
+<area shape="rect" id="node12" href="$d5/d3f/cad__types_8h.html" title="cad_types.h" alt="" coords="127,229,217,256"/>
+<area shape="rect" id="node26" href="$d9/dde/OptionTokens_8h.html" title="OptionTokens.h" alt="" coords="1882,155,1995,181"/>
+</map>

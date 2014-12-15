@@ -1,0 +1,6 @@
+<map id="init_draw_coords" name="init_draw_coords">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="174,5,258,32"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#aec3c7f5d4d08227f6fa4fd6d2f5666a5" title="init_world" alt="" coords="177,56,255,83"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a614eb46d173ea777921656c425f6a151" title="update_transform" alt="" coords="317,31,440,57"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#abcfab372ab6921c7ffaf7707ae311670" title="update_ps_transform" alt="" coords="307,81,451,108"/>
+</map>

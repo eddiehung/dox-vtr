@@ -1,0 +1,16 @@
+<map id="power_cmos_tech.c" name="power_cmos_tech.c">
+<area shape="rect" id="node4" href="$db/d3f/power__cmos__tech_8h.html" title="power_cmos_tech.h" alt="" coords="235,155,373,181"/>
+<area shape="rect" id="node5" href="$d3/d6a/power_8h.html" title="power.h" alt="" coords="588,229,655,256"/>
+<area shape="rect" id="node10" href="$d8/d3c/util_8h.html" title="util.h" alt="" coords="713,677,761,704"/>
+<area shape="rect" id="node18" href="$df/dda/PowerSpicedComponent_8h.html" title="PowerSpicedComponent.h" alt="" coords="245,304,419,331"/>
+<area shape="rect" id="node20" href="$d7/d6e/power__util_8h.html" title="power_util.h" alt="" coords="576,80,667,107"/>
+<area shape="rect" id="node22" href="$da/dac/ezxml_8h.html" title="ezxml.h" alt="" coords="910,677,975,704"/>
+<area shape="rect" id="node25" href="$d9/dcc/read__xml__util_8h.html" title="read_xml_util.h" alt="" coords="851,603,959,629"/>
+<area shape="rect" id="node26" href="$da/dac/power__callibrate_8h.html" title="power_callibrate.h" alt="" coords="398,155,524,181"/>
+<area shape="rect" id="node7" href="$d1/d3f/vpr__types_8h.html" title="vpr_types.h" alt="" coords="577,304,665,331"/>
+<area shape="rect" id="node8" href="$d5/d3c/arch__types_8h.html" title="arch_types.h" alt="" coords="574,379,668,405"/>
+<area shape="rect" id="node9" href="$d5/d14/logic__types_8h.html" title="logic_types.h" alt="" coords="506,603,603,629"/>
+<area shape="rect" id="node15" href="$df/d81/physical__types_8h.html" title="physical_types.h" alt="" coords="679,528,795,555"/>
+<area shape="rect" id="node16" href="$d5/d3f/cad__types_8h.html" title="cad_types.h" alt="" coords="587,453,677,480"/>
+<area shape="rect" id="node21" href="$d9/dc0/power__components_8h.html" title="power_components.h" alt="" coords="549,155,693,181"/>
+</map>

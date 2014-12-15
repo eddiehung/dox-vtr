@@ -1,0 +1,8 @@
+<map id="GetNodeTokens" name="GetNodeTokens">
+<area shape="rect" id="node2" href="$dc/db8/read__netlist_8h.html#a5d118d7a4eb7341e0ea00b037fa6e429" title="read_netlist" alt="" coords="237,12,326,39"/>
+<area shape="rect" id="node5" href="$d9/d03/read__netlist_8c.html#a3a4682aff85fb23a8198a59fb6e53f33" title="processPorts" alt="" coords="232,63,331,89"/>
+<area shape="rect" id="node6" href="$d7/dcd/read__xml__arch__file_8c.html#ab08073afa63331f6e9291273462c326e" title="SetupPinLocationsAndPinClasses" alt="" coords="171,113,392,140"/>
+<area shape="rect" id="node3" href="$db/dc2/vpr__api_8h.html#a6e121f7670c1d36e3ff4733f5f9b7fb3" title="vpr_init_pre_place\l_and_route" alt="" coords="457,5,583,46"/>
+<area shape="rect" id="node4" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="648,12,699,39"/>
+<area shape="rect" id="node7" href="$d7/dcd/read__xml__arch__file_8c.html#ae83694ad47fb1f7c7aa96e9ba069cc53" title="ProcessComplexBlocks" alt="" coords="440,113,600,140"/>
+</map>

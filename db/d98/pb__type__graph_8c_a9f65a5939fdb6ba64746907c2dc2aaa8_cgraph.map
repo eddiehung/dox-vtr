@@ -1,0 +1,21 @@
+<map id="alloc_and_load_pb_graph" name="alloc_and_load_pb_graph">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="947,324,1027,351"/>
+<area shape="rect" id="node3" href="$db/d98/pb__type__graph_8c.html#ae046576d964528bfb9e47e02382749ae" title="alloc_and_load_mode\l_interconnect" alt="" coords="221,173,368,214"/>
+<area shape="rect" id="node4" href="$db/d98/pb__type__graph_8c.html#a49a3b9da0f1e90b6c95981aa913385a7" title="alloc_and_load_port\l_pin_ptrs_from_string" alt="" coords="452,469,599,510"/>
+<area shape="rect" id="node15" href="$db/d98/pb__type__graph_8c.html#a5cc42ce9f35569652043449031338809" title="alloc_and_load_interconnect_pins" alt="" coords="417,71,634,98"/>
+<area shape="rect" id="node16" href="$db/d98/pb__type__graph_8c.html#a80ab891649496b073549072a1a62db45" title="alloc_and_load_complete\l_interc_edges" alt="" coords="441,304,609,345"/>
+<area shape="rect" id="node19" href="$db/d98/pb__type__graph_8c.html#a2ffa427ee05c3a27511444c0b92f9a29" title="alloc_and_load_direct\l_interc_edges" alt="" coords="452,173,599,214"/>
+<area shape="rect" id="node20" href="$db/d98/pb__type__graph_8c.html#ad9dcc362664d52e58c8c2ed237ef0b24" title="alloc_and_load_mux\l_interc_edges" alt="" coords="456,238,595,280"/>
+<area shape="rect" id="node5" href="$d5/d7b/token_8c.html#a1be2d76144c2a43b26fcf56916eecc97" title="GetTokensFromString" alt="" coords="686,527,837,554"/>
+<area shape="rect" id="node10" href="$db/d98/pb__type__graph_8c.html#afa157e74d3fbb998d23d21883dfe55b0" title="realloc_and_load_pb\l_graph_pin_ptrs_at_var" alt="" coords="683,578,840,620"/>
+<area shape="rect" id="node14" href="$d5/d7b/token_8c.html#aa304786b0d4f48baed57d2fed8fe97b4" title="freeTokens" alt="" coords="718,476,805,503"/>
+<area shape="rect" id="node6" href="$d5/d7b/token_8c.html#af55ff41efb3ede8abb041fe05707c3d6" title="GetTokenTypeFromChar" alt="" coords="905,476,1069,503"/>
+<area shape="rect" id="node8" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="945,527,1028,554"/>
+<area shape="rect" id="node7" href="$d9/dcc/read__xml__util_8h.html#a5713532572dba05a4be93501e6edc4c9" title="IsWhitespace" alt="" coords="1133,476,1235,503"/>
+<area shape="rect" id="node9" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="1142,527,1226,554"/>
+<area shape="rect" id="node11" href="$d5/d7b/token_8c.html#ab27f38099864de10bae790da03d46428" title="checkTokenType" alt="" coords="926,628,1047,655"/>
+<area shape="rect" id="node12" href="$d8/d3c/util_8h.html#a122391cf5ffec82660391de1985ca799" title="my_atoi" alt="" coords="953,679,1020,706"/>
+<area shape="rect" id="node13" href="$db/d98/pb__type__graph_8c.html#af34dca8492607422a19af3021cbcb570" title="get_pb_graph_pin_from_name" alt="" coords="889,578,1085,604"/>
+<area shape="rect" id="node17" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="719,223,803,250"/>
+<area shape="rect" id="node18" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="719,274,803,300"/>
+</map>

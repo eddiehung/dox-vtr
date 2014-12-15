@@ -1,0 +1,35 @@
+<map id="power_usage_mux_for_callibration" name="power_usage_mux_for_callibration">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="970,618,1054,644"/>
+<area shape="rect" id="node3" href="$d7/dde/power__components_8c.html#a7f9738431f1da667ff3f5e2b7fcd53d8" title="power_usage_mux_multilevel" alt="" coords="205,212,397,239"/>
+<area shape="rect" id="node29" href="$d5/dc1/power__util_8c.html#a261868edb06cfafcb7abfe62ca1ce779" title="power_get_mux_arch" alt="" coords="229,614,374,640"/>
+<area shape="rect" id="node34" href="$d5/dc1/power__util_8c.html#a3b77219acbfc8eec4d3cd3664ccf04c0" title="power_sum_usage" alt="" coords="236,664,367,691"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="1827,443,1907,470"/>
+<area shape="rect" id="node5" href="$d5/dc1/power__util_8c.html#a26404a7d37a01ef62f62e3713131099d" title="power_zero_usage" alt="" coords="947,332,1077,359"/>
+<area shape="rect" id="node6" href="$d5/dc1/power__util_8c.html#aa09b194d2e62425aa56d481127f3c04a" title="mux_find_selector_values" alt="" coords="445,312,616,339"/>
+<area shape="rect" id="node7" href="$d7/dde/power__components_8c.html#a352d006214fb3a2f93ba54a6b157c19e" title="power_usage_mux_rec" alt="" coords="453,363,608,390"/>
+<area shape="rect" id="node24" href="$de/db0/classPowerSpicedComponent.html#a9e3a3eea3c9fff1e2dd4a53b759be202" title="PowerSpicedComponent\l::is_done_callibration" alt="" coords="448,121,613,162"/>
+<area shape="rect" id="node25" href="$de/db0/classPowerSpicedComponent.html#a86b4fca33ee6357a41cb5d6001bd9d08" title="PowerSpicedComponent\l::scale_factor" alt="" coords="448,56,613,97"/>
+<area shape="rect" id="node28" href="$d5/dc1/power__util_8c.html#ad77d769d4eba195188fc6dfe9d0f5410" title="power_scale_usage" alt="" coords="462,187,599,214"/>
+<area shape="rect" id="node8" href="$dc/d49/power__lowlevel_8c.html#ac0121bbc42c3981a9052bf68af96db91" title="power_usage_mux_singlelevel\l_static" alt="" coords="665,428,863,469"/>
+<area shape="rect" id="node23" href="$d5/dc1/power__util_8c.html#afc5b255a8ba0a8623b3ce61d6b2c3bb8" title="power_add_usage" alt="" coords="701,363,827,390"/>
+<area shape="rect" id="node9" href="$dc/d49/power__lowlevel_8c.html#ac525359fef9deeb6679ab7e6d949d60c" title="power_calc_transistor\l_capacitance" alt="" coords="937,434,1087,476"/>
+<area shape="rect" id="node16" href="$dc/d49/power__lowlevel_8c.html#a301148950c28ef111f97ffd9a820238e" title="power_calc_node_switching_v" alt="" coords="913,500,1111,527"/>
+<area shape="rect" id="node17" href="$dc/d49/power__lowlevel_8c.html#a65d0918986e96ed76193a7bb34649279" title="power_calc_mux_v_out" alt="" coords="933,383,1091,410"/>
+<area shape="rect" id="node20" href="$dc/d49/power__lowlevel_8c.html#ac8b9a1080943bcd11e3c706a6add1ae2" title="power_calc_leakage\l_st_pass_transistor" alt="" coords="942,552,1082,593"/>
+<area shape="rect" id="node10" href="$d2/d55/power__cmos__tech_8c.html#a4906027a4e93482c1455e203ed372e91" title="power_find_transistor_info" alt="" coords="1161,442,1335,468"/>
+<area shape="rect" id="node11" href="$d5/dc1/power__util_8c.html#aad9d874982fa729ad5063fbc11aaa791" title="power_log_msg" alt="" coords="1430,503,1543,530"/>
+<area shape="rect" id="node14" href="$d2/d55/power__cmos__tech_8c.html#a6df8cc432666c71a9a606f72080071ab" title="power_compare_transistor_size" alt="" coords="1384,452,1589,479"/>
+<area shape="rect" id="node15" href="$d5/dc1/power__util_8c.html#a60b7d0ee9331d95f7d06b2914c9ef6c7" title="transistor_type_name" alt="" coords="1413,402,1560,428"/>
+<area shape="rect" id="node12" href="$d5/dc1/power__util_8c.html#a442cee8e7e5023432a29d09588a3f9b2" title="log_msg" alt="" coords="1671,503,1742,530"/>
+<area shape="rect" id="node13" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="1825,564,1909,591"/>
+<area shape="rect" id="node18" href="$d2/d55/power__cmos__tech_8c.html#a38ec8f73e8a2c1420bcb615a121693ce" title="power_find_mux_volt_inf" alt="" coords="1166,372,1330,399"/>
+<area shape="rect" id="node19" href="$d2/d55/power__cmos__tech_8c.html#a389619570dc8dbd238470af00c74a351" title="power_compare_voltage_pair" alt="" coords="1391,351,1582,378"/>
+<area shape="rect" id="node21" href="$d2/d55/power__cmos__tech_8c.html#ae320bc24ba32c28712f70f24174bb66f" title="power_find_nmos_leakage" alt="" coords="1161,594,1335,620"/>
+<area shape="rect" id="node22" href="$d2/d55/power__cmos__tech_8c.html#a082b3f30aaebdf3ffe7b6037c61ae584" title="power_compare_leakage_pair" alt="" coords="1389,594,1584,620"/>
+<area shape="rect" id="node26" href="$de/db0/classPowerSpicedComponent.html#adb38f286a67baeb6c7bc7a9ca29ddfea" title="PowerSpicedComponent\l::get_entry_bound" alt="" coords="681,121,847,162"/>
+<area shape="rect" id="node27" href="$d4/d2b/classPowerCallibInputs.html#a4b9e2d6ca3b90140c8a2d5aff8f048dc" title="PowerCallibInputs::\lget_entry_bound" alt="" coords="697,56,831,97"/>
+<area shape="rect" id="node30" href="$d5/dc1/power__util_8c.html#af615f095306c4e92fcbc78e4b04c31a5" title="init_mux_arch_default" alt="" coords="457,618,605,644"/>
+<area shape="rect" id="node31" href="$d5/dc1/power__util_8c.html#a1b13574ffb6e9311e590ca4291dd3c8c" title="mux_arch_fix_levels" alt="" coords="695,676,833,703"/>
+<area shape="rect" id="node32" href="$d5/dc1/power__util_8c.html#a41df01e50f192510c558b5a98d0cdc99" title="alloc_and_load_mux\l_graph" alt="" coords="695,610,833,652"/>
+<area shape="rect" id="node33" href="$d5/dc1/power__util_8c.html#a709894ee9ea2a743999c6cbd3cf83fea" title="alloc_and_load_mux\l_graph_recursive" alt="" coords="1637,592,1776,633"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="comp_bb_cost" name="comp_bb_cost">
+<area shape="rect" id="node2" href="$d5/d28/place_8c.html#a3ef89b6a9907bcd9fba08d6ed89fc39f" title="get_bb_from_scratch" alt="" coords="168,5,312,32"/>
+<area shape="rect" id="node3" href="$d5/d28/place_8c.html#a1d93c15d44b818d4f8d62c46f09ca9b3" title="get_non_updateable_bb" alt="" coords="161,56,319,83"/>
+<area shape="rect" id="node4" href="$d5/d28/place_8c.html#a05c8129a438817c45b99796442879f17" title="get_net_cost" alt="" coords="191,107,289,133"/>
+<area shape="rect" id="node5" href="$d5/d28/place_8c.html#a768f1314da0fc1bf1fa89eab347d5923" title="get_net_wirelength\l_estimate" alt="" coords="175,158,305,199"/>
+</map>

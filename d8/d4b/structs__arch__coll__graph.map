@@ -1,0 +1,14 @@
+<map id="s_arch" name="s_arch">
+<area shape="rect" id="node2" href="$d7/db8/structs__direct__inf.html" title="s_direct_inf" alt="" coords="269,5,358,32"/>
+<area shape="rect" id="node3" href="$d0/d70/structs__clb__grid.html" title="s_clb_grid" alt="" coords="273,56,354,83"/>
+<area shape="rect" id="node4" href="$dd/d19/structs__power__arch.html" title="s_power_arch" alt="" coords="262,107,365,133"/>
+<area shape="rect" id="node5" href="$d4/d53/structs__clock__arch.html" title="s_clock_arch" alt="" coords="264,157,363,184"/>
+<area shape="rect" id="node6" href="$d8/d16/structs__clock__network.html" title="s_clock_network" alt="" coords="5,143,125,169"/>
+<area shape="rect" id="node7" href="$df/da1/structs__model.html" title="s_model" alt="" coords="278,247,349,273"/>
+<area shape="rect" id="node8" href="$dd/d9f/structs__linked__vptr.html" title="s_linked_vptr" alt="" coords="16,232,115,259"/>
+<area shape="rect" id="node9" href="$d6/d58/structs__model__ports.html" title="s_model_ports" alt="" coords="12,321,119,348"/>
+<area shape="rect" id="node10" href="$d2/dae/structs__segment__inf.html" title="s_segment_inf" alt="" coords="260,297,367,324"/>
+<area shape="rect" id="node11" href="$dc/d9b/structs__chan__width__dist.html" title="s_chan_width_dist" alt="" coords="248,348,379,375"/>
+<area shape="rect" id="node12" href="$d1/d39/structs__chan.html" title="s_chan" alt="" coords="33,372,97,399"/>
+<area shape="rect" id="node13" href="$d2/d6d/structs__switch__inf.html" title="s_switch_inf" alt="" coords="266,399,361,425"/>
+</map>

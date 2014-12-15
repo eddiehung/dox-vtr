@@ -1,0 +1,6 @@
+<map id="mark_and_update_partial_gain" name="mark_and_update_partial_gain">
+<area shape="rect" id="node2" href="$d6/d8f/vpr__utils_8c.html#a082d82106a804634d9fe57e49c186ca4" title="num_ext_inputs_logical\l_block" alt="" coords="256,5,413,46"/>
+<area shape="rect" id="node3" href="$d9/d4d/cluster_8c.html#a02067ece1ef617eb369ccc184b920bc0" title="update_connection_gain\l_values" alt="" coords="253,70,416,111"/>
+<area shape="rect" id="node5" href="$d9/d4d/cluster_8c.html#a82659939c9c4ec46da0d66c5265a53b0" title="update_timing_gain\l_values" alt="" coords="267,135,402,177"/>
+<area shape="rect" id="node4" href="$d9/d4d/cluster_8c.html#a59c023a16b5edfd5235a043e4d2e68ea" title="is_logical_blk_in_pb" alt="" coords="464,77,603,104"/>
+</map>

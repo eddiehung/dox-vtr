@@ -1,0 +1,7 @@
+<map id="power_component_get_usage_sum" name="power_component_get_usage_sum">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html#a85ce5cbdf02146d270aca4af3b035480" title="power_print_breakdown\l_pb_rec" alt="" coords="209,5,367,46"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#a6b2f63cc60c42070edcff07d9e9ef940" title="power_print_breakdown_pb" alt="" coords="417,12,597,39"/>
+<area shape="rect" id="node4" href="$d3/d6a/power_8h.html#a618a0ec5323986d02d47962e3153f00a" title="power_total" alt="" coords="646,12,735,39"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="784,12,933,39"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="981,12,1032,39"/>
+</map>

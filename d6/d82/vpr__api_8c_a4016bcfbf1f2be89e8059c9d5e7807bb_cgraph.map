@@ -1,0 +1,8 @@
+<map id="free_circuit" name="free_circuit">
+<area shape="rect" id="node2" href="$d9/d03/read__netlist_8c.html#accc27476c027f810a45570658afb28a3" title="free_logical_blocks" alt="" coords="141,5,275,32"/>
+<area shape="rect" id="node3" href="$d9/d03/read__netlist_8c.html#a39519519da078c949aff8ab9b25e5cc6" title="free_logical_nets" alt="" coords="148,56,268,83"/>
+<area shape="rect" id="node4" href="$d6/d8f/vpr__utils_8c.html#ab8538c85f12e6ae1afa752c9b88bb007" title="free_cb" alt="" coords="175,107,241,133"/>
+<area shape="rect" id="node5" href="$d6/d8f/vpr__utils_8c.html#ac63433767f7ea088bd9adaa995560bab" title="free_pb" alt="" coords="323,107,389,133"/>
+<area shape="rect" id="node6" href="$de/d3a/cluster__placement_8c.html#a09819ffc3d7b6e34427b9a41fecaaf5a" title="get_array_size_of_molecule" alt="" coords="438,81,621,108"/>
+<area shape="rect" id="node7" href="$d6/d8f/vpr__utils_8c.html#ad1a6c7cb515c3fcb73f688bd19b5353e" title="free_pb_stats" alt="" coords="479,132,580,159"/>
+</map>

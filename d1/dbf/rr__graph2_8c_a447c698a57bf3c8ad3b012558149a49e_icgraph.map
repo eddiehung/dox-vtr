@@ -1,0 +1,17 @@
+<map id="label_wire_muxes_for_balance" name="label_wire_muxes_for_balance">
+<area shape="rect" id="node2" href="$d1/dbf/rr__graph2_8c.html#a301245b47823015b6c2ca671f453689b" title="get_unidir_track_to\l_chan_seg" alt="" coords="201,23,333,65"/>
+<area shape="rect" id="node3" href="$df/d2a/rr__graph2_8h.html#a6ee07392330e5b581202f115f7cbf0a2" title="get_track_to_tracks" alt="" coords="382,31,519,57"/>
+<area shape="rect" id="node4" href="$d9/db8/rr__graph_8c.html#a5cdc9458f147b53b30a6b152ceb4ae7f" title="build_rr_xchan" alt="" coords="569,5,674,32"/>
+<area shape="rect" id="node5" href="$d9/db8/rr__graph_8c.html#ad120b3abace09db91092810a403da453" title="build_rr_ychan" alt="" coords="569,56,674,83"/>
+<area shape="rect" id="node6" href="$d9/db8/rr__graph_8c.html#ac94c505cd69b035cd068ec6c699d73ae" title="alloc_and_load_rr_graph" alt="" coords="723,56,885,83"/>
+<area shape="rect" id="node7" href="$df/dfd/rr__graph_8h.html#ab91403e0b20fd553939d4e5e5ff41ad7" title="build_rr_graph" alt="" coords="934,56,1037,83"/>
+<area shape="rect" id="node8" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="1851,49,1991,90"/>
+<area shape="rect" id="node12" href="$de/dbf/route__export_8h.html#ad38805571e14b11ab1c4354866206507" title="try_route" alt="" coords="1729,5,1801,32"/>
+<area shape="rect" id="node13" href="$d5/d01/timing__place__lookup_8c.html#aae763ba8510489478024b2700f61be1d" title="alloc_routing_structs" alt="" coords="1086,111,1229,137"/>
+<area shape="rect" id="node9" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="2040,56,2157,83"/>
+<area shape="rect" id="node10" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="2206,56,2349,83"/>
+<area shape="rect" id="node11" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2397,56,2448,83"/>
+<area shape="rect" id="node14" href="$dd/d75/timing__place__lookup_8h.html#a1d2181b94fee952fc0d04599df134407" title="compute_delay_lookup\l_tables" alt="" coords="1277,107,1432,149"/>
+<area shape="rect" id="node15" href="$db/d3c/timing__place_8h.html#a1565c2ac95e3032c61718efd0e711951" title="alloc_lookups_and_criticalities" alt="" coords="1481,115,1679,141"/>
+<area shape="rect" id="node16" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="1728,115,1803,141"/>
+</map>

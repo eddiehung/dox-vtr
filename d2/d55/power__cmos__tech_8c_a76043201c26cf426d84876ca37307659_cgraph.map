@@ -1,0 +1,15 @@
+<map id="power_tech_xml_load_component" name="power_tech_xml_load_component">
+<area shape="rect" id="node2" href="$d9/dcc/read__xml__util_8h.html#a858591b3d7eaf692816ea613eff13890" title="FindElement" alt="" coords="213,56,307,83"/>
+<area shape="rect" id="node4" href="$d9/dcc/read__xml__util_8h.html#a9e432c636e7b2baee01eaa55ea813cdb" title="FindFirstElement" alt="" coords="200,5,320,32"/>
+<area shape="rect" id="node5" href="$d9/dcc/read__xml__util_8h.html#a33898b28c687fe6adfd00740aa621edf" title="GetIntProperty" alt="" coords="207,157,313,184"/>
+<area shape="rect" id="node12" href="$d9/dcc/read__xml__util_8h.html#a48d9654e89589fd3f8a59880bcf1ca8d" title="GetFloatProperty" alt="" coords="200,107,320,133"/>
+<area shape="rect" id="node13" href="$d9/dcc/read__xml__util_8h.html#a05e05d34a0e16bf8005a91d9b91fc347" title="FreeNode" alt="" coords="221,220,299,247"/>
+<area shape="rect" id="node3" href="$d4/d44/ezxml_8c.html#a919b55676e0245e2347dcca26d727145" title="ezxml_child" alt="" coords="377,24,466,51"/>
+<area shape="rect" id="node6" href="$dc/d7c/read__xml__util_8c.html#a86ad965dc05e08e29eb6f4f063cae0f0" title="FindProperty" alt="" coords="374,144,469,171"/>
+<area shape="rect" id="node8" href="$d8/d3c/util_8h.html#a122391cf5ffec82660391de1985ca799" title="my_atoi" alt="" coords="388,195,455,221"/>
+<area shape="rect" id="node9" href="$d4/d44/ezxml_8c.html#a4369a56a65a27c4e9836aa78f42ffa14" title="ezxml_set_attr" alt="" coords="368,93,475,120"/>
+<area shape="rect" id="node7" href="$d4/d44/ezxml_8c.html#a48c47c7d79e06e6895bf1e18a2a71957" title="ezxml_attr" alt="" coords="523,144,605,171"/>
+<area shape="rect" id="node10" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="523,93,605,120"/>
+<area shape="rect" id="node11" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="654,93,738,120"/>
+<area shape="rect" id="node14" href="$dc/d7c/read__xml__util_8c.html#a5713532572dba05a4be93501e6edc4c9" title="IsWhitespace" alt="" coords="371,245,472,272"/>
+</map>

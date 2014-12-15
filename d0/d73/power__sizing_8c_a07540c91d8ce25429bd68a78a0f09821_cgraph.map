@@ -1,0 +1,6 @@
+<map id="power_count_transistors_buffer" name="power_count_transistors_buffer">
+<area shape="rect" id="node2" href="$d5/dc1/power__util_8c.html#a943596ff8a489a822f137966888fb690" title="power_calc_buffer_num\l_stages" alt="" coords="234,5,393,46"/>
+<area shape="rect" id="node3" href="$d5/dc1/power__util_8c.html#aeaefc8b17f66020002f7a0ccb8b41a74" title="calc_buffer_stage_effort" alt="" coords="233,71,393,97"/>
+<area shape="rect" id="node4" href="$d0/d73/power__sizing_8c.html#a81d8d620f681fee39c6674fcfb5267cf" title="power_count_transistors_inv" alt="" coords="219,121,407,148"/>
+<area shape="rect" id="node5" href="$d0/d73/power__sizing_8c.html#ab0c52503c3bed7180ff79cfa38a71c4d" title="power_MTAs" alt="" coords="456,121,555,148"/>
+</map>

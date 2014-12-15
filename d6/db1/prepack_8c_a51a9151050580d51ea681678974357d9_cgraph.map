@@ -1,0 +1,18 @@
+<map id="alloc_and_load_pack_molecules" name="alloc_and_load_pack_molecules">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="432,5,512,32"/>
+<area shape="rect" id="node3" href="$d6/db1/prepack_8c.html#a28e6e4ad7f720a1d40b46a414a77e03e" title="compare_pack_pattern" alt="" coords="197,56,352,83"/>
+<area shape="rect" id="node4" href="$d6/db1/prepack_8c.html#aeea9e20ea6d349e2467e3ed595520b76" title="try_create_molecule" alt="" coords="205,107,344,133"/>
+<area shape="rect" id="node8" href="$d6/db1/prepack_8c.html#a1a8d33614ce88cf318a8208a63b147b3" title="get_expected_lowest\l_cost_primitive_for\l_logical_block" alt="" coords="203,157,347,213"/>
+<area shape="rect" id="node11" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="233,237,317,264"/>
+<area shape="rect" id="node12" href="$da/de8/ReadOptions_8c.html#a67e71380c30310e66ebfa46e7701c43d" title="getEchoEnabled" alt="" coords="217,288,332,315"/>
+<area shape="rect" id="node13" href="$da/de8/ReadOptions_8c.html#a39049f75bed23a03f48d428d056876be" title="isEchoFileEnabled" alt="" coords="211,339,339,365"/>
+<area shape="rect" id="node14" href="$d6/db1/prepack_8c.html#abea6569f9917f7c9b5ecc82ad8d667c5" title="print_pack_molecules" alt="" coords="201,389,349,416"/>
+<area shape="rect" id="node17" href="$da/de8/ReadOptions_8c.html#a0ccc74aaef0e224700e9a7395e8e6e37" title="getEchoFileName" alt="" coords="212,440,337,467"/>
+<area shape="rect" id="node5" href="$d6/db1/prepack_8c.html#a34a59182b2bc43afb2c977989bf53084" title="find_new_root_atom\l_for_chain" alt="" coords="403,57,541,98"/>
+<area shape="rect" id="node7" href="$d6/db1/prepack_8c.html#ad757a040cc9eb978af11b39367ca57fa" title="try_expand_molecule" alt="" coords="401,123,543,149"/>
+<area shape="rect" id="node6" href="$d6/d8f/vpr__utils_8c.html#aa8f544aaadda4c1296f4640624e9f4c5" title="primitive_type_feasible" alt="" coords="612,123,767,149"/>
+<area shape="rect" id="node9" href="$d6/db1/prepack_8c.html#a02b0155c70ce09d41fbe758532222762" title="get_expected_lowest\l_cost_primitive_for\l_logical_block_in_pb\l_graph_node" alt="" coords="400,174,544,245"/>
+<area shape="rect" id="node10" href="$d6/d8f/vpr__utils_8c.html#af050d17e0084d41158191e7b7da646ee" title="compute_primitive_base_cost" alt="" coords="592,196,787,223"/>
+<area shape="rect" id="node15" href="$d8/d3c/util_8h.html#a6a12ccf37f0a3ff2dcc67ab2015701d6" title="my_fopen" alt="" coords="433,389,511,416"/>
+<area shape="rect" id="node16" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="647,389,731,416"/>
+</map>

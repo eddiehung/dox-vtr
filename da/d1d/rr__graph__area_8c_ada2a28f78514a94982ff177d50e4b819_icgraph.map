@@ -1,0 +1,11 @@
+<map id="trans_per_buf" name="trans_per_buf">
+<area shape="rect" id="node2" href="$da/d1d/rr__graph__area_8c.html#a8f9522db84b570c41750a967b2036677" title="count_bidir_routing\l_transistors" alt="" coords="372,18,503,59"/>
+<area shape="rect" id="node9" href="$da/d1d/rr__graph__area_8c.html#adab442b23baa2774a792199aef6f9fa6" title="count_unidir_routing\l_transistors" alt="" coords="368,83,507,124"/>
+<area shape="rect" id="node10" href="$da/d1d/rr__graph__area_8c.html#acd423bc8c6f49303b0d214140f2b9f04" title="alloc_and_load_sharable\l_switch_trans" alt="" coords="155,24,319,66"/>
+<area shape="rect" id="node3" href="$dd/db8/rr__graph__area_8h.html#a00c93da36a94c5819e6719d8f9281560" title="count_routing_transistors" alt="" coords="555,58,723,85"/>
+<area shape="rect" id="node4" href="$d9/d9b/stats_8h.html#a93e3d9b7f6c5e2c2c3e6a4b7b4eaedd1" title="routing_stats" alt="" coords="771,58,869,85"/>
+<area shape="rect" id="node5" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="1107,58,1224,85"/>
+<area shape="rect" id="node8" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="918,80,1058,122"/>
+<area shape="rect" id="node6" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="1273,58,1415,85"/>
+<area shape="rect" id="node7" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1464,58,1515,85"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="print_critical_path" name="print_critical_path">
+<area shape="rect" id="node2" href="$dd/de5/path__delay_8h.html#aec547b889c10acf3c1dfc1e79c1cf780" title="do_constant_net_delay\l_timing_analysis" alt="" coords="179,5,333,46"/>
+<area shape="rect" id="node5" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="219,71,293,97"/>
+<area shape="rect" id="node9" href="$d9/d9b/stats_8h.html#a93e3d9b7f6c5e2c2c3e6a4b7b4eaedd1" title="routing_stats" alt="" coords="207,121,305,148"/>
+<area shape="rect" id="node3" href="$db/dc2/vpr__api_8h.html#a6e121f7670c1d36e3ff4733f5f9b7fb3" title="vpr_init_pre_place\l_and_route" alt="" coords="571,18,698,59"/>
+<area shape="rect" id="node4" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="939,64,989,91"/>
+<area shape="rect" id="node6" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="576,109,693,136"/>
+<area shape="rect" id="node8" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="382,114,522,155"/>
+<area shape="rect" id="node7" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="747,93,890,120"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="init_route_structs" name="init_route_structs">
+<area shape="rect" id="node2" href="$d7/d1b/route__common_8c.html#ab8e9188490acf98733ee6df4ba167aac" title="free_traceback" alt="" coords="177,5,285,32"/>
+<area shape="rect" id="node4" href="$d7/d1b/route__common_8c.html#aa43f5208b83882463011e9eb62477cbd" title="load_route_bb" alt="" coords="179,56,282,83"/>
+<area shape="rect" id="node3" href="$d7/d1b/route__common_8c.html#acdb143a41d61c725a42622a974cdd56a" title="free_trace_data" alt="" coords="333,5,445,32"/>
+</map>

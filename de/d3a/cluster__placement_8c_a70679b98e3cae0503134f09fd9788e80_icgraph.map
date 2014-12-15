@@ -1,0 +1,11 @@
+<map id="expand_pack_molecule_pin_edge" name="expand_pack_molecule_pin_edge">
+<area shape="rect" id="node2" href="$de/d3a/cluster__placement_8c.html#a39630ff51900ae3d2b4cc7f93e3d6557" title="expand_forced_pack\l_molecule_placement" alt="" coords="211,23,359,65"/>
+<area shape="rect" id="node3" href="$de/d3a/cluster__placement_8c.html#aee3b51d3420dbe1b0d1efd82ee6ba4f9" title="try_place_molecule" alt="" coords="408,31,541,57"/>
+<area shape="rect" id="node4" href="$dc/d07/cluster__placement_8h.html#a02570f11f187e9339f0c20c48265b976" title="get_next_primitive_list" alt="" coords="590,31,741,57"/>
+<area shape="rect" id="node5" href="$d9/d4d/cluster_8c.html#aeb0d64214d708417cf7c2edddcbfd38d" title="try_pack_molecule" alt="" coords="789,31,920,57"/>
+<area shape="rect" id="node6" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="981,5,1080,32"/>
+<area shape="rect" id="node10" href="$d9/d4d/cluster_8c.html#a5ab5154fd25a2c5c4918921718262c35" title="start_new_cluster" alt="" coords="968,56,1093,83"/>
+<area shape="rect" id="node7" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="1142,5,1213,32"/>
+<area shape="rect" id="node8" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="1261,5,1336,32"/>
+<area shape="rect" id="node9" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1384,5,1435,32"/>
+</map>

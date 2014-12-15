@@ -1,0 +1,25 @@
+var structs__pb__graph__node =
+[
+    [ "child_pb_graph_nodes", "dd/d8a/structs__pb__graph__node.html#acbbf22d8ad765acc5e7568b15ad1aa33", null ],
+    [ "clock_pins", "dd/d8a/structs__pb__graph__node.html#a48ed95c9a85d36d478d8097206e7fb1a", null ],
+    [ "cluster_placement_primitive", "dd/d8a/structs__pb__graph__node.html#a11b198008f687e5c55936c6dcc94cd2e", null ],
+    [ "input_pin_class_size", "dd/d8a/structs__pb__graph__node.html#ab5d3eaeed2116a7c1997bc785d89f067", null ],
+    [ "input_pins", "dd/d8a/structs__pb__graph__node.html#a173d74dc3cb727df5918c71e3731645d", null ],
+    [ "interconnect_pins", "dd/d8a/structs__pb__graph__node.html#ab8f8e2fe125d521c5048ca224d2fa94a", null ],
+    [ "num_clock_pins", "dd/d8a/structs__pb__graph__node.html#aec178624d03fe3b50d9d95cb9901b24b", null ],
+    [ "num_clock_ports", "dd/d8a/structs__pb__graph__node.html#afd9cbfbc1b699971650098738706b0e7", null ],
+    [ "num_input_pin_class", "dd/d8a/structs__pb__graph__node.html#ab6a1526f03f92f1af4ea7dd259b51fee", null ],
+    [ "num_input_pins", "dd/d8a/structs__pb__graph__node.html#a74fd695d40ca16180e8c28253bef188b", null ],
+    [ "num_input_ports", "dd/d8a/structs__pb__graph__node.html#a8f1137f1a23a7797a74f10d0bd768b45", null ],
+    [ "num_output_pin_class", "dd/d8a/structs__pb__graph__node.html#a9d61355664a06d650cfccd489fe11376", null ],
+    [ "num_output_pins", "dd/d8a/structs__pb__graph__node.html#a656f15721d9b241ae01f468fe6570784", null ],
+    [ "num_output_ports", "dd/d8a/structs__pb__graph__node.html#a4f543c0ea05008b73595435c2ed84d28", null ],
+    [ "output_pin_class_size", "dd/d8a/structs__pb__graph__node.html#aeeed62161b56eeed2589f5f428b7b243", null ],
+    [ "output_pins", "dd/d8a/structs__pb__graph__node.html#ac6aa0723e0f1cc9e1b59399a9e8159ca", null ],
+    [ "parent_pb_graph_node", "dd/d8a/structs__pb__graph__node.html#a499aed79c923f3841b1b6d70dcff800a", null ],
+    [ "pb_node_power", "dd/d8a/structs__pb__graph__node.html#aeec7d4b66bd219cb56ff18c02c452a23", null ],
+    [ "pb_type", "dd/d8a/structs__pb__graph__node.html#a7082d06d0ccb45c350159c9b858d5761", null ],
+    [ "placement_index", "dd/d8a/structs__pb__graph__node.html#a78ee75a519405cce96097938313bb8c7", null ],
+    [ "temp_scratch_pad", "dd/d8a/structs__pb__graph__node.html#a2b12cca266834ec3fed028fa8e89db33", null ],
+    [ "total_pb_pins", "dd/d8a/structs__pb__graph__node.html#aa6ddbc34334be902079a0c342c117c5f", null ]
+];

@@ -1,0 +1,7 @@
+<map id="alloc_and_init_pattern_list_from_hash" name="alloc_and_init_pattern_list_from_hash">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="245,5,325,32"/>
+<area shape="rect" id="node3" href="$d1/d04/hash_8c.html#aa6f91827d5079de29e30d30743717923" title="start_hash_table_iterator" alt="" coords="203,56,368,83"/>
+<area shape="rect" id="node4" href="$d1/d04/hash_8c.html#a50d103bd27ac63b792f3da08028ab10d" title="get_next_hash" alt="" coords="232,107,339,133"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="244,157,327,184"/>
+<area shape="rect" id="node6" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="417,157,501,184"/>
+</map>

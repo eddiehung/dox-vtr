@@ -1,0 +1,5 @@
+<map id="power_usage_local_pin_toggle" name="power_usage_local_pin_toggle">
+<area shape="rect" id="node2" href="$d5/dc1/power__util_8c.html#a26404a7d37a01ef62f62e3713131099d" title="power_zero_usage" alt="" coords="211,5,341,32"/>
+<area shape="rect" id="node3" href="$d5/dc1/power__util_8c.html#ab9018850b6e04a2839d86e52c29166d0" title="pin_prob" alt="" coords="241,56,311,83"/>
+<area shape="rect" id="node4" href="$d5/dc1/power__util_8c.html#a5ba5a7100c2588d90e91588daf7e2d41" title="pin_dens" alt="" coords="239,107,313,133"/>
+</map>

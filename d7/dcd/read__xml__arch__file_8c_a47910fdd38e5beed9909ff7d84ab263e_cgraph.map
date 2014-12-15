@@ -1,0 +1,34 @@
+<map id="ProcessPb_Type" name="ProcessPb_Type">
+<area shape="rect" id="node2" href="$d9/dcc/read__xml__util_8h.html#a31f341aeab673b749c0b4c00a7ecd0bb" title="FindProperty" alt="" coords="927,1509,1022,1536"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="1104,572,1187,598"/>
+<area shape="rect" id="node6" href="$d4/d44/ezxml_8c.html#a4369a56a65a27c4e9836aa78f42ffa14" title="ezxml_set_attr" alt="" coords="921,850,1028,877"/>
+<area shape="rect" id="node7" href="$d9/dcc/read__xml__util_8h.html#a33898b28c687fe6adfd00740aa621edf" title="GetIntProperty" alt="" coords="441,622,548,649"/>
+<area shape="rect" id="node10" href="$d9/dcc/read__xml__util_8h.html#a39c1816fd57030a77fa48fdf311f75b1" title="CountChildren" alt="" coords="698,1078,801,1105"/>
+<area shape="rect" id="node11" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="935,445,1015,472"/>
+<area shape="rect" id="node12" href="$d7/dcd/read__xml__arch__file_8c.html#a9c14ba5ffcebb2b1ec6f538cbd8f68cc" title="ProcessPb_TypePowerEstMethod" alt="" coords="385,1332,605,1358"/>
+<area shape="rect" id="node13" href="$d9/dcc/read__xml__util_8h.html#a9e432c636e7b2baee01eaa55ea813cdb" title="FindFirstElement" alt="" coords="689,1788,809,1814"/>
+<area shape="rect" id="node16" href="$d7/dcd/read__xml__arch__file_8c.html#af04238ce37dd82cc50a9308215af6233" title="ProcessPb_TypePort" alt="" coords="183,876,329,902"/>
+<area shape="rect" id="node19" href="$d9/dcc/read__xml__util_8h.html#a858591b3d7eaf692816ea613eff13890" title="FindElement" alt="" coords="702,1636,797,1662"/>
+<area shape="rect" id="node20" href="$d9/dcc/read__xml__util_8h.html#a05e05d34a0e16bf8005a91d9b91fc347" title="FreeNode" alt="" coords="710,1737,789,1764"/>
+<area shape="rect" id="node22" href="$d9/dcc/read__xml__util_8h.html#a48d9654e89589fd3f8a59880bcf1ca8d" title="GetFloatProperty" alt="" coords="689,1914,809,1941"/>
+<area shape="rect" id="node23" href="$d7/dcd/read__xml__arch__file_8c.html#a82c981c4629c7059ea9c9156f1fa2203" title="ProcessPinToPinAnnotations" alt="" coords="653,622,845,649"/>
+<area shape="rect" id="node25" href="$d7/dcd/read__xml__arch__file_8c.html#a4c1461bc07018c2ee1007b20bc7a8c8e" title="ProcessLutClass" alt="" coords="433,100,556,126"/>
+<area shape="rect" id="node28" href="$d7/dcd/read__xml__arch__file_8c.html#ab4d66272edddc191d7c712364b533dc8" title="ProcessMemoryClass" alt="" coords="420,242,569,269"/>
+<area shape="rect" id="node29" href="$d7/dcd/read__xml__arch__file_8c.html#ae442ba7269e31ae59bd180276ca744cc" title="ProcessMode" alt="" coords="205,1230,307,1257"/>
+<area shape="rect" id="node31" href="$d7/dcd/read__xml__arch__file_8c.html#a273852221befced3724f2fe7db6ab206" title="ProcessPb_TypePower" alt="" coords="177,1813,335,1840"/>
+<area shape="rect" id="node3" href="$d4/d44/ezxml_8c.html#a48c47c7d79e06e6895bf1e18a2a71957" title="ezxml_attr" alt="" coords="1105,1484,1186,1510"/>
+<area shape="rect" id="node5" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="1235,572,1319,598"/>
+<area shape="rect" id="node8" href="$dc/d7c/read__xml__util_8c.html#a86ad965dc05e08e29eb6f4f063cae0f0" title="FindProperty" alt="" coords="927,1458,1022,1485"/>
+<area shape="rect" id="node9" href="$d8/d3c/util_8h.html#a122391cf5ffec82660391de1985ca799" title="my_atoi" alt="" coords="716,470,783,497"/>
+<area shape="rect" id="node15" href="$d7/dcd/read__xml__arch__file_8c.html#ac41bff7346fa1f1e8d0eca3d1c52fc93" title="power_method_inherited" alt="" coords="893,622,1056,649"/>
+<area shape="rect" id="node14" href="$d4/d44/ezxml_8c.html#a919b55676e0245e2347dcca26d727145" title="ezxml_child" alt="" coords="930,1661,1019,1688"/>
+<area shape="rect" id="node17" href="$d9/dcc/read__xml__util_8h.html#a57a0a763d643582267f247ba90940297" title="GetBooleanProperty" alt="" coords="680,876,819,902"/>
+<area shape="rect" id="node18" href="$d7/dcd/read__xml__arch__file_8c.html#ae463cce49cb9086d0e266922fadb786b" title="ProcessPb_TypePort\l_Power" alt="" coords="422,1012,567,1054"/>
+<area shape="rect" id="node21" href="$dc/d7c/read__xml__util_8c.html#a5713532572dba05a4be93501e6edc4c9" title="IsWhitespace" alt="" coords="924,1737,1025,1764"/>
+<area shape="rect" id="node24" href="$d4/d44/ezxml_8c.html#a61a4d309c8a1d344be9f338c05c531fc" title="ezxml_set_txt" alt="" coords="924,673,1025,700"/>
+<area shape="rect" id="node26" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="933,80,1017,106"/>
+<area shape="rect" id="node27" href="$d7/dcd/read__xml__arch__file_8c.html#a9437a9054250296fd5d8f78af223b226" title="alloc_and_load_default\l_child_for_pb_type" alt="" coords="672,151,827,192"/>
+<area shape="rect" id="node30" href="$d7/dcd/read__xml__arch__file_8c.html#a5b0054207abb0ec218843d4a132e32fe" title="ProcessInterconnect" alt="" coords="423,1180,566,1206"/>
+<area shape="rect" id="node32" href="$d7/dcd/read__xml__arch__file_8c.html#a9d77d1b9029e2eb75525788a49fe4ca6" title="ProcessPb_TypePowerPinToggle" alt="" coords="387,2041,603,2068"/>
+<area shape="rect" id="node33" href="$d7/dcd/read__xml__arch__file_8c.html#ada69bb84990e84b14c24415df88b7397" title="findPortByName" alt="" coords="691,2066,807,2093"/>
+</map>

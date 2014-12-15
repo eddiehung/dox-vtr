@@ -1,0 +1,31 @@
+<map id="get_seg_start" name="get_seg_start">
+<area shape="rect" id="node2" href="$d9/db8/rr__graph_8c.html#a5cdc9458f147b53b30a6b152ceb4ae7f" title="build_rr_xchan" alt="" coords="1009,80,1114,107"/>
+<area shape="rect" id="node3" href="$d9/db8/rr__graph_8c.html#ad120b3abace09db91092810a403da453" title="build_rr_ychan" alt="" coords="1009,248,1114,275"/>
+<area shape="rect" id="node15" href="$df/d2a/rr__graph2_8h.html#ae7f0162ccd3dcc4a677912259757ee74" title="is_cbox" alt="" coords="617,52,684,79"/>
+<area shape="rect" id="node19" href="$d1/dbf/rr__graph2_8c.html#a5db1fc8739a8e9faac41f4148b39a05b" title="load_chan_rr_indices" alt="" coords="155,536,299,563"/>
+<area shape="rect" id="node21" href="$df/d2a/rr__graph2_8h.html#a6ee07392330e5b581202f115f7cbf0a2" title="get_track_to_tracks" alt="" coords="789,181,926,208"/>
+<area shape="rect" id="node22" href="$df/d2a/rr__graph2_8h.html#a66b29caedf9c65c31c2c579437dd99d9" title="is_sbox" alt="" coords="193,216,260,243"/>
+<area shape="rect" id="node24" href="$d1/dbf/rr__graph2_8c.html#a9b9f439fd3a481e2e1ee156d7231aceb" title="label_incoming_wires" alt="" coords="367,321,513,348"/>
+<area shape="rect" id="node26" href="$d1/dbf/rr__graph2_8c.html#a43ddeaf15c938f957f705c4d5f0e061a" title="label_wire_muxes" alt="" coords="164,431,289,457"/>
+<area shape="rect" id="node4" href="$d9/db8/rr__graph_8c.html#ac94c505cd69b035cd068ec6c699d73ae" title="alloc_and_load_rr_graph" alt="" coords="1176,273,1339,300"/>
+<area shape="rect" id="node5" href="$df/dfd/rr__graph_8h.html#ab91403e0b20fd553939d4e5e5ff41ad7" title="build_rr_graph" alt="" coords="1387,348,1490,375"/>
+<area shape="rect" id="node6" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="2305,341,2445,382"/>
+<area shape="rect" id="node10" href="$de/dbf/route__export_8h.html#ad38805571e14b11ab1c4354866206507" title="try_route" alt="" coords="2183,297,2255,324"/>
+<area shape="rect" id="node11" href="$d5/d01/timing__place__lookup_8c.html#aae763ba8510489478024b2700f61be1d" title="alloc_routing_structs" alt="" coords="1539,403,1682,429"/>
+<area shape="rect" id="node7" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="2493,348,2611,375"/>
+<area shape="rect" id="node8" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="2659,348,2802,375"/>
+<area shape="rect" id="node9" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2851,348,2901,375"/>
+<area shape="rect" id="node12" href="$dd/d75/timing__place__lookup_8h.html#a1d2181b94fee952fc0d04599df134407" title="compute_delay_lookup\l_tables" alt="" coords="1731,399,1885,441"/>
+<area shape="rect" id="node13" href="$db/d3c/timing__place_8h.html#a1565c2ac95e3032c61718efd0e711951" title="alloc_lookups_and_criticalities" alt="" coords="1934,407,2133,433"/>
+<area shape="rect" id="node14" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="2181,407,2256,433"/>
+<area shape="rect" id="node16" href="$df/d2a/rr__graph2_8h.html#a6ca61b54d7f1a22d2923bbbff99a537b" title="get_bidir_opin_connections" alt="" coords="768,131,947,157"/>
+<area shape="rect" id="node18" href="$df/d2a/rr__graph2_8h.html#a3c9effc7f4942e4a26c01ae9e8ee3cc0" title="get_track_to_ipins" alt="" coords="793,80,921,107"/>
+<area shape="rect" id="node17" href="$d9/db8/rr__graph_8c.html#a743ec8e3718601de10594397396d6828" title="build_bidir_rr_opins" alt="" coords="995,153,1128,180"/>
+<area shape="rect" id="node20" href="$df/d2a/rr__graph2_8h.html#ab8d652d89a8a1582ced6b5cfea987873" title="alloc_and_load_rr_node\l_indices" alt="" coords="1178,491,1337,533"/>
+<area shape="rect" id="node23" href="$d1/dbf/rr__graph2_8c.html#af9045b19c966bded53a7fd2d4dcb0b53" title="get_bidir_track_to\l_chan_seg" alt="" coords="377,205,503,246"/>
+<area shape="rect" id="node25" href="$df/d2a/rr__graph2_8h.html#a18b873994cca2df3d21d175db7d403bf" title="load_sblock_pattern\l_lookup" alt="" coords="581,341,720,382"/>
+<area shape="rect" id="node27" href="$df/d2a/rr__graph2_8h.html#af419eedb4399bea2a63a2b6fc9cbf931" title="get_unidir_opin_connections" alt="" coords="347,540,533,567"/>
+<area shape="rect" id="node29" href="$d1/dbf/rr__graph2_8c.html#a301245b47823015b6c2ca671f453689b" title="get_unidir_track_to\l_chan_seg" alt="" coords="585,423,717,465"/>
+<area shape="rect" id="node30" href="$d1/dbf/rr__graph2_8c.html#a447c698a57bf3c8ad3b012558149a49e" title="label_wire_muxes_for\l_balance" alt="" coords="367,423,513,465"/>
+<area shape="rect" id="node28" href="$d9/db8/rr__graph_8c.html#a08d75c39e642c36adbe57cba97c705ab" title="build_unidir_rr_opins" alt="" coords="787,485,927,512"/>
+</map>

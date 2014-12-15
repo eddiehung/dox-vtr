@@ -1,0 +1,12 @@
+<map id="power_print_breakdown_pb" name="power_print_breakdown_pb">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html#ac48b605aa97efd9aee6fbeef815e8fca" title="power_print_breakdown\l_entry" alt="" coords="470,5,629,46"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#a85ce5cbdf02146d270aca4af3b035480" title="power_print_breakdown\l_pb_rec" alt="" coords="235,205,394,246"/>
+<area shape="rect" id="node4" href="$d7/dde/power__components_8c.html#acb782df106adb34cd2989083bedc1166" title="power_component_get\l_usage_sum" alt="" coords="473,70,626,111"/>
+<area shape="rect" id="node5" href="$d5/dc1/power__util_8c.html#a3b77219acbfc8eec4d3cd3664ccf04c0" title="power_sum_usage" alt="" coords="704,136,835,163"/>
+<area shape="rect" id="node6" href="$d5/dc1/power__util_8c.html#af6043e95c88b16abd83c20b9a7953841" title="power_perc_dynamic" alt="" coords="477,187,621,213"/>
+<area shape="rect" id="node7" href="$d4/d81/power_8c.html#abe89530ab24b24f2f5a2367e633d3f87" title="power_estimation_method_name" alt="" coords="443,237,656,264"/>
+<area shape="rect" id="node8" href="$d5/dc1/power__util_8c.html#a19e7b2a483bac43b54dd3eda35f42e8f" title="power_method_is_transistor\l_level" alt="" coords="457,289,642,330"/>
+<area shape="rect" id="node9" href="$d5/dc1/power__util_8c.html#a3a2278727824054058f3557d2e27db68" title="power_method_is_recursive" alt="" coords="457,355,641,381"/>
+<area shape="rect" id="node10" href="$d5/dc1/power__util_8c.html#a26404a7d37a01ef62f62e3713131099d" title="power_zero_usage" alt="" coords="484,405,615,432"/>
+<area shape="rect" id="node11" href="$d5/dc1/power__util_8c.html#afc5b255a8ba0a8623b3ce61d6b2c3bb8" title="power_add_usage" alt="" coords="486,456,613,483"/>
+</map>

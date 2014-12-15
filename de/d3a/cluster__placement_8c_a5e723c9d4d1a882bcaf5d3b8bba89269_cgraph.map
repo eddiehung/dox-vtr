@@ -1,0 +1,6 @@
+<map id="alloc_and_load_cluster_placement_stats" name="alloc_and_load_cluster_placement_stats">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="489,24,569,51"/>
+<area shape="rect" id="node3" href="$d6/d8f/vpr__utils_8c.html#a63b06529f421dd7f5934ca5bf1ac1828" title="get_max_primitives\l_in_pb_type" alt="" coords="229,50,363,92"/>
+<area shape="rect" id="node4" href="$de/d3a/cluster__placement_8c.html#ac15b55ee335dea701ca4ed09363d1122" title="load_cluster_placement\l_stats_for_pb_graph_node" alt="" coords="209,116,383,157"/>
+<area shape="rect" id="node5" href="$d6/d8f/vpr__utils_8c.html#af050d17e0084d41158191e7b7da646ee" title="compute_primitive_base_cost" alt="" coords="432,123,627,150"/>
+</map>

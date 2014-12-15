@@ -1,0 +1,21 @@
+<map id="s_pb_graph_pin_power" name="s_pb_graph_pin_power">
+<area shape="rect" id="node2" href="$d9/d06/structs__pb__graph__pin.html" title="s_pb_graph_pin" alt="" coords="1222,244,1335,271"/>
+<area shape="rect" id="node3" href="$dd/d8a/structs__pb__graph__node.html" title="s_pb_graph_node" alt="" coords="1787,277,1911,304"/>
+<area shape="rect" id="node18" href="$d2/d29/structs__interconnect__pins.html" title="s_interconnect_pins" alt="" coords="1479,83,1617,109"/>
+<area shape="rect" id="node20" href="$d3/da2/structs__pb__graph__edge.html" title="s_pb_graph_edge" alt="" coords="1486,196,1610,223"/>
+<area shape="rect" id="node17" href="$d9/dff/structs__cluster__placement__primitive.html" title="s_cluster_placement\l_primitive" alt="" coords="2126,270,2269,311"/>
+<area shape="rect" id="node4" href="$d0/d7a/structs__pb__type.html" title="s_pb_type" alt="" coords="681,332,762,359"/>
+<area shape="rect" id="node7" href="$db/dc8/structs__mode.html" title="s_mode" alt="" coords="971,199,1039,225"/>
+<area shape="rect" id="node15" href="$d5/d0f/structs__port.html" title="s_port" alt="" coords="976,435,1035,461"/>
+<area shape="rect" id="node5" href="$d5/db7/structs__pb__type__power.html" title="s_pb_type_power" alt="" coords="340,287,463,313"/>
+<area shape="rect" id="node6" href="$d2/d1a/structs__power__usage.html" title="s_power_usage" alt="" coords="6,197,119,224"/>
+<area shape="rect" id="node8" href="$d5/d19/structs__mode__power.html" title="s_mode_power" alt="" coords="526,197,637,224"/>
+<area shape="rect" id="node10" href="$d2/d51/structs__interconnect__power.html" title="s_interconnect_power" alt="" coords="507,77,656,104"/>
+<area shape="rect" id="node9" href="$da/d3f/structs__interconnect.html" title="s_interconnect" alt="" coords="1225,93,1332,120"/>
+<area shape="rect" id="node11" href="$d5/d47/structs__pin__to__pin__annotation.html" title="s_pin_to_pin_annotation" alt="" coords="320,137,483,164"/>
+<area shape="rect" id="node12" href="$df/da1/structs__model.html" title="s_model" alt="" coords="366,376,437,403"/>
+<area shape="rect" id="node13" href="$dd/d9f/structs__linked__vptr.html" title="s_linked_vptr" alt="" coords="13,375,112,401"/>
+<area shape="rect" id="node14" href="$d6/d58/structs__model__ports.html" title="s_model_ports" alt="" coords="9,471,116,497"/>
+<area shape="rect" id="node16" href="$d7/d68/structs__port__power.html" title="s_port_power" alt="" coords="1229,468,1329,495"/>
+<area shape="rect" id="node19" href="$d9/d30/structs__pb__graph__node__power.html" title="s_pb_graph_node_power" alt="" coords="1465,339,1631,365"/>
+</map>

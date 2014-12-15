@@ -1,0 +1,6 @@
+<map id="print_interconnect" name="print_interconnect">
+<area shape="rect" id="node2" href="$d0/d4c/output__clustering_8c.html#a9863fa5a38c1348a1153e1412a55fc03" title="print_string" alt="" coords="339,5,426,32"/>
+<area shape="rect" id="node4" href="$d0/d4c/output__clustering_8c.html#adedec0e9fb3a493c2698ad0568658160" title="print_net_name" alt="" coords="179,31,290,57"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="193,81,277,108"/>
+<area shape="rect" id="node3" href="$d0/d4c/output__clustering_8c.html#a0e85043d213b2245c53868befaf44cc2" title="print_tabs" alt="" coords="475,5,554,32"/>
+</map>

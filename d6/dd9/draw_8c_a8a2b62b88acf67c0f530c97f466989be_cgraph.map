@@ -1,0 +1,11 @@
+<map id="draw_chanx_to_chany_edge" name="draw_chanx_to_chany_edge">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#aa1c1f79aadaba11f86d5850112ad6ae2" title="drawline" alt="" coords="535,5,606,32"/>
+<area shape="rect" id="node6" href="$d6/dd9/draw_8c.html#a4e62ae8b3115ddcf61778d5865f0f3d5" title="draw_rr_switch" alt="" coords="241,56,351,83"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#aea2fc6117c7c1caf1ef34075f5f01bf4" title="rect_off_screen" alt="" coords="673,5,783,32"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a35d56c0ad380813e13bd721fe0cd3ad3" title="xcoord" alt="" coords="698,56,758,83"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#a6dc210107a82a3bae94be4febf6082a8" title="ycoord" alt="" coords="698,107,758,133"/>
+<area shape="rect" id="node7" href="$d5/d95/graphics_8c.html#af80d2f3125a223bb0b712ef93039985d" title="drawarc" alt="" coords="401,107,469,133"/>
+<area shape="rect" id="node10" href="$d5/d95/graphics_8c.html#a7078ef91e9c39709dfccfb93de4b49a1" title="fillpoly" alt="" coords="542,56,599,83"/>
+<area shape="rect" id="node8" href="$d5/d95/graphics_8c.html#aefa1b52b5c76ae7d7676d2469a4b18dc" title="drawellipticarc" alt="" coords="518,107,623,133"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#a316f5984babb3188b1cde3f714cf20d3" title="angnorm" alt="" coords="692,157,764,184"/>
+</map>

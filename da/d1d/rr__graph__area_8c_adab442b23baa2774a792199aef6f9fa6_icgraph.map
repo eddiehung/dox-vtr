@@ -1,0 +1,8 @@
+<map id="count_unidir_routing_transistors" name="count_unidir_routing_transistors">
+<area shape="rect" id="node2" href="$dd/db8/rr__graph__area_8h.html#a00c93da36a94c5819e6719d8f9281560" title="count_routing_transistors" alt="" coords="192,12,360,39"/>
+<area shape="rect" id="node3" href="$d9/d9b/stats_8h.html#a93e3d9b7f6c5e2c2c3e6a4b7b4eaedd1" title="routing_stats" alt="" coords="409,12,506,39"/>
+<area shape="rect" id="node4" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="744,12,861,39"/>
+<area shape="rect" id="node7" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="555,34,695,75"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="910,12,1053,39"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1101,12,1152,39"/>
+</map>

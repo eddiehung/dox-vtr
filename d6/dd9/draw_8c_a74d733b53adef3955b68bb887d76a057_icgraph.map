@@ -1,0 +1,11 @@
+<map id="deselect_all" name="deselect_all">
+<area shape="rect" id="node2" href="$d6/dd9/draw_8c.html#adb31ae490eba351a019c8d087d2b4bd7" title="highlight_crit_path" alt="" coords="145,56,271,83"/>
+<area shape="rect" id="node9" href="$de/d28/draw_8h.html#afc75c8a94403ed1b8d6af863f24c403f" title="alloc_draw_structs" alt="" coords="320,157,451,184"/>
+<area shape="rect" id="node10" href="$d6/dd9/draw_8c.html#ae52a87e2f2cdb714b0c568ef17c814a6" title="highlight_blocks" alt="" coords="151,107,265,133"/>
+<area shape="rect" id="node3" href="$de/d28/draw_8h.html#abd9f8f8ef9c098f28e7d45517b7ae95a" title="update_screen" alt="" coords="332,56,439,83"/>
+<area shape="rect" id="node4" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="499,5,573,32"/>
+<area shape="rect" id="node5" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="811,77,928,104"/>
+<area shape="rect" id="node8" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="622,41,762,82"/>
+<area shape="rect" id="node6" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="977,117,1119,144"/>
+<area shape="rect" id="node7" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1168,117,1219,144"/>
+</map>

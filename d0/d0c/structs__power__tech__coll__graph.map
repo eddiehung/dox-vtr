@@ -1,0 +1,12 @@
+<map id="s_power_tech" name="s_power_tech">
+<area shape="rect" id="node2" href="$db/dcd/structs__power__buffer__size__inf.html" title="s_power_buffer_size_inf" alt="" coords="697,8,858,35"/>
+<area shape="rect" id="node3" href="$df/d93/structs__power__buffer__strength__inf.html" title="s_power_buffer_strength_inf" alt="" coords="350,7,535,33"/>
+<area shape="rect" id="node4" href="$d1/d07/structs__power__buffer__sc__levr__inf.html" title="s_power_buffer_sc_levr_inf" alt="" coords="6,7,186,33"/>
+<area shape="rect" id="node5" href="$da/dd8/structs__transistor__inf.html" title="s_transistor_inf" alt="" coords="722,67,833,93"/>
+<area shape="rect" id="node6" href="$de/ddd/structs__transistor__size__inf.html" title="s_transistor_size_inf" alt="" coords="372,67,513,93"/>
+<area shape="rect" id="node7" href="$d5/d32/structs__power__nmos__leakage__inf.html" title="s_power_nmos_leakage_inf" alt="" coords="686,117,869,144"/>
+<area shape="rect" id="node8" href="$d4/d42/structs__power__nmos__leakage__pair.html" title="s_power_nmos_leakage_pair" alt="" coords="347,117,538,144"/>
+<area shape="rect" id="node9" href="$de/d35/structs__power__nmos__mux__inf.html" title="s_power_nmos_mux_inf" alt="" coords="696,168,859,195"/>
+<area shape="rect" id="node10" href="$da/d51/structs__power__mux__volt__inf.html" title="s_power_mux_volt_inf" alt="" coords="367,168,518,195"/>
+<area shape="rect" id="node11" href="$d4/d76/structs__power__mux__volt__pair.html" title="s_power_mux_volt_pair" alt="" coords="17,168,175,195"/>
+</map>

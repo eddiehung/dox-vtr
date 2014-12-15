@@ -1,0 +1,7 @@
+<map id="power_usage_primitive" name="power_usage_primitive">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html#a894137e7496df591f7f7c0f35b73e6f8" title="power_usage_pb" alt="" coords="208,5,328,32"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#aa5848ac7e0ff88d1a50d7b8d3f77a233" title="power_usage_blocks" alt="" coords="376,5,520,32"/>
+<area shape="rect" id="node4" href="$d3/d6a/power_8h.html#a618a0ec5323986d02d47962e3153f00a" title="power_total" alt="" coords="569,5,658,32"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="707,5,856,32"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="904,5,955,32"/>
+</map>

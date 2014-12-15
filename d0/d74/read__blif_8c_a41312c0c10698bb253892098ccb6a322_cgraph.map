@@ -1,0 +1,37 @@
+<map id="read_and_process_blif" name="read_and_process_blif">
+<area shape="rect" id="node2" href="$d0/d74/read__blif_8c.html#a55c87dcdb62985a1a2280ad8a42efe89" title="read_blif" alt="" coords="234,259,305,285"/>
+<area shape="rect" id="node29" href="$da/de8/ReadOptions_8c.html#a67e71380c30310e66ebfa46e7701c43d" title="getEchoEnabled" alt="" coords="212,360,327,387"/>
+<area shape="rect" id="node30" href="$da/de8/ReadOptions_8c.html#a39049f75bed23a03f48d428d056876be" title="isEchoFileEnabled" alt="" coords="205,411,333,437"/>
+<area shape="rect" id="node31" href="$d0/d74/read__blif_8c.html#aae54a4862c5ceb23d3881a6e0c36fd42" title="echo_input" alt="" coords="409,31,495,57"/>
+<area shape="rect" id="node32" href="$da/de8/ReadOptions_8c.html#a0ccc74aaef0e224700e9a7395e8e6e37" title="getEchoFileName" alt="" coords="207,461,332,488"/>
+<area shape="rect" id="node33" href="$d0/d74/read__blif_8c.html#a03f3429c003d664bf8b002e614e261d1" title="absorb_buffer_luts" alt="" coords="205,512,333,539"/>
+<area shape="rect" id="node34" href="$d0/d74/read__blif_8c.html#aca99a2cb7965ace1b9d906f53ec17791" title="compress_netlist" alt="" coords="209,309,330,336"/>
+<area shape="rect" id="node36" href="$d0/d74/read__blif_8c.html#ac8c0b585e7e62240ddf9f39c0e131b58" title="show_blif_stats" alt="" coords="213,5,326,32"/>
+<area shape="rect" id="node3" href="$d0/d74/read__blif_8c.html#a769e6cafcea5cec778301d4e1fc39b97" title="load_default_models" alt="" coords="381,284,523,311"/>
+<area shape="rect" id="node4" href="$d0/d74/read__blif_8c.html#a52a654c80a2bd0f1025728b6ce1b66ff" title="init_parse" alt="" coords="413,335,491,361"/>
+<area shape="rect" id="node9" href="$d8/d3c/util_8h.html#a8472f1ae002ee260debe9296ea660e60" title="my_fgets" alt="" coords="620,183,695,209"/>
+<area shape="rect" id="node10" href="$d0/d74/read__blif_8c.html#a6ac1db3c12757736872726f7605e0fa5" title="get_blif_tok" alt="" coords="407,664,497,691"/>
+<area shape="rect" id="node23" href="$d1/d04/hash_8c.html#a4b7a92f8744f95d54f11a27f3e64ef7a" title="get_hash_stats" alt="" coords="397,81,507,108"/>
+<area shape="rect" id="node24" href="$d0/d74/read__blif_8c.html#a01e401daf4e3cf7ecafabd96a9403360" title="check_net" alt="" coords="819,385,901,412"/>
+<area shape="rect" id="node25" href="$d0/d74/read__blif_8c.html#a4e370d0e8b6b4e2d2323bb2e4976ac08" title="read_activity" alt="" coords="405,183,499,209"/>
+<area shape="rect" id="node28" href="$d0/d74/read__blif_8c.html#abe6b849657b80e937dfbb9190e0cb0b6" title="free_parse" alt="" coords="411,132,493,159"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="617,31,697,57"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="979,563,1063,589"/>
+<area shape="rect" id="node7" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="980,360,1063,387"/>
+<area shape="rect" id="node8" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="1115,360,1199,387"/>
+<area shape="rect" id="node11" href="$d8/d3c/util_8h.html#a0c4e8ac6ef54cc6495938ba83252a614" title="my_strtok" alt="" coords="821,892,899,919"/>
+<area shape="rect" id="node13" href="$d0/d74/read__blif_8c.html#abf7a4978ff6671eb90765aa5eae343ae" title="add_lut" alt="" coords="625,740,689,767"/>
+<area shape="rect" id="node18" href="$d0/d74/read__blif_8c.html#adc421138749ab1486a5304672deb2c12" title="add_latch" alt="" coords="618,537,697,564"/>
+<area shape="rect" id="node19" href="$d0/d74/read__blif_8c.html#a481b2dcfed415ac268087dee1c8ec47d" title="check_and_count_models" alt="" coords="571,791,744,817"/>
+<area shape="rect" id="node20" href="$d0/d74/read__blif_8c.html#af5940f53939f747cc925cfa65fff62f7" title="dum_parse" alt="" coords="614,841,701,868"/>
+<area shape="rect" id="node21" href="$d0/d74/read__blif_8c.html#a46186c64312fe7be9937dd3fa5c41f09" title="io_line" alt="" coords="628,639,687,665"/>
+<area shape="rect" id="node22" href="$d0/d74/read__blif_8c.html#a6950ff03324e83fce5baff663436090c" title="add_subckt" alt="" coords="613,588,702,615"/>
+<area shape="rect" id="node12" href="$de/df1/util_8c.html#a8472f1ae002ee260debe9296ea660e60" title="my_fgets" alt="" coords="984,892,1059,919"/>
+<area shape="rect" id="node14" href="$d8/d3c/util_8h.html#a2f2745a19fae73b247f390aea7acbe55" title="alloc_matrix" alt="" coords="976,740,1067,767"/>
+<area shape="rect" id="node15" href="$d8/d3c/util_8h.html#a3931c4ab87f99a070968c1f299454c07" title="free_matrix" alt="" coords="817,791,903,817"/>
+<area shape="rect" id="node16" href="$d0/d74/read__blif_8c.html#a7dd5904ad8f33040d3cfbdb7c6a23c4e" title="add_vpack_net" alt="" coords="805,487,915,513"/>
+<area shape="rect" id="node17" href="$d1/d04/hash_8c.html#a9186b5f092351c329fce5acb2f56823a" title="hash_value" alt="" coords="977,245,1065,272"/>
+<area shape="rect" id="node26" href="$d8/d3c/util_8h.html#a6a12ccf37f0a3ff2dcc67ab2015701d6" title="my_fopen" alt="" coords="618,81,697,108"/>
+<area shape="rect" id="node27" href="$d0/d74/read__blif_8c.html#a8eb3cea884544a3844780a5aa4e8d0df" title="add_activity_to_net" alt="" coords="793,157,927,184"/>
+<area shape="rect" id="node35" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="410,993,494,1020"/>
+</map>

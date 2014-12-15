@@ -1,0 +1,6 @@
+<map id="find_affected_blocks" name="find_affected_blocks">
+<area shape="rect" id="node2" href="$de/d20/place__macro_8c.html#a8fd4a451b8de3c5e8ae8e86a645a6eef" title="get_imacro_from_iblk" alt="" coords="395,12,541,39"/>
+<area shape="rect" id="node5" href="$d5/d28/place_8c.html#a2b7922b8a5ca1b06d9e04343d50b92fd" title="setup_blocks_affected" alt="" coords="195,37,347,64"/>
+<area shape="rect" id="node3" href="$de/d20/place__macro_8c.html#a6ab88089f4e60bf2f5f04163c6045468" title="alloc_and_load_imacro\l_from_iblk" alt="" coords="589,5,744,46"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="793,12,877,39"/>
+</map>

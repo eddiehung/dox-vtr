@@ -1,0 +1,9 @@
+<map id="close_postscript" name="close_postscript">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#a614eb46d173ea777921656c425f6a151" title="update_transform" alt="" coords="173,5,296,32"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#ab0bf9685ef88f80707870fbd9647fda5" title="force_setcolor" alt="" coords="183,56,287,83"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#af01949dc6f36ebdd5591e6c2aa749af4" title="force_setlinestyle" alt="" coords="173,107,296,133"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#a7d5b4c1e5e5947c118440fb2c72dfe2e" title="force_setlinewidth" alt="" coords="171,157,298,184"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#a178f60bd5ebeb788e1d3a47317ab8f62" title="force_setfontsize" alt="" coords="174,208,295,235"/>
+<area shape="rect" id="node7" href="$d5/d95/graphics_8c.html#af9c48c9bd315cbd663b4dca3212cb6e3" title="load_font" alt="" coords="347,208,421,235"/>
+<area shape="rect" id="node8" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="470,208,554,235"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="free_routing_structs" name="free_routing_structs">
+<area shape="rect" id="node2" href="$d9/db8/rr__graph_8c.html#a5ac80ccd89c0d20aefdd39bfa11c4cb8" title="free_rr_graph" alt="" coords="208,5,307,32"/>
+<area shape="rect" id="node5" href="$d7/d1b/route__common_8c.html#a7c249c4e2b46abf439a667330dee9cb8" title="free_rr_node_route\l_structs" alt="" coords="192,57,323,98"/>
+<area shape="rect" id="node6" href="$d7/d1b/route__common_8c.html#aa86ea67c3aa4e0780e0d87776303c821" title="free_route_structs" alt="" coords="194,123,321,149"/>
+<area shape="rect" id="node7" href="$d7/d1b/route__common_8c.html#ade83f7a7cd23a04e1fa63e2751d5c4e8" title="free_trace_structs" alt="" coords="194,173,321,200"/>
+<area shape="rect" id="node10" href="$d0/d67/route__timing_8c.html#a484ee1174c634f89ea05966c61fdf76c" title="free_timing_driven\l_route_structs" alt="" coords="193,225,321,266"/>
+<area shape="rect" id="node12" href="$d8/d3c/util_8h.html#a525ed954d7f4359259e9b873b127e55e" title="free_ivec_vector" alt="" coords="198,291,317,317"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h.html#ac46b599edf89f5119b576ee4adfde6cc" title="free_chunk_memory" alt="" coords="377,89,516,116"/>
+<area shape="rect" id="node4" href="$d1/dbf/rr__graph2_8c.html#a71c18579afb04b2e7ff6c6752910b275" title="free_rr_node_indices" alt="" coords="375,5,518,32"/>
+<area shape="rect" id="node8" href="$d7/d1b/route__common_8c.html#ab8e9188490acf98733ee6df4ba167aac" title="free_traceback" alt="" coords="393,173,501,200"/>
+<area shape="rect" id="node9" href="$d7/d1b/route__common_8c.html#acdb143a41d61c725a42622a974cdd56a" title="free_trace_data" alt="" coords="571,173,683,200"/>
+<area shape="rect" id="node11" href="$d8/dee/route__tree__timing_8c.html#ab192c5070e49d4fd9899362453151c54" title="free_route_tree_timing\l_structs" alt="" coords="371,225,522,266"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="load_pack_pattern_annotations" name="load_pack_pattern_annotations">
+<area shape="rect" id="node2" href="$dd/ddb/pb__type__graph__annotations_8h.html#a72ecc99f8fa2ecd94b3ee5ff7aee00b0" title="load_pb_graph_pin_to\l_pin_annotations" alt="" coords="257,29,405,70"/>
+<area shape="rect" id="node3" href="$dd/d86/pb__type__graph_8h.html#a7d2b5d8afbe4d51fde84e6ab097a7927" title="alloc_and_load_all\l_pb_graphs" alt="" coords="453,29,581,70"/>
+<area shape="rect" id="node4" href="$da/d24/SetupVPR_8c.html#a093769a14f47f194103dbb73dbe4e516" title="SetupVPR" alt="" coords="629,36,712,63"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a9bd9340df0499b6ec5687b6ad0ac3e16" title="vpr_init" alt="" coords="780,11,844,37"/>
+<area shape="rect" id="node7" href="$db/dc2/vpr__api_8h.html#a274a4523cd1f7cfb426975be42ce6418" title="vpr_setup_vpr" alt="" coords="760,61,864,88"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="912,11,963,37"/>
+</map>

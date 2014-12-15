@@ -1,0 +1,9 @@
+<map id="power_get_mux_arch" name="power_get_mux_arch">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="233,5,317,32"/>
+<area shape="rect" id="node3" href="$d5/dc1/power__util_8c.html#af615f095306c4e92fcbc78e4b04c31a5" title="init_mux_arch_default" alt="" coords="201,56,349,83"/>
+<area shape="rect" id="node4" href="$d5/dc1/power__util_8c.html#a1b13574ffb6e9311e590ca4291dd3c8c" title="mux_arch_fix_levels" alt="" coords="397,27,536,53"/>
+<area shape="rect" id="node5" href="$d5/dc1/power__util_8c.html#a41df01e50f192510c558b5a98d0cdc99" title="alloc_and_load_mux\l_graph" alt="" coords="397,78,536,119"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="611,56,695,83"/>
+<area shape="rect" id="node7" href="$d5/dc1/power__util_8c.html#a709894ee9ea2a743999c6cbd3cf83fea" title="alloc_and_load_mux\l_graph_recursive" alt="" coords="584,107,723,149"/>
+<area shape="rect" id="node8" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="771,115,851,141"/>
+</map>

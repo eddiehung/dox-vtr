@@ -1,0 +1,5 @@
+<map id="alloc_and_load_mux_interc_edges" name="alloc_and_load_mux_interc_edges">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="195,5,275,32"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="193,56,277,83"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="193,107,277,133"/>
+</map>

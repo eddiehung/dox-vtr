@@ -1,0 +1,8 @@
+<map id="load_channel_occupancies" name="load_channel_occupancies">
+<area shape="rect" id="node2" href="$da/df1/stats_8c.html#a951f7fd25199f4cef9173173f757656f" title="get_channel_occupancy\l_stats" alt="" coords="233,5,394,46"/>
+<area shape="rect" id="node3" href="$d9/d9b/stats_8h.html#a93e3d9b7f6c5e2c2c3e6a4b7b4eaedd1" title="routing_stats" alt="" coords="443,12,541,39"/>
+<area shape="rect" id="node4" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="779,12,896,39"/>
+<area shape="rect" id="node7" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="590,34,730,75"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="945,12,1087,39"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1136,12,1187,39"/>
+</map>

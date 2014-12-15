@@ -1,0 +1,10 @@
+<map id="free_lookups_and_criticalities" name="free_lookups_and_criticalities">
+<area shape="rect" id="node2" href="$d7/dcb/timing__place_8c.html#ac82129a2cb57f29c6a3d82aeab52b975" title="free_crit" alt="" coords="301,5,371,32"/>
+<area shape="rect" id="node4" href="$dc/dfb/path__delay_8c.html#adb42c3f66d723152fa3ef5add172c86b" title="free_timing_graph" alt="" coords="273,107,399,133"/>
+<area shape="rect" id="node6" href="$dc/dd2/net__delay_8c.html#a38133356654153935eb49b76092b9e74" title="free_net_delay" alt="" coords="283,56,389,83"/>
+<area shape="rect" id="node7" href="$d5/d01/timing__place__lookup_8c.html#a5fe8d4adb7f9be637466870b83f1ebc0" title="free_place_lookup_structs" alt="" coords="249,157,423,184"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h.html#ac46b599edf89f5119b576ee4adfde6cc" title="free_chunk_memory" alt="" coords="472,56,611,83"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#a525ed954d7f4359259e9b873b127e55e" title="free_ivec_vector" alt="" coords="482,107,601,133"/>
+<area shape="rect" id="node8" href="$d5/d01/timing__place__lookup_8c.html#a4ac151bc81260b14043ac9f08a4fa5e5" title="free_delta_arrays" alt="" coords="481,157,602,184"/>
+<area shape="rect" id="node9" href="$d8/d3c/util_8h.html#a3931c4ab87f99a070968c1f299454c07" title="free_matrix" alt="" coords="659,157,746,184"/>
+</map>

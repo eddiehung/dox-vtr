@@ -1,0 +1,6 @@
+<map id="draw_triangle_along_line" name="draw_triangle_along_line">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#a7078ef91e9c39709dfccfb93de4b49a1" title="fillpoly" alt="" coords="219,56,277,83"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#aea2fc6117c7c1caf1ef34075f5f01bf4" title="rect_off_screen" alt="" coords="326,5,437,32"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a35d56c0ad380813e13bd721fe0cd3ad3" title="xcoord" alt="" coords="351,56,411,83"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#a6dc210107a82a3bae94be4febf6082a8" title="ycoord" alt="" coords="351,107,411,133"/>
+</map>

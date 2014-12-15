@@ -1,0 +1,13 @@
+<map id="power_size_pin_buffers_and_wires" name="power_size_pin_buffers_and_wires">
+<area shape="rect" id="node2" href="$d0/d73/power__sizing_8c.html#ae35cdcdc844332c16e56541ce49ed66e" title="power_transistor_area" alt="" coords="486,61,637,88"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="273,36,357,62"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="275,86,355,113"/>
+<area shape="rect" id="node5" href="$d0/d73/power__sizing_8c.html#ae7fb46d9d9c8fcd4f567d2f3bf0a1044" title="power_size_pin_to_interconnect" alt="" coords="211,137,418,164"/>
+<area shape="rect" id="node6" href="$d0/d73/power__sizing_8c.html#a647894476fb96d84c10c0ed0bea2227e" title="power_transistors_for\l_pb_node" alt="" coords="241,188,388,230"/>
+<area shape="rect" id="node7" href="$d5/dc1/power__util_8c.html#ac1d58140c58cb9bfdc75d22895a58256" title="power_buffer_size_from\l_logical_effort" alt="" coords="235,254,394,295"/>
+<area shape="rect" id="node8" href="$d0/d73/power__sizing_8c.html#a07540c91d8ce25429bd68a78a0f09821" title="power_count_transistors\l_buffer" alt="" coords="233,319,397,360"/>
+<area shape="rect" id="node9" href="$d5/dc1/power__util_8c.html#a943596ff8a489a822f137966888fb690" title="power_calc_buffer_num\l_stages" alt="" coords="482,260,641,302"/>
+<area shape="rect" id="node10" href="$d5/dc1/power__util_8c.html#aeaefc8b17f66020002f7a0ccb8b41a74" title="calc_buffer_stage_effort" alt="" coords="481,326,641,353"/>
+<area shape="rect" id="node11" href="$d0/d73/power__sizing_8c.html#a81d8d620f681fee39c6674fcfb5267cf" title="power_count_transistors_inv" alt="" coords="467,377,655,404"/>
+<area shape="rect" id="node12" href="$d0/d73/power__sizing_8c.html#ab0c52503c3bed7180ff79cfa38a71c4d" title="power_MTAs" alt="" coords="704,377,803,404"/>
+</map>

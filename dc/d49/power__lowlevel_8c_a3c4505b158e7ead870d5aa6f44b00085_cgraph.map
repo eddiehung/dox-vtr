@@ -1,0 +1,9 @@
+<map id="power_calc_leakage_gate" name="power_calc_leakage_gate">
+<area shape="rect" id="node2" href="$d2/d55/power__cmos__tech_8c.html#a4906027a4e93482c1455e203ed372e91" title="power_find_transistor_info" alt="" coords="227,81,400,108"/>
+<area shape="rect" id="node3" href="$d5/dc1/power__util_8c.html#aad9d874982fa729ad5063fbc11aaa791" title="power_log_msg" alt="" coords="494,31,607,57"/>
+<area shape="rect" id="node7" href="$d2/d55/power__cmos__tech_8c.html#a6df8cc432666c71a9a606f72080071ab" title="power_compare_transistor_size" alt="" coords="448,81,653,108"/>
+<area shape="rect" id="node8" href="$d5/dc1/power__util_8c.html#a60b7d0ee9331d95f7d06b2914c9ef6c7" title="transistor_type_name" alt="" coords="477,132,624,159"/>
+<area shape="rect" id="node4" href="$d5/dc1/power__util_8c.html#a442cee8e7e5023432a29d09588a3f9b2" title="log_msg" alt="" coords="702,31,773,57"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="822,5,906,32"/>
+<area shape="rect" id="node6" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="824,56,904,83"/>
+</map>

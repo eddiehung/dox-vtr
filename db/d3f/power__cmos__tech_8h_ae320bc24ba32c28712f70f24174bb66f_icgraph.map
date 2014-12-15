@@ -1,0 +1,23 @@
+<map id="power_find_nmos_leakage" name="power_find_nmos_leakage">
+<area shape="rect" id="node2" href="$dc/d49/power__lowlevel_8c.html#ac8b9a1080943bcd11e3c706a6add1ae2" title="power_calc_leakage\l_st_pass_transistor" alt="" coords="230,159,370,201"/>
+<area shape="rect" id="node3" href="$d7/d40/power__lowlevel_8h.html#a12164a4a875380a35742b8302fa810ff" title="power_usage_mux_singlelevel\l_static" alt="" coords="419,115,618,157"/>
+<area shape="rect" id="node19" href="$d7/d40/power__lowlevel_8h.html#ac197fe9b2c3eca3c7b09daf17bd44c5f" title="power_usage_mux_singlelevel\l_dynamic" alt="" coords="419,202,618,243"/>
+<area shape="rect" id="node4" href="$d7/dde/power__components_8c.html#a352d006214fb3a2f93ba54a6b157c19e" title="power_usage_mux_rec" alt="" coords="667,117,821,144"/>
+<area shape="rect" id="node5" href="$d9/dc0/power__components_8h.html#a7f9738431f1da667ff3f5e2b7fcd53d8" title="power_usage_mux_multilevel" alt="" coords="869,115,1061,141"/>
+<area shape="rect" id="node6" href="$d4/d81/power_8c.html#a07a077ef8a222ba2012e7ddc72a10b5e" title="power_usage_routing" alt="" coords="1361,5,1506,32"/>
+<area shape="rect" id="node10" href="$da/dac/power__callibrate_8h.html#ad322bfc9cf11df0b3e924c4a6c93fa58" title="power_print_spice_comparison" alt="" coords="1110,173,1311,200"/>
+<area shape="rect" id="node11" href="$da/dac/power__callibrate_8h.html#a394b2695157298794b53664daae44d04" title="power_usage_mux_for\l_callibration" alt="" coords="1135,107,1287,149"/>
+<area shape="rect" id="node16" href="$d9/dc0/power__components_8h.html#ab5ea42c2d0b71139fef6b6179663a726" title="power_usage_local_interc_mux" alt="" coords="1109,56,1312,83"/>
+<area shape="rect" id="node7" href="$d3/d6a/power_8h.html#a618a0ec5323986d02d47962e3153f00a" title="power_total" alt="" coords="1786,56,1875,83"/>
+<area shape="rect" id="node8" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="2067,84,2216,111"/>
+<area shape="rect" id="node9" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2264,84,2315,111"/>
+<area shape="rect" id="node12" href="$d2/d55/power__cmos__tech_8c.html#a3ff6ff1aae4ac332ef728ec5fd27e014" title="power_tech_xml_load\l_components" alt="" coords="1360,107,1507,149"/>
+<area shape="rect" id="node13" href="$d2/d55/power__cmos__tech_8c.html#a66742c5985744c61a661a30dda84385e" title="power_tech_load_xml_file" alt="" coords="1555,112,1725,139"/>
+<area shape="rect" id="node14" href="$db/d3f/power__cmos__tech_8h.html#a89f96ad5271aa55c5f446b303864afbf" title="power_tech_init" alt="" coords="1774,111,1887,137"/>
+<area shape="rect" id="node15" href="$d3/d6a/power_8h.html#a3b4568a404e54c4ad43be065c64d8cdd" title="power_init" alt="" coords="1937,109,2018,136"/>
+<area shape="rect" id="node17" href="$d4/d81/power_8c.html#a894137e7496df591f7f7c0f35b73e6f8" title="power_usage_pb" alt="" coords="1373,56,1493,83"/>
+<area shape="rect" id="node18" href="$d4/d81/power_8c.html#aa5848ac7e0ff88d1a50d7b8d3f77a233" title="power_usage_blocks" alt="" coords="1568,56,1712,83"/>
+<area shape="rect" id="node20" href="$d9/dc0/power__components_8h.html#a9c8d85b57ed202368cb34f07638ba797" title="power_usage_lut" alt="" coords="905,223,1025,249"/>
+<area shape="rect" id="node21" href="$d4/d81/power_8c.html#a185eecc3662fb00ba2f6ab5f99da9b2f" title="power_usage_primitive" alt="" coords="1133,224,1288,251"/>
+<area shape="rect" id="node22" href="$da/dac/power__callibrate_8h.html#aebea5f3cdff461c6074c8d75f3a94213" title="power_usage_lut_for\l_callibration" alt="" coords="1139,275,1282,317"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="get_next_primitive_list" name="get_next_primitive_list">
+<area shape="rect" id="node2" href="$de/d3a/cluster__placement_8c.html#aa2568044d35e312dc5ed46d347dc53b9" title="flush_intermediate\l_queues" alt="" coords="209,5,335,46"/>
+<area shape="rect" id="node4" href="$d6/d8f/vpr__utils_8c.html#aa8f544aaadda4c1296f4640624e9f4c5" title="primitive_type_feasible" alt="" coords="620,121,775,148"/>
+<area shape="rect" id="node5" href="$de/d3a/cluster__placement_8c.html#aee3b51d3420dbe1b0d1efd82ee6ba4f9" title="try_place_molecule" alt="" coords="205,172,339,199"/>
+<area shape="rect" id="node3" href="$de/d3a/cluster__placement_8c.html#a0271dcfe788b0ef9743e77ea95448dfe" title="requeue_primitive" alt="" coords="417,12,541,39"/>
+<area shape="rect" id="node6" href="$de/d3a/cluster__placement_8c.html#a09819ffc3d7b6e34427b9a41fecaaf5a" title="get_array_size_of_molecule" alt="" coords="387,172,570,199"/>
+<area shape="rect" id="node7" href="$de/d3a/cluster__placement_8c.html#a889cf776cc59fad1a3bad326b40228c1" title="root_passes_early_filter" alt="" coords="399,223,558,249"/>
+<area shape="rect" id="node8" href="$de/d3a/cluster__placement_8c.html#a39630ff51900ae3d2b4cc7f93e3d6557" title="expand_forced_pack\l_molecule_placement" alt="" coords="405,274,553,315"/>
+<area shape="rect" id="node9" href="$de/d3a/cluster__placement_8c.html#a70679b98e3cae0503134f09fd9788e80" title="expand_pack_molecule\l_pin_edge" alt="" coords="619,274,776,315"/>
+</map>

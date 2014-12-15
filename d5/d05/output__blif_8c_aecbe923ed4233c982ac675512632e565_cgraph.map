@@ -1,0 +1,10 @@
+<map id="output_blif" name="output_blif">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#a6a12ccf37f0a3ff2dcc67ab2015701d6" title="my_fopen" alt="" coords="147,5,226,32"/>
+<area shape="rect" id="node4" href="$d5/d05/output__blif_8c.html#afb4e0e41ec9ddc05172c130ac047d0de" title="print_string" alt="" coords="599,95,686,121"/>
+<area shape="rect" id="node5" href="$d5/d05/output__blif_8c.html#a8ed247bc43d11ea2296602035dfdaf5b" title="print_clusters" alt="" coords="137,132,237,159"/>
+<area shape="rect" id="node3" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="286,5,370,32"/>
+<area shape="rect" id="node6" href="$d5/d05/output__blif_8c.html#acfd010173e5332e7c05c8d5ac15b10b4" title="print_pb" alt="" coords="294,145,362,172"/>
+<area shape="rect" id="node7" href="$d5/d05/output__blif_8c.html#a712855b323fdda27b8117be9eb748e94" title="print_primitive" alt="" coords="423,157,526,184"/>
+<area shape="rect" id="node8" href="$d5/d05/output__blif_8c.html#a3a3cf1e3784d9faa7b67a0a6e86bddcb" title="find_fanin_rr_node" alt="" coords="579,171,706,197"/>
+<area shape="rect" id="node9" href="$d5/d05/output__blif_8c.html#a8cb693a71a35afb91156ffff960f9d1c" title="print_net_name" alt="" coords="419,107,530,133"/>
+</map>

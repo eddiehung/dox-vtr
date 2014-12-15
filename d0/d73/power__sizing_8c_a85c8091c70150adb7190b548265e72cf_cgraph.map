@@ -1,0 +1,19 @@
+<map id="power_count_transistors_connectionbox" name="power_count_transistors_connectionbox">
+<area shape="rect" id="node2" href="$d0/d73/power__sizing_8c.html#a07540c91d8ce25429bd68a78a0f09821" title="power_count_transistors\l_buffer" alt="" coords="234,89,398,130"/>
+<area shape="rect" id="node7" href="$d0/d73/power__sizing_8c.html#a77842734ae35a9daba0364b71c49ebb5" title="power_count_transistors_mux" alt="" coords="219,268,413,295"/>
+<area shape="rect" id="node12" href="$d5/dc1/power__util_8c.html#a261868edb06cfafcb7abfe62ca1ce779" title="power_get_mux_arch" alt="" coords="243,421,389,448"/>
+<area shape="rect" id="node3" href="$d5/dc1/power__util_8c.html#a943596ff8a489a822f137966888fb690" title="power_calc_buffer_num\l_stages" alt="" coords="477,5,635,46"/>
+<area shape="rect" id="node4" href="$d5/dc1/power__util_8c.html#aeaefc8b17f66020002f7a0ccb8b41a74" title="calc_buffer_stage_effort" alt="" coords="476,71,636,97"/>
+<area shape="rect" id="node5" href="$d0/d73/power__sizing_8c.html#a81d8d620f681fee39c6674fcfb5267cf" title="power_count_transistors_inv" alt="" coords="462,121,650,148"/>
+<area shape="rect" id="node6" href="$d0/d73/power__sizing_8c.html#ab0c52503c3bed7180ff79cfa38a71c4d" title="power_MTAs" alt="" coords="719,151,817,177"/>
+<area shape="rect" id="node8" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="1072,284,1152,311"/>
+<area shape="rect" id="node9" href="$d0/d73/power__sizing_8c.html#a67f197881bacd8f660ccce6a9f3be3c4" title="power_mux_node_max\l_inputs" alt="" coords="479,290,633,331"/>
+<area shape="rect" id="node10" href="$d0/d73/power__sizing_8c.html#adbeddb6c874593ce39810562c5a39d62" title="power_count_transistor\l_SRAM_bit" alt="" coords="477,355,635,397"/>
+<area shape="rect" id="node11" href="$d0/d73/power__sizing_8c.html#a52e9c598d937bc53f60789d7daa419f2" title="power_count_transistors\l_mux_node" alt="" coords="474,173,638,214"/>
+<area shape="rect" id="node13" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="514,472,598,499"/>
+<area shape="rect" id="node14" href="$d5/dc1/power__util_8c.html#af615f095306c4e92fcbc78e4b04c31a5" title="init_mux_arch_default" alt="" coords="482,421,630,448"/>
+<area shape="rect" id="node15" href="$d5/dc1/power__util_8c.html#a1b13574ffb6e9311e590ca4291dd3c8c" title="mux_arch_fix_levels" alt="" coords="699,363,837,389"/>
+<area shape="rect" id="node16" href="$d5/dc1/power__util_8c.html#a41df01e50f192510c558b5a98d0cdc99" title="alloc_and_load_mux\l_graph" alt="" coords="699,414,837,455"/>
+<area shape="rect" id="node17" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="913,421,997,448"/>
+<area shape="rect" id="node18" href="$d5/dc1/power__util_8c.html#a709894ee9ea2a743999c6cbd3cf83fea" title="alloc_and_load_mux\l_graph_recursive" alt="" coords="885,322,1024,363"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="power_count_transistors_switchbox" name="power_count_transistors_switchbox">
+<area shape="rect" id="node2" href="$d0/d73/power__sizing_8c.html#a42724b2554d30373bef2b91959129209" title="power_transistors_per_tile" alt="" coords="219,12,394,39"/>
+<area shape="rect" id="node3" href="$da/dba/power__sizing_8h.html#a7d0843ddb5c4c9ca40e513be521ea1bf" title="power_sizing_init" alt="" coords="443,12,565,39"/>
+<area shape="rect" id="node4" href="$d3/d6a/power_8h.html#a3b4568a404e54c4ad43be065c64d8cdd" title="power_init" alt="" coords="614,12,695,39"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="744,12,893,39"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="941,12,992,39"/>
+</map>

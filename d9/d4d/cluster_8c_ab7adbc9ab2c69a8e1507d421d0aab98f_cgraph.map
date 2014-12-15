@@ -1,0 +1,10 @@
+<map id="get_highest_gain_molecule" name="get_highest_gain_molecule">
+<area shape="rect" id="node2" href="$de/d3a/cluster__placement_8c.html#a09819ffc3d7b6e34427b9a41fecaaf5a" title="get_array_size_of_molecule" alt="" coords="641,41,823,67"/>
+<area shape="rect" id="node3" href="$de/d3a/cluster__placement_8c.html#aefce359882af3eaf6aa7d43d38989fe9" title="exists_free_primitive\l_for_logical_block" alt="" coords="240,33,381,75"/>
+<area shape="rect" id="node5" href="$d9/d4d/cluster_8c.html#a31006a92f295d723b9078d34cc288593" title="add_molecule_to_pb\l_stats_candidates" alt="" coords="240,99,381,140"/>
+<area shape="rect" id="node7" href="$de/d3a/cluster__placement_8c.html#ac1b1f0abc866aa41167992d11bf89e10" title="reset_tried_but_unused\l_cluster_placements" alt="" coords="232,164,389,205"/>
+<area shape="rect" id="node4" href="$d6/d8f/vpr__utils_8c.html#aa8f544aaadda4c1296f4640624e9f4c5" title="primitive_type_feasible" alt="" coords="437,41,592,67"/>
+<area shape="rect" id="node6" href="$d9/d4d/cluster_8c.html#ae28210d62cf6ab7678bf8aeda04900e8" title="get_molecule_gain" alt="" coords="449,99,580,126"/>
+<area shape="rect" id="node8" href="$de/d3a/cluster__placement_8c.html#aa2568044d35e312dc5ed46d347dc53b9" title="flush_intermediate\l_queues" alt="" coords="451,164,578,205"/>
+<area shape="rect" id="node9" href="$de/d3a/cluster__placement_8c.html#a0271dcfe788b0ef9743e77ea95448dfe" title="requeue_primitive" alt="" coords="670,171,794,198"/>
+</map>

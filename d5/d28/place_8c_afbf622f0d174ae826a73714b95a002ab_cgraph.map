@@ -1,0 +1,19 @@
+<map id="alloc_and_load_placement_structs" name="alloc_and_load_placement_structs">
+<area shape="rect" id="node2" href="$d5/d28/place_8c.html#aa996ccb1df053f52b29ad92ec209f9a0" title="alloc_legal_placements" alt="" coords="453,93,611,120"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="1457,255,1541,281"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="697,220,777,247"/>
+<area shape="rect" id="node5" href="$d5/d28/place_8c.html#a631479b4fee1a670ce8d6b59a3809696" title="load_legal_placements" alt="" coords="240,195,395,221"/>
+<area shape="rect" id="node6" href="$d5/d28/place_8c.html#abcdb18fbfac19012b0f8eba52e796b5d" title="alloc_and_load_for\l_fast_cost_update" alt="" coords="868,58,999,99"/>
+<area shape="rect" id="node7" href="$d6/d8f/vpr__utils_8c.html#a5af1a70a45b40b50f64588b5b4fa00e0" title="alloc_and_load_net\l_pin_index" alt="" coords="251,466,384,507"/>
+<area shape="rect" id="node10" href="$d5/d28/place_8c.html#a6002b56f2c5bb4607ac88e3caf128195" title="alloc_and_load_try\l_swap_structs" alt="" coords="253,246,382,287"/>
+<area shape="rect" id="node11" href="$de/d20/place__macro_8c.html#afb1828535a1e6041ecf7244d7b34fd7b" title="alloc_and_load_placement\l_macros" alt="" coords="230,339,405,381"/>
+<area shape="rect" id="node8" href="$d8/d3c/util_8h.html#a2f2745a19fae73b247f390aea7acbe55" title="alloc_matrix" alt="" coords="487,536,577,563"/>
+<area shape="rect" id="node9" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="695,557,779,584"/>
+<area shape="rect" id="node12" href="$d6/d8f/vpr__utils_8c.html#ae71de9b02a3029aeac06ddd4f8391c82" title="alloc_and_load_idirect\l_from_blk_pin" alt="" coords="457,449,607,490"/>
+<area shape="rect" id="node18" href="$de/d20/place__macro_8c.html#a6f84ee3111d578cb4fc67d986a84f9da" title="find_all_the_macro" alt="" coords="467,347,597,373"/>
+<area shape="rect" id="node13" href="$d6/d8f/vpr__utils_8c.html#a5d0184378c0c0c2aaefb41288cbb1ee0" title="parse_direct_pin_name" alt="" coords="659,456,815,483"/>
+<area shape="rect" id="node14" href="$d6/d8f/vpr__utils_8c.html#a4d70603dca178faec6758e20d43c67f2" title="mark_direct_of_ports" alt="" coords="665,507,809,533"/>
+<area shape="rect" id="node15" href="$d6/d8f/vpr__utils_8c.html#aed71de80471e940213a98728195209a7" title="mark_direct_of_pins" alt="" coords="864,501,1003,528"/>
+<area shape="rect" id="node16" href="$d6/d8f/vpr__utils_8c.html#a62b868513731f29140ff304c5529991a" title="get_blk_pin_from_port_pin" alt="" coords="1051,480,1226,507"/>
+<area shape="rect" id="node17" href="$d6/d8f/vpr__utils_8c.html#a9fd4bee5b08bf7c2499128536aad78ca" title="alloc_and_load_blk\l_pin_from_port_pin" alt="" coords="1275,462,1407,503"/>
+</map>

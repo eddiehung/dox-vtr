@@ -1,0 +1,15 @@
+<map id="power_count_transistors_interc" name="power_count_transistors_interc">
+<area shape="rect" id="node2" href="$d0/d73/power__sizing_8c.html#a77842734ae35a9daba0364b71c49ebb5" title="power_count_transistors_mux" alt="" coords="219,110,413,136"/>
+<area shape="rect" id="node8" href="$d5/dc1/power__util_8c.html#a261868edb06cfafcb7abfe62ca1ce779" title="power_get_mux_arch" alt="" coords="243,234,389,260"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="1048,135,1128,162"/>
+<area shape="rect" id="node4" href="$d0/d73/power__sizing_8c.html#a67f197881bacd8f660ccce6a9f3be3c4" title="power_mux_node_max\l_inputs" alt="" coords="467,37,621,78"/>
+<area shape="rect" id="node5" href="$d0/d73/power__sizing_8c.html#adbeddb6c874593ce39810562c5a39d62" title="power_count_transistor\l_SRAM_bit" alt="" coords="465,102,623,144"/>
+<area shape="rect" id="node6" href="$d0/d73/power__sizing_8c.html#a52e9c598d937bc53f60789d7daa419f2" title="power_count_transistors\l_mux_node" alt="" coords="462,168,626,209"/>
+<area shape="rect" id="node7" href="$d0/d73/power__sizing_8c.html#ab0c52503c3bed7180ff79cfa38a71c4d" title="power_MTAs" alt="" coords="695,175,793,202"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="502,234,586,260"/>
+<area shape="rect" id="node10" href="$d5/dc1/power__util_8c.html#af615f095306c4e92fcbc78e4b04c31a5" title="init_mux_arch_default" alt="" coords="470,284,618,311"/>
+<area shape="rect" id="node11" href="$d5/dc1/power__util_8c.html#a1b13574ffb6e9311e590ca4291dd3c8c" title="mux_arch_fix_levels" alt="" coords="675,226,813,252"/>
+<area shape="rect" id="node12" href="$d5/dc1/power__util_8c.html#a41df01e50f192510c558b5a98d0cdc99" title="alloc_and_load_mux\l_graph" alt="" coords="675,277,813,318"/>
+<area shape="rect" id="node13" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="889,226,973,252"/>
+<area shape="rect" id="node14" href="$d5/dc1/power__util_8c.html#a709894ee9ea2a743999c6cbd3cf83fea" title="alloc_and_load_mux\l_graph_recursive" alt="" coords="861,277,1000,318"/>
+</map>

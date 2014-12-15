@@ -1,0 +1,16 @@
+<map id="check_netlist" name="check_netlist">
+<area shape="rect" id="node2" href="$df/d1e/check__netlist_8c.html#a610549972c30bb800c47ac59d088043d" title="check_subblock_internal_nets" alt="" coords="152,5,349,32"/>
+<area shape="rect" id="node3" href="$df/d1e/check__netlist_8c.html#a876757f39feb22ca4d57db537e688cc7" title="check_primitives" alt="" coords="191,56,311,83"/>
+<area shape="rect" id="node4" href="$d1/d04/hash_8c.html#abd5438dfb9b7764ed7e5c09bf7e9d191" title="alloc_hash_table" alt="" coords="409,136,527,163"/>
+<area shape="rect" id="node6" href="$d1/d04/hash_8c.html#a258b76b9f100b866a85fe7a88c6c021c" title="insert_in_hash_table" alt="" coords="397,377,539,404"/>
+<area shape="rect" id="node9" href="$df/d1e/check__netlist_8c.html#af133ecfc87c1a2a8f4791bab35eb26d8" title="check_connections_to\l_global_clb_pins" alt="" coords="175,223,327,265"/>
+<area shape="rect" id="node10" href="$d1/d04/hash_8c.html#a32583ec5d53b6ea927d5dc66c716f6d1" title="free_hash_table" alt="" coords="193,289,308,316"/>
+<area shape="rect" id="node11" href="$df/d1e/check__netlist_8c.html#a0c9f8a8ef479be721b0ff2e0cba5b99d" title="get_num_conn" alt="" coords="197,340,304,367"/>
+<area shape="rect" id="node12" href="$df/d1e/check__netlist_8c.html#a20ab0e0e5d4900e256caed0b504e8c12" title="check_clb_conn" alt="" coords="193,391,309,417"/>
+<area shape="rect" id="node13" href="$df/d1e/check__netlist_8c.html#ac55154d198df6625918cc3fc5b6ca8f5" title="check_clb_internal_nets" alt="" coords="169,441,332,468"/>
+<area shape="rect" id="node14" href="$df/d1e/check__netlist_8c.html#ae4d246d61adcfa152c2dfa8356f797f6" title="check_subblocks" alt="" coords="189,492,312,519"/>
+<area shape="rect" id="node15" href="$df/d1e/check__netlist_8c.html#a96b0bc50899fe77b6e3f7b4128157628" title="check_for_duplicated\l_names" alt="" coords="178,158,323,199"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="591,136,671,163"/>
+<area shape="rect" id="node7" href="$d1/d04/hash_8c.html#a9186b5f092351c329fce5acb2f56823a" title="hash_value" alt="" coords="587,403,675,429"/>
+<area shape="rect" id="node8" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="589,352,673,379"/>
+</map>

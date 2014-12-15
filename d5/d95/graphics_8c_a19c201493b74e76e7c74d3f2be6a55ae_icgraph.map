@@ -1,0 +1,30 @@
+<map id="getcolor" name="getcolor">
+<area shape="rect" id="node2" href="$d6/dd9/draw_8c.html#adcc4c2ca77d4cda56a55c3af138ae512" title="draw_rr_chanx" alt="" coords="123,359,229,386"/>
+<area shape="rect" id="node29" href="$d6/dd9/draw_8c.html#a85417625fdf2930dcdf26f5352a80ae0" title="draw_rr_chany" alt="" coords="123,309,229,335"/>
+<area shape="rect" id="node3" href="$d6/dd9/draw_8c.html#adc35e0764eb1e9eb6b2b44b3f3a75c11" title="draw_congestion" alt="" coords="277,359,397,386"/>
+<area shape="rect" id="node27" href="$d6/dd9/draw_8c.html#a4aef658e4c439c5be9678635f550d83e" title="draw_rr" alt="" coords="446,258,511,285"/>
+<area shape="rect" id="node28" href="$d6/dd9/draw_8c.html#a3df052ece3da04f5f8876868ae792052" title="drawroute" alt="" coords="298,309,377,335"/>
+<area shape="rect" id="node4" href="$d6/dd9/draw_8c.html#a98532b5e8e525e1df16513f7f4cd9e34" title="redraw_screen" alt="" coords="560,309,667,335"/>
+<area shape="rect" id="node5" href="$d6/dd9/draw_8c.html#ac469a5ab599e7b24240be5648e4a17e8" title="drawscreen" alt="" coords="715,309,805,335"/>
+<area shape="rect" id="node6" href="$de/d28/draw_8h.html#abd9f8f8ef9c098f28e7d45517b7ae95a" title="update_screen" alt="" coords="1207,106,1313,133"/>
+<area shape="rect" id="node12" href="$d6/dd9/draw_8c.html#a972ef3c456314f7b153b53a2433a5f44" title="highlight_rr_nodes" alt="" coords="854,81,981,107"/>
+<area shape="rect" id="node13" href="$d6/dd9/draw_8c.html#ae52a87e2f2cdb714b0c568ef17c814a6" title="highlight_blocks" alt="" coords="1029,81,1144,107"/>
+<area shape="rect" id="node14" href="$d7/d04/graphics_8h.html#ae96b2d5707f5a4981036ceb49e6433d8" title="event_loop" alt="" coords="875,131,960,158"/>
+<area shape="rect" id="node15" href="$d5/d95/graphics_8c.html#a31e1352d290da4bcff92888411ed21b0" title="zoom_in" alt="" coords="1051,182,1122,209"/>
+<area shape="rect" id="node18" href="$d5/d95/graphics_8c.html#a09e8649a381185d14c3e5e741b8a8abc" title="zoom_out" alt="" coords="1047,233,1126,259"/>
+<area shape="rect" id="node19" href="$d5/d95/graphics_8c.html#ae63ad133347ec7f9f6521baecc145c29" title="zoom_fit" alt="" coords="1051,283,1122,310"/>
+<area shape="rect" id="node20" href="$d5/d95/graphics_8c.html#a4549bdf348aaeae08ec365ce917a6fcc" title="translate_up" alt="" coords="1040,334,1133,361"/>
+<area shape="rect" id="node21" href="$d5/d95/graphics_8c.html#aca013b8386af56503dd08834545b3791" title="translate_down" alt="" coords="1031,385,1142,411"/>
+<area shape="rect" id="node22" href="$d5/d95/graphics_8c.html#a8459a96028a512fa9fa3cda82fa24fc9" title="translate_left" alt="" coords="869,435,966,462"/>
+<area shape="rect" id="node23" href="$d5/d95/graphics_8c.html#a8f9cd02d0741fb576b15ad4343192ef4" title="translate_right" alt="" coords="865,486,969,513"/>
+<area shape="rect" id="node24" href="$d5/d95/graphics_8c.html#a50c3a6fdef3e572626ba48783644ecbe" title="update_win" alt="" coords="873,587,961,614"/>
+<area shape="rect" id="node25" href="$d5/d95/graphics_8c.html#a7d3d5f35bd2bdfd056ebd7e6c8a56a62" title="adjustwin" alt="" coords="1048,537,1125,563"/>
+<area shape="rect" id="node26" href="$d5/d95/graphics_8c.html#aa7b119a2cf98a47dacd5a0377a869ef6" title="postscript" alt="" coords="878,638,957,665"/>
+<area shape="rect" id="node7" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="1376,131,1451,158"/>
+<area shape="rect" id="node8" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="1688,161,1805,187"/>
+<area shape="rect" id="node11" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="1499,183,1639,224"/>
+<area shape="rect" id="node9" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="1854,202,1997,229"/>
+<area shape="rect" id="node10" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2045,202,2096,229"/>
+<area shape="rect" id="node16" href="$d5/d95/graphics_8c.html#a6c0dce4390039ed2413ee39d018ef195" title="build_default_menu" alt="" coords="1193,359,1327,386"/>
+<area shape="rect" id="node17" href="$d7/d04/graphics_8h.html#a5503a4f74d3bce7490f258d48e27e649" title="init_graphics" alt="" coords="1522,303,1617,330"/>
+</map>

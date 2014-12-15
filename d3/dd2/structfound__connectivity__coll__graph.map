@@ -1,0 +1,36 @@
+<map id="found_connectivity" name="found_connectivity">
+<area shape="rect" id="node2" href="$d6/dc6/structs__pb.html" title="s_pb" alt="" coords="2268,371,2319,397"/>
+<area shape="rect" id="node31" href="$dd/d3b/structs__logical__block.html" title="s_logical_block" alt="" coords="2477,636,2587,663"/>
+<area shape="rect" id="node3" href="$dd/d8a/structs__pb__graph__node.html" title="s_pb_graph_node" alt="" coords="1871,453,1995,480"/>
+<area shape="rect" id="node17" href="$d9/dff/structs__cluster__placement__primitive.html" title="s_cluster_placement\l_primitive" alt="" coords="2222,474,2365,515"/>
+<area shape="rect" id="node19" href="$d9/d06/structs__pb__graph__pin.html" title="s_pb_graph_pin" alt="" coords="1267,501,1381,528"/>
+<area shape="rect" id="node4" href="$d0/d7a/structs__pb__type.html" title="s_pb_type" alt="" coords="718,505,799,532"/>
+<area shape="rect" id="node7" href="$db/dc8/structs__mode.html" title="s_mode" alt="" coords="1054,379,1122,405"/>
+<area shape="rect" id="node15" href="$d5/d0f/structs__port.html" title="s_port" alt="" coords="1059,511,1117,537"/>
+<area shape="rect" id="node33" href="$d5/de2/structs__pack__pattern__block.html" title="s_pack_pattern_block" alt="" coords="1859,779,2008,805"/>
+<area shape="rect" id="node5" href="$d5/db7/structs__pb__type__power.html" title="s_pb_type_power" alt="" coords="340,423,463,449"/>
+<area shape="rect" id="node6" href="$d2/d1a/structs__power__usage.html" title="s_power_usage" alt="" coords="6,287,119,313"/>
+<area shape="rect" id="node8" href="$d5/d19/structs__mode__power.html" title="s_mode_power" alt="" coords="526,269,637,296"/>
+<area shape="rect" id="node10" href="$d2/d51/structs__interconnect__power.html" title="s_interconnect_power" alt="" coords="507,236,656,263"/>
+<area shape="rect" id="node9" href="$da/d3f/structs__interconnect.html" title="s_interconnect" alt="" coords="1271,303,1377,329"/>
+<area shape="rect" id="node18" href="$d2/d29/structs__interconnect__pins.html" title="s_interconnect_pins" alt="" coords="1540,289,1679,316"/>
+<area shape="rect" id="node21" href="$d3/da2/structs__pb__graph__edge.html" title="s_pb_graph_edge" alt="" coords="1547,201,1671,228"/>
+<area shape="rect" id="node11" href="$d5/d47/structs__pin__to__pin__annotation.html" title="s_pin_to_pin_annotation" alt="" coords="320,349,483,376"/>
+<area shape="rect" id="node12" href="$df/da1/structs__model.html" title="s_model" alt="" coords="366,895,437,921"/>
+<area shape="rect" id="node35" href="$d4/db7/structs__model__chain__pattern.html" title="s_model_chain_pattern" alt="" coords="681,1063,837,1089"/>
+<area shape="rect" id="node13" href="$dd/d9f/structs__linked__vptr.html" title="s_linked_vptr" alt="" coords="13,943,112,969"/>
+<area shape="rect" id="node14" href="$d6/d58/structs__model__ports.html" title="s_model_ports" alt="" coords="9,820,116,847"/>
+<area shape="rect" id="node26" href="$d4/dfd/structs__prepacked__tnode__data.html" title="s_prepacked_tnode_data" alt="" coords="862,795,1029,821"/>
+<area shape="rect" id="node16" href="$d7/d68/structs__port__power.html" title="s_port_power" alt="" coords="1274,383,1374,409"/>
+<area shape="rect" id="node20" href="$dd/d82/structs__pb__graph__pin__power.html" title="s_pb_graph_pin_power" alt="" coords="1532,340,1687,367"/>
+<area shape="rect" id="node23" href="$d3/d41/structs__rr__node.html" title="s_rr_node" alt="" coords="1894,349,1973,376"/>
+<area shape="rect" id="node24" href="$d3/db2/structs__tnode.html" title="s_tnode" alt="" coords="1575,700,1643,727"/>
+<area shape="rect" id="node32" href="$d4/d11/structs__pack__patterns.html" title="s_pack_patterns" alt="" coords="2234,625,2353,652"/>
+<area shape="rect" id="node34" href="$df/ddf/structs__pack__pattern__connections.html" title="s_pack_pattern_connections" alt="" coords="1515,789,1703,816"/>
+<area shape="rect" id="node22" href="$d9/d30/structs__pb__graph__node__power.html" title="s_pb_graph_node_power" alt="" coords="1526,391,1693,417"/>
+<area shape="rect" id="node25" href="$d5/d4c/structs__tedge.html" title="s_tedge" alt="" coords="1290,708,1358,735"/>
+<area shape="rect" id="node27" href="$d8/d58/structs__net.html" title="s_net" alt="" coords="1906,192,1961,219"/>
+<area shape="rect" id="node28" href="$df/d30/structs__net__power.html" title="s_net_power" alt="" coords="1561,72,1657,99"/>
+<area shape="rect" id="node29" href="$d4/d49/structs__pb__stats.html" title="s_pb_stats" alt="" coords="3019,455,3106,481"/>
+<area shape="rect" id="node30" href="$dc/d47/structs__pack__molecule.html" title="s_pack_molecule" alt="" coords="2755,541,2877,568"/>
+</map>

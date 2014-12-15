@@ -1,0 +1,7 @@
+<map id="get_bidir_opin_connections" name="get_bidir_opin_connections">
+<area shape="rect" id="node2" href="$d1/dbf/rr__graph2_8c.html#ae7f0162ccd3dcc4a677912259757ee74" title="is_cbox" alt="" coords="264,5,331,32"/>
+<area shape="rect" id="node4" href="$d1/dbf/rr__graph2_8c.html#a3e368028d8824b4e829e0770d34ca565" title="get_rr_node_index" alt="" coords="234,56,361,83"/>
+<area shape="rect" id="node5" href="$d6/d4f/rr__graph__util_8c.html#af9bb9240a04c5ea56c11b2e2ea3bfcc4" title="insert_in_edge_list" alt="" coords="232,107,363,133"/>
+<area shape="rect" id="node3" href="$d1/dbf/rr__graph2_8c.html#a9b9dbfcf0619eb94874f29138540d3a6" title="get_seg_start" alt="" coords="411,5,512,32"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="419,107,503,133"/>
+</map>

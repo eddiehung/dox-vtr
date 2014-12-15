@@ -1,0 +1,18 @@
+<map id="build_rr_xchan" name="build_rr_xchan">
+<area shape="rect" id="node2" href="$d1/dbf/rr__graph2_8c.html#a9b9dbfcf0619eb94874f29138540d3a6" title="get_seg_start" alt="" coords="915,97,1016,124"/>
+<area shape="rect" id="node3" href="$d1/dbf/rr__graph2_8c.html#a1db0e684fb1d09a600e7c0bd67ac93d2" title="get_seg_end" alt="" coords="917,540,1013,567"/>
+<area shape="rect" id="node4" href="$d1/dbf/rr__graph2_8c.html#a3c9effc7f4942e4a26c01ae9e8ee3cc0" title="get_track_to_ipins" alt="" coords="551,480,679,507"/>
+<area shape="rect" id="node7" href="$d1/dbf/rr__graph2_8c.html#a3e368028d8824b4e829e0770d34ca565" title="get_rr_node_index" alt="" coords="738,211,865,237"/>
+<area shape="rect" id="node10" href="$d1/dbf/rr__graph2_8c.html#a6ee07392330e5b581202f115f7cbf0a2" title="get_track_to_tracks" alt="" coords="167,156,305,183"/>
+<area shape="rect" id="node17" href="$d9/db8/rr__graph_8c.html#a2ec141f81cacb1e51f58ae281cc07ec0" title="alloc_and_load_edges\l_and_switches" alt="" coords="161,667,311,709"/>
+<area shape="rect" id="node5" href="$d1/dbf/rr__graph2_8c.html#ae7f0162ccd3dcc4a677912259757ee74" title="is_cbox" alt="" coords="768,413,835,440"/>
+<area shape="rect" id="node6" href="$d1/dbf/rr__graph2_8c.html#a61d62b68aafae11422e00c4d64ea6f68" title="vpr_to_phy_track" alt="" coords="741,464,862,491"/>
+<area shape="rect" id="node8" href="$d6/d4f/rr__graph__util_8c.html#af9bb9240a04c5ea56c11b2e2ea3bfcc4" title="insert_in_edge_list" alt="" coords="736,363,867,389"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="923,312,1007,339"/>
+<area shape="rect" id="node11" href="$d1/dbf/rr__graph2_8c.html#a66b29caedf9c65c31c2c579437dd99d9" title="is_sbox" alt="" coords="768,97,835,124"/>
+<area shape="rect" id="node12" href="$d1/dbf/rr__graph2_8c.html#af9045b19c966bded53a7fd2d4dcb0b53" title="get_bidir_track_to\l_chan_seg" alt="" coords="552,145,677,186"/>
+<area shape="rect" id="node14" href="$d1/dbf/rr__graph2_8c.html#a301245b47823015b6c2ca671f453689b" title="get_unidir_track_to\l_chan_seg" alt="" coords="361,313,493,354"/>
+<area shape="rect" id="node13" href="$d1/dbf/rr__graph2_8c.html#a5450a5d8aff408663bde4da41571424b" title="get_switch_type" alt="" coords="743,152,859,179"/>
+<area shape="rect" id="node15" href="$d1/dbf/rr__graph2_8c.html#a43ddeaf15c938f957f705c4d5f0e061a" title="label_wire_muxes" alt="" coords="739,312,864,339"/>
+<area shape="rect" id="node16" href="$d1/dbf/rr__graph2_8c.html#a447c698a57bf3c8ad3b012558149a49e" title="label_wire_muxes_for\l_balance" alt="" coords="541,313,688,354"/>
+</map>

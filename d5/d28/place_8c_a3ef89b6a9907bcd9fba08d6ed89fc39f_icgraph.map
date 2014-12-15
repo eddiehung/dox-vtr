@@ -1,0 +1,12 @@
+<map id="get_bb_from_scratch" name="get_bb_from_scratch">
+<area shape="rect" id="node2" href="$d5/d28/place_8c.html#aff821663272ee6257ef2f0a3d9994be2" title="comp_bb_cost" alt="" coords="328,24,435,51"/>
+<area shape="rect" id="node9" href="$d5/d28/place_8c.html#a3cf16324d237b183d89e02865899db5c" title="update_bb" alt="" coords="197,75,280,101"/>
+<area shape="rect" id="node3" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="627,49,701,76"/>
+<area shape="rect" id="node8" href="$d5/d28/place_8c.html#ae83e3f334559dd216950ac8cefc910bb" title="check_place" alt="" coords="483,24,578,51"/>
+<area shape="rect" id="node4" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="939,49,1056,76"/>
+<area shape="rect" id="node7" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="750,71,890,113"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="1105,49,1247,76"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1296,49,1347,76"/>
+<area shape="rect" id="node10" href="$d5/d28/place_8c.html#a1fd584f12dab4e1dc0e948c76fe280b5" title="try_swap" alt="" coords="344,75,419,101"/>
+<area shape="rect" id="node11" href="$d5/d28/place_8c.html#a57c5c026ad442068e9e78f84c8820d37" title="starting_t" alt="" coords="493,125,569,152"/>
+</map>

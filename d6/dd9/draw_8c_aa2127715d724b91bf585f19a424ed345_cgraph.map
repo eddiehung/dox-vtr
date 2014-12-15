@@ -1,0 +1,10 @@
+<map id="toggle_rr" name="toggle_rr">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#af4deb3c34c6f90ae1889771ecf369edf" title="update_message" alt="" coords="126,31,247,57"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#acdec9ac4c32977b9aeec6bf6d73e2eec" title="draw_message" alt="" coords="297,31,407,57"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a1bb83f94ad307bc6f88d8786aa2224eb" title="setcolor" alt="" coords="465,5,533,32"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#af2d1bf3f2a2dc16ef6785d0f8aa6e866" title="setfontsize" alt="" coords="456,56,541,83"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#ab0bf9685ef88f80707870fbd9647fda5" title="force_setcolor" alt="" coords="599,5,703,32"/>
+<area shape="rect" id="node7" href="$d5/d95/graphics_8c.html#a178f60bd5ebeb788e1d3a47317ab8f62" title="force_setfontsize" alt="" coords="590,56,711,83"/>
+<area shape="rect" id="node8" href="$d5/d95/graphics_8c.html#af9c48c9bd315cbd663b4dca3212cb6e3" title="load_font" alt="" coords="760,56,835,83"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="883,56,967,83"/>
+</map>

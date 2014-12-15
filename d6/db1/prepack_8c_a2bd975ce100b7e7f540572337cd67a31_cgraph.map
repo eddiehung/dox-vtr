@@ -1,0 +1,21 @@
+<map id="alloc_and_load_pack_patterns" name="alloc_and_load_pack_patterns">
+<area shape="rect" id="node2" href="$d1/d04/hash_8c.html#abd5438dfb9b7764ed7e5c09bf7e9d191" title="alloc_hash_table" alt="" coords="221,361,339,388"/>
+<area shape="rect" id="node4" href="$d6/db1/prepack_8c.html#ae8c526ab18dcdecc39fae0318dda96f6" title="discover_pattern_names\l_in_pb_graph_node" alt="" coords="198,99,362,141"/>
+<area shape="rect" id="node8" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="845,157,929,184"/>
+<area shape="rect" id="node11" href="$d6/db1/prepack_8c.html#a08c911632e6761b03d3ccb7f2e0964ea" title="alloc_and_init_pattern\l_list_from_hash" alt="" coords="206,295,354,337"/>
+<area shape="rect" id="node16" href="$d6/db1/prepack_8c.html#a829c861a72b8bb9da320cb508b4f9049" title="find_expansion_edge\l_of_pattern" alt="" coords="209,413,351,454"/>
+<area shape="rect" id="node17" href="$d6/db1/prepack_8c.html#aa324358368694417e8c367988831a743" title="backward_expand_pack\l_pattern_from_edge" alt="" coords="199,478,361,519"/>
+<area shape="rect" id="node20" href="$d1/d04/hash_8c.html#a32583ec5d53b6ea927d5dc66c716f6d1" title="free_hash_table" alt="" coords="223,544,337,571"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="468,411,548,437"/>
+<area shape="rect" id="node5" href="$d6/db1/prepack_8c.html#ae806b4d8247c9b26d929a001f83ca101" title="add_pattern_name_to_hash" alt="" coords="417,5,599,32"/>
+<area shape="rect" id="node9" href="$d6/db1/prepack_8c.html#adf1dbee1fc5b9d10de2084f8dbfbdf3c" title="forward_infer_pattern" alt="" coords="436,56,580,83"/>
+<area shape="rect" id="node10" href="$d6/db1/prepack_8c.html#aaa0b43d0f3321d3e7cc680ce262f3941" title="backward_infer_pattern" alt="" coords="429,107,587,133"/>
+<area shape="rect" id="node6" href="$d1/d04/hash_8c.html#a9186b5f092351c329fce5acb2f56823a" title="hash_value" alt="" coords="843,31,931,57"/>
+<area shape="rect" id="node7" href="$d1/d04/hash_8c.html#a258b76b9f100b866a85fe7a88c6c021c" title="insert_in_hash_table" alt="" coords="653,56,795,83"/>
+<area shape="rect" id="node12" href="$d1/d04/hash_8c.html#aa6f91827d5079de29e30d30743717923" title="start_hash_table_iterator" alt="" coords="425,259,591,285"/>
+<area shape="rect" id="node13" href="$d1/d04/hash_8c.html#a50d103bd27ac63b792f3da08028ab10d" title="get_next_hash" alt="" coords="455,309,561,336"/>
+<area shape="rect" id="node14" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="467,360,549,387"/>
+<area shape="rect" id="node15" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="682,360,766,387"/>
+<area shape="rect" id="node18" href="$d6/d8f/vpr__utils_8c.html#af050d17e0084d41158191e7b7da646ee" title="compute_primitive_base_cost" alt="" coords="411,539,605,565"/>
+<area shape="rect" id="node19" href="$d6/db1/prepack_8c.html#aaa99a4254ca8015efc6f6bfc7d41e0ae" title="forward_expand_pack\l_pattern_from_edge" alt="" coords="434,473,582,514"/>
+</map>

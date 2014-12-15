@@ -1,0 +1,8 @@
+<map id="free_cluster_legality_checker" name="free_cluster_legality_checker">
+<area shape="rect" id="node2" href="$d7/d1b/route__common_8c.html#a7c249c4e2b46abf439a667330dee9cb8" title="free_rr_node_route\l_structs" alt="" coords="192,5,323,46"/>
+<area shape="rect" id="node3" href="$d7/d1b/route__common_8c.html#aa86ea67c3aa4e0780e0d87776303c821" title="free_route_structs" alt="" coords="194,71,321,97"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#ac46b599edf89f5119b576ee4adfde6cc" title="free_chunk_memory" alt="" coords="371,96,509,123"/>
+<area shape="rect" id="node5" href="$d7/d1b/route__common_8c.html#ade83f7a7cd23a04e1fa63e2751d5c4e8" title="free_trace_structs" alt="" coords="194,172,321,199"/>
+<area shape="rect" id="node6" href="$d7/d1b/route__common_8c.html#ab8e9188490acf98733ee6df4ba167aac" title="free_traceback" alt="" coords="386,172,494,199"/>
+<area shape="rect" id="node7" href="$d7/d1b/route__common_8c.html#acdb143a41d61c725a42622a974cdd56a" title="free_trace_data" alt="" coords="557,172,669,199"/>
+</map>

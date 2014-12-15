@@ -1,0 +1,5 @@
+<map id="commit_primitive" name="commit_primitive">
+<area shape="rect" id="node2" href="$de/d3a/cluster__placement_8c.html#aa2568044d35e312dc5ed46d347dc53b9" title="flush_intermediate\l_queues" alt="" coords="187,5,314,46"/>
+<area shape="rect" id="node4" href="$de/d3a/cluster__placement_8c.html#a9eea07bdce16d4a53bf4f0eeda01b1be" title="update_primitive_cost\l_or_status" alt="" coords="176,70,325,111"/>
+<area shape="rect" id="node3" href="$de/d3a/cluster__placement_8c.html#a0271dcfe788b0ef9743e77ea95448dfe" title="requeue_primitive" alt="" coords="374,12,498,39"/>
+</map>

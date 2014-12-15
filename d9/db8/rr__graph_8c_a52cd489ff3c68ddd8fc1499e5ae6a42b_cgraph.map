@@ -1,0 +1,5 @@
+<map id="get_opin_direct_connecions" name="get_opin_direct_connecions">
+<area shape="rect" id="node2" href="$d1/dbf/rr__graph2_8c.html#a3e368028d8824b4e829e0770d34ca565" title="get_rr_node_index" alt="" coords="239,5,366,32"/>
+<area shape="rect" id="node3" href="$d6/d4f/rr__graph__util_8c.html#af9bb9240a04c5ea56c11b2e2ea3bfcc4" title="insert_in_edge_list" alt="" coords="237,56,368,83"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="417,56,501,83"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="alloc_and_load_port_pin_ptrs_from_string" name="alloc_and_load_port_pin_ptrs_from_string">
+<area shape="rect" id="node2" href="$d5/d7b/token_8c.html#a1be2d76144c2a43b26fcf56916eecc97" title="GetTokensFromString" alt="" coords="203,56,354,83"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="464,107,544,133"/>
+<area shape="rect" id="node8" href="$db/d98/pb__type__graph_8c.html#afa157e74d3fbb998d23d21883dfe55b0" title="realloc_and_load_pb\l_graph_pin_ptrs_at_var" alt="" coords="200,158,357,199"/>
+<area shape="rect" id="node12" href="$d5/d7b/token_8c.html#aa304786b0d4f48baed57d2fed8fe97b4" title="freeTokens" alt="" coords="235,224,322,251"/>
+<area shape="rect" id="node3" href="$d5/d7b/token_8c.html#af55ff41efb3ede8abb041fe05707c3d6" title="GetTokenTypeFromChar" alt="" coords="422,5,586,32"/>
+<area shape="rect" id="node6" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="463,56,545,83"/>
+<area shape="rect" id="node4" href="$d9/dcc/read__xml__util_8h.html#a5713532572dba05a4be93501e6edc4c9" title="IsWhitespace" alt="" coords="651,5,752,32"/>
+<area shape="rect" id="node7" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="659,56,743,83"/>
+<area shape="rect" id="node9" href="$d5/d7b/token_8c.html#ab27f38099864de10bae790da03d46428" title="checkTokenType" alt="" coords="443,157,565,184"/>
+<area shape="rect" id="node10" href="$d8/d3c/util_8h.html#a122391cf5ffec82660391de1985ca799" title="my_atoi" alt="" coords="471,208,537,235"/>
+<area shape="rect" id="node11" href="$db/d98/pb__type__graph_8c.html#af34dca8492607422a19af3021cbcb570" title="get_pb_graph_pin_from_name" alt="" coords="406,259,602,285"/>
+</map>

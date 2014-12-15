@@ -1,0 +1,8 @@
+<map id="num_ext_inputs_logical_block" name="num_ext_inputs_logical_block">
+<area shape="rect" id="node2" href="$d9/d4d/cluster_8c.html#abdfcc058e92cad2578bfa4bc6627e457" title="mark_and_update_partial_gain" alt="" coords="211,12,410,39"/>
+<area shape="rect" id="node3" href="$d9/d4d/cluster_8c.html#a9627d1a8e27fc6e4147bf897c9e32d85" title="update_cluster_stats" alt="" coords="459,12,602,39"/>
+<area shape="rect" id="node4" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="651,12,749,39"/>
+<area shape="rect" id="node5" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="798,12,869,39"/>
+<area shape="rect" id="node6" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="917,12,992,39"/>
+<area shape="rect" id="node7" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1040,12,1091,39"/>
+</map>

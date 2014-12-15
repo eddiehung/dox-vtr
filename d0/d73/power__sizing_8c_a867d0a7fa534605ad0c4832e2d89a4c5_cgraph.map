@@ -1,0 +1,5 @@
+<map id="power_count_transistors_FF" name="power_count_transistors_FF">
+<area shape="rect" id="node2" href="$d0/d73/power__sizing_8c.html#a81d8d620f681fee39c6674fcfb5267cf" title="power_count_transistors_inv" alt="" coords="241,5,429,32"/>
+<area shape="rect" id="node4" href="$d0/d73/power__sizing_8c.html#a896ef58c322798276390a95c1f970475" title="power_count_transistors\l_trans_gate" alt="" coords="253,57,417,98"/>
+<area shape="rect" id="node3" href="$d0/d73/power__sizing_8c.html#ab0c52503c3bed7180ff79cfa38a71c4d" title="power_MTAs" alt="" coords="477,35,576,61"/>
+</map>

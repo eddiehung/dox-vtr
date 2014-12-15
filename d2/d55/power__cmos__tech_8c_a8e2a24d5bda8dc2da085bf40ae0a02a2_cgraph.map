@@ -1,0 +1,7 @@
+<map id="power_find_buffer_sc_levr" name="power_find_buffer_sc_levr">
+<area shape="rect" id="node2" href="$d2/d55/power__cmos__tech_8c.html#a3c1f26adb2fd4062f20422ee05925187" title="power_compare_buffer\l_sc_levr" alt="" coords="227,5,381,46"/>
+<area shape="rect" id="node3" href="$d5/dc1/power__util_8c.html#aad9d874982fa729ad5063fbc11aaa791" title="power_log_msg" alt="" coords="247,71,361,97"/>
+<area shape="rect" id="node4" href="$d5/dc1/power__util_8c.html#a442cee8e7e5023432a29d09588a3f9b2" title="log_msg" alt="" coords="430,71,501,97"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="550,45,634,72"/>
+<area shape="rect" id="node6" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="552,96,632,123"/>
+</map>

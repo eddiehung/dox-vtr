@@ -1,0 +1,13 @@
+<map id="drawnets" name="drawnets">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#aa646f21a402f640ad3e84ebf05e8a819" title="setlinestyle" alt="" coords="146,5,233,32"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a8d786f840e4a63c0d0deca718c525826" title="setlinewidth" alt="" coords="144,56,235,83"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#a1bb83f94ad307bc6f88d8786aa2224eb" title="setcolor" alt="" coords="155,107,223,133"/>
+<area shape="rect" id="node8" href="$d6/dd9/draw_8c.html#ab617a88602e1472469ac73b58ffa7bfa" title="get_block_center" alt="" coords="129,157,250,184"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#aa1c1f79aadaba11f86d5850112ad6ae2" title="drawline" alt="" coords="154,208,225,235"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#af01949dc6f36ebdd5591e6c2aa749af4" title="force_setlinestyle" alt="" coords="301,5,424,32"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#a7d5b4c1e5e5947c118440fb2c72dfe2e" title="force_setlinewidth" alt="" coords="299,56,426,83"/>
+<area shape="rect" id="node7" href="$d5/d95/graphics_8c.html#ab0bf9685ef88f80707870fbd9647fda5" title="force_setcolor" alt="" coords="311,107,415,133"/>
+<area shape="rect" id="node10" href="$d5/d95/graphics_8c.html#aea2fc6117c7c1caf1ef34075f5f01bf4" title="rect_off_screen" alt="" coords="307,157,418,184"/>
+<area shape="rect" id="node11" href="$d5/d95/graphics_8c.html#a35d56c0ad380813e13bd721fe0cd3ad3" title="xcoord" alt="" coords="333,208,393,235"/>
+<area shape="rect" id="node12" href="$d5/d95/graphics_8c.html#a6dc210107a82a3bae94be4febf6082a8" title="ycoord" alt="" coords="333,259,393,285"/>
+</map>

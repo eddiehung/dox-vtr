@@ -1,0 +1,13 @@
+<map id="free_pb" name="free_pb">
+<area shape="rect" id="node2" href="$d9/d4d/cluster_8c.html#aebcaf129fdf2235eb71d5ccfc80a6d0d" title="revert_place_logical\l_block" alt="" coords="121,19,258,61"/>
+<area shape="rect" id="node9" href="$df/dde/vpr__utils_8h.html#ab8538c85f12e6ae1afa752c9b88bb007" title="free_cb" alt="" coords="339,85,405,112"/>
+<area shape="rect" id="node3" href="$d9/d4d/cluster_8c.html#aeb0d64214d708417cf7c2edddcbfd38d" title="try_pack_molecule" alt="" coords="307,27,437,53"/>
+<area shape="rect" id="node4" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="499,56,597,83"/>
+<area shape="rect" id="node8" href="$d9/d4d/cluster_8c.html#a5ab5154fd25a2c5c4918921718262c35" title="start_new_cluster" alt="" coords="485,5,611,32"/>
+<area shape="rect" id="node5" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="719,56,790,83"/>
+<area shape="rect" id="node6" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="907,56,981,83"/>
+<area shape="rect" id="node7" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1037,81,1088,108"/>
+<area shape="rect" id="node10" href="$d6/d82/vpr__api_8c.html#a4016bcfbf1f2be89e8059c9d5e7807bb" title="free_circuit" alt="" coords="505,107,591,133"/>
+<area shape="rect" id="node11" href="$db/dc2/vpr__api_8h.html#a7d359b5fd0379a51d5ca989d802c5075" title="vpr_free_vpr_data_structures" alt="" coords="659,107,850,133"/>
+<area shape="rect" id="node12" href="$db/dc2/vpr__api_8h.html#ac75d478035753ab7a65ddc3dd241301e" title="vpr_free_all" alt="" coords="899,107,989,133"/>
+</map>

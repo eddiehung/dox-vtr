@@ -1,0 +1,15 @@
+<map id="load_external_nets_and_cb" name="load_external_nets_and_cb">
+<area shape="rect" id="node2" href="$d1/d04/hash_8c.html#abd5438dfb9b7764ed7e5c09bf7e9d191" title="alloc_hash_table" alt="" coords="197,56,315,83"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="419,5,499,32"/>
+<area shape="rect" id="node4" href="$d9/d03/read__netlist_8c.html#a14522771df7161edff6794784072320b" title="add_net_to_hash" alt="" coords="195,107,317,133"/>
+<area shape="rect" id="node8" href="$d9/d03/read__netlist_8c.html#a100fb54627dd4fbfd00aa1be5da02686" title="alloc_and_init_netlist\l_from_hash" alt="" coords="185,158,327,199"/>
+<area shape="rect" id="node13" href="$d1/d5b/ReadLine_8h.html#afa1300a05b46dd99ee28f425c4d4ac61" title="CountTokens" alt="" coords="207,224,305,251"/>
+<area shape="rect" id="node14" href="$d1/d04/hash_8c.html#a32583ec5d53b6ea927d5dc66c716f6d1" title="free_hash_table" alt="" coords="199,275,313,301"/>
+<area shape="rect" id="node5" href="$d1/d04/hash_8c.html#a9186b5f092351c329fce5acb2f56823a" title="hash_value" alt="" coords="589,69,677,96"/>
+<area shape="rect" id="node6" href="$d1/d04/hash_8c.html#a258b76b9f100b866a85fe7a88c6c021c" title="insert_in_hash_table" alt="" coords="388,107,529,133"/>
+<area shape="rect" id="node7" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="591,145,675,172"/>
+<area shape="rect" id="node9" href="$d1/d04/hash_8c.html#aa6f91827d5079de29e30d30743717923" title="start_hash_table_iterator" alt="" coords="376,259,541,285"/>
+<area shape="rect" id="node10" href="$d1/d04/hash_8c.html#a50d103bd27ac63b792f3da08028ab10d" title="get_next_hash" alt="" coords="405,309,512,336"/>
+<area shape="rect" id="node11" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="417,208,500,235"/>
+<area shape="rect" id="node12" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="591,208,675,235"/>
+</map>

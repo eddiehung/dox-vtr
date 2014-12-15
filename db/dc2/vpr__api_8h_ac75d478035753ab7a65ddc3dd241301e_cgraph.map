@@ -1,0 +1,33 @@
+<map id="vpr_free_all" name="vpr_free_all">
+<area shape="rect" id="node2" href="$d9/db8/rr__graph_8c.html#a5ac80ccd89c0d20aefdd39bfa11c4cb8" title="free_rr_graph" alt="" coords="191,56,289,83"/>
+<area shape="rect" id="node5" href="$d7/d1b/route__common_8c.html#aa86ea67c3aa4e0780e0d87776303c821" title="free_route_structs" alt="" coords="177,183,303,209"/>
+<area shape="rect" id="node6" href="$d7/d1b/route__common_8c.html#ade83f7a7cd23a04e1fa63e2751d5c4e8" title="free_trace_structs" alt="" coords="177,469,303,496"/>
+<area shape="rect" id="node9" href="$d6/d82/vpr__api_8c.html#a7d359b5fd0379a51d5ca989d802c5075" title="vpr_free_vpr_data_structures" alt="" coords="145,284,335,311"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h.html#ac46b599edf89f5119b576ee4adfde6cc" title="free_chunk_memory" alt="" coords="836,107,975,133"/>
+<area shape="rect" id="node4" href="$d1/dbf/rr__graph2_8c.html#a71c18579afb04b2e7ff6c6752910b275" title="free_rr_node_indices" alt="" coords="395,5,538,32"/>
+<area shape="rect" id="node7" href="$d7/d1b/route__common_8c.html#ab8e9188490acf98733ee6df4ba167aac" title="free_traceback" alt="" coords="413,629,521,656"/>
+<area shape="rect" id="node8" href="$d7/d1b/route__common_8c.html#acdb143a41d61c725a42622a974cdd56a" title="free_trace_data" alt="" coords="629,680,741,707"/>
+<area shape="rect" id="node10" href="$d6/d82/vpr__api_8c.html#ae9fd3aa92ffa5f61088fd65d6f54e90e" title="free_options" alt="" coords="420,157,513,184"/>
+<area shape="rect" id="node11" href="$d6/d82/vpr__api_8c.html#a4016bcfbf1f2be89e8059c9d5e7807bb" title="free_circuit" alt="" coords="423,208,510,235"/>
+<area shape="rect" id="node18" href="$d6/d82/vpr__api_8c.html#acf002a3b6cd46deb777faaf37389ffc2" title="free_arch" alt="" coords="429,411,505,437"/>
+<area shape="rect" id="node26" href="$da/de8/ReadOptions_8c.html#aa29915518ad1c25a71913515ca41197b" title="free_echo_file_info" alt="" coords="401,259,532,285"/>
+<area shape="rect" id="node27" href="$da/de8/ReadOptions_8c.html#a6963b83a07a9d38f874d9fe81bc33592" title="free_output_file_names" alt="" coords="389,309,545,336"/>
+<area shape="rect" id="node28" href="$dc/dfb/path__delay_8c.html#aff932c12be2d171842788598636b0910" title="free_timing_stats" alt="" coords="405,360,528,387"/>
+<area shape="rect" id="node29" href="$da/d7d/read__sdc_8c.html#ad6f65de56f4461597d67967723d533c7" title="free_sdc_related_structs" alt="" coords="384,528,549,555"/>
+<area shape="rect" id="node12" href="$d9/d03/read__netlist_8c.html#accc27476c027f810a45570658afb28a3" title="free_logical_blocks" alt="" coords="619,157,752,184"/>
+<area shape="rect" id="node13" href="$d9/d03/read__netlist_8c.html#a39519519da078c949aff8ab9b25e5cc6" title="free_logical_nets" alt="" coords="625,208,745,235"/>
+<area shape="rect" id="node14" href="$d6/d8f/vpr__utils_8c.html#ab8538c85f12e6ae1afa752c9b88bb007" title="free_cb" alt="" coords="653,259,718,285"/>
+<area shape="rect" id="node15" href="$d6/d8f/vpr__utils_8c.html#ac63433767f7ea088bd9adaa995560bab" title="free_pb" alt="" coords="873,259,938,285"/>
+<area shape="rect" id="node16" href="$de/d3a/cluster__placement_8c.html#a09819ffc3d7b6e34427b9a41fecaaf5a" title="get_array_size_of_molecule" alt="" coords="1038,233,1221,260"/>
+<area shape="rect" id="node17" href="$d6/d8f/vpr__utils_8c.html#ad1a6c7cb515c3fcb73f688bd19b5353e" title="free_pb_stats" alt="" coords="1079,284,1180,311"/>
+<area shape="rect" id="node19" href="$d5/d64/SetupGrid_8c.html#a0dc11ea5eb56d74104649c7a987b648e" title="freeGrid" alt="" coords="651,427,719,453"/>
+<area shape="rect" id="node21" href="$d6/d82/vpr__api_8c.html#ae97e92efdab0e0db2d7a7a387a5b82c6" title="free_complex_block\l_types" alt="" coords="617,361,754,402"/>
+<area shape="rect" id="node25" href="$d7/d1b/route__common_8c.html#a4c5d78b98f2f232e177bc946bf53db0d" title="free_chunk_memory_trace" alt="" coords="598,309,773,336"/>
+<area shape="rect" id="node20" href="$d8/d3c/util_8h.html#a3931c4ab87f99a070968c1f299454c07" title="free_matrix" alt="" coords="862,457,949,484"/>
+<area shape="rect" id="node22" href="$db/d98/pb__type__graph_8c.html#aa3300b462c6c67aabeb3a6dfcbccd74c" title="free_all_pb_graph_nodes" alt="" coords="822,352,989,379"/>
+<area shape="rect" id="node24" href="$d6/d82/vpr__api_8c.html#aff239fd1eeff107a7b9c017eb2841c0f" title="free_pb_type" alt="" coords="857,403,953,429"/>
+<area shape="rect" id="node23" href="$db/d98/pb__type__graph_8c.html#a5bb2848c1568e83d51f022713d2dd4d7" title="free_pb_graph" alt="" coords="1077,352,1181,379"/>
+<area shape="rect" id="node30" href="$da/d7d/read__sdc_8c.html#af5931418acd0cd35ae13397c9fbc1de5" title="free_override_constraint" alt="" coords="605,579,766,605"/>
+<area shape="rect" id="node31" href="$da/d7d/read__sdc_8c.html#a1e7b34a3911183fda7fa4dad8d4b8801" title="free_io_constraint" alt="" coords="623,629,748,656"/>
+<area shape="rect" id="node32" href="$da/d7d/read__sdc_8c.html#ab720f7cb2e523c929374153915db4ac4" title="free_clock_constraint" alt="" coords="612,528,759,555"/>
+</map>

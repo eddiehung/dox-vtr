@@ -1,0 +1,7 @@
+<map id="power_count_transistors_mux" name="power_count_transistors_mux">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="291,5,371,32"/>
+<area shape="rect" id="node3" href="$d0/d73/power__sizing_8c.html#a67f197881bacd8f660ccce6a9f3be3c4" title="power_mux_node_max\l_inputs" alt="" coords="253,57,408,98"/>
+<area shape="rect" id="node4" href="$d0/d73/power__sizing_8c.html#adbeddb6c874593ce39810562c5a39d62" title="power_count_transistor\l_SRAM_bit" alt="" coords="252,122,409,163"/>
+<area shape="rect" id="node5" href="$d0/d73/power__sizing_8c.html#a52e9c598d937bc53f60789d7daa419f2" title="power_count_transistors\l_mux_node" alt="" coords="249,187,413,229"/>
+<area shape="rect" id="node6" href="$d0/d73/power__sizing_8c.html#ab0c52503c3bed7180ff79cfa38a71c4d" title="power_MTAs" alt="" coords="461,195,560,221"/>
+</map>

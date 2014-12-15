@@ -1,0 +1,21 @@
+<map id="starting_t" name="starting_t">
+<area shape="rect" id="node2" href="$d5/d28/place_8c.html#a1fd584f12dab4e1dc0e948c76fe280b5" title="try_swap" alt="" coords="140,230,215,257"/>
+<area shape="rect" id="node20" href="$d5/d28/place_8c.html#a07dad987f68c52c868e99d10fa005ee5" title="get_std_dev" alt="" coords="131,281,224,308"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h.html#ab23e424631f4adabd831b92d980e87dd" title="my_irand" alt="" coords="523,16,597,42"/>
+<area shape="rect" id="node4" href="$d5/d28/place_8c.html#a654ee419749adeb34466e48e55464f43" title="find_to" alt="" coords="322,53,382,80"/>
+<area shape="rect" id="node5" href="$d5/d28/place_8c.html#a63bcd30dc4624255cb62bcb26b842618" title="find_affected_blocks" alt="" coords="282,104,422,130"/>
+<area shape="rect" id="node10" href="$d5/d28/place_8c.html#aa55efc32499916187b6fc387a73bbabb" title="find_affected_nets" alt="" coords="289,154,415,181"/>
+<area shape="rect" id="node11" href="$d5/d28/place_8c.html#a1d93c15d44b818d4f8d62c46f09ca9b3" title="get_non_updateable_bb" alt="" coords="273,205,431,232"/>
+<area shape="rect" id="node12" href="$d5/d28/place_8c.html#a3cf16324d237b183d89e02865899db5c" title="update_bb" alt="" coords="311,256,393,282"/>
+<area shape="rect" id="node14" href="$d5/d28/place_8c.html#a05c8129a438817c45b99796442879f17" title="get_net_cost" alt="" coords="303,306,401,333"/>
+<area shape="rect" id="node15" href="$d5/d28/place_8c.html#ad7944320a7319eaea5f009e3cb136583" title="comp_delta_td_cost" alt="" coords="283,357,421,384"/>
+<area shape="rect" id="node17" href="$d5/d28/place_8c.html#ad87971682a5cb2f26de16d059327966a" title="assess_swap" alt="" coords="301,408,403,434"/>
+<area shape="rect" id="node19" href="$d5/d28/place_8c.html#af51d6a5c45503d0c78d2b4b7f33d0f57" title="update_td_cost" alt="" coords="297,458,407,485"/>
+<area shape="rect" id="node6" href="$de/d20/place__macro_8c.html#a8fd4a451b8de3c5e8ae8e86a645a6eef" title="get_imacro_from_iblk" alt="" coords="688,117,835,144"/>
+<area shape="rect" id="node9" href="$d5/d28/place_8c.html#a2b7922b8a5ca1b06d9e04343d50b92fd" title="setup_blocks_affected" alt="" coords="484,142,636,169"/>
+<area shape="rect" id="node7" href="$de/d20/place__macro_8c.html#a6ab88089f4e60bf2f5f04163c6045468" title="alloc_and_load_imacro\l_from_iblk" alt="" coords="883,110,1037,151"/>
+<area shape="rect" id="node8" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="1086,117,1170,144"/>
+<area shape="rect" id="node13" href="$d5/d28/place_8c.html#a3ef89b6a9907bcd9fba08d6ed89fc39f" title="get_bb_from_scratch" alt="" coords="488,256,632,282"/>
+<area shape="rect" id="node16" href="$d5/d28/place_8c.html#a91f0fabc63cfed10e16eab09311b4436" title="comp_td_point_to_point\l_delay" alt="" coords="480,346,640,387"/>
+<area shape="rect" id="node18" href="$d8/d3c/util_8h.html#a3535ffc58a1de512ed53661ddf20c550" title="my_frand" alt="" coords="523,412,597,438"/>
+</map>

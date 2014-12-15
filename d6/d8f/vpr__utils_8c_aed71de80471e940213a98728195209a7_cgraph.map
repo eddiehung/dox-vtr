@@ -1,0 +1,5 @@
+<map id="mark_direct_of_pins" name="mark_direct_of_pins">
+<area shape="rect" id="node2" href="$d6/d8f/vpr__utils_8c.html#a62b868513731f29140ff304c5529991a" title="get_blk_pin_from_port_pin" alt="" coords="193,12,367,39"/>
+<area shape="rect" id="node3" href="$d6/d8f/vpr__utils_8c.html#a9fd4bee5b08bf7c2499128536aad78ca" title="alloc_and_load_blk\l_pin_from_port_pin" alt="" coords="417,5,549,46"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="598,12,682,39"/>
+</map>

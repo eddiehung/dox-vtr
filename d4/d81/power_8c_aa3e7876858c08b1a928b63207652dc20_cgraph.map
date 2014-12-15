@@ -1,0 +1,4 @@
+<map id="power_pb_pins_init" name="power_pb_pins_init">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html#a54db09266cd93c3b06060b9e2832d1cc" title="power_init_pb_pins_rec" alt="" coords="187,12,346,39"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#a8bd4205beff7f8c7c22a867a9ca0c6b9" title="power_alloc_and_init\l_pb_pin" alt="" coords="395,5,538,46"/>
+</map>

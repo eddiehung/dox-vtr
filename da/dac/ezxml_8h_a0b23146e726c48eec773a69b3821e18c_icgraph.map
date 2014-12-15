@@ -1,0 +1,20 @@
+<map id="ezxml_parse_str" name="ezxml_parse_str">
+<area shape="rect" id="node2" href="$da/dac/ezxml_8h.html#a858d6119f0037aa4942b462e1a8be13f" title="ezxml_parse_fp" alt="" coords="171,40,283,67"/>
+<area shape="rect" id="node3" href="$da/dac/ezxml_8h.html#a1f60cc9245b827aab4d9b4a4f19b1ed5" title="ezxml_parse_fd" alt="" coords="171,91,283,117"/>
+<area shape="rect" id="node4" href="$da/dac/ezxml_8h.html#ae02fc362215594af64c6799ffa6bed01" title="ezxml_parse_file" alt="" coords="331,91,448,117"/>
+<area shape="rect" id="node5" href="$d2/d55/power__cmos__tech_8c.html#a66742c5985744c61a661a30dda84385e" title="power_tech_load_xml_file" alt="" coords="496,9,667,36"/>
+<area shape="rect" id="node10" href="$dc/db8/read__netlist_8h.html#a5d118d7a4eb7341e0ea00b037fa6e429" title="read_netlist" alt="" coords="537,63,626,89"/>
+<area shape="rect" id="node12" href="$d4/d7d/read__settings_8h.html#abf797198e76eaefda57b60e9ca28ef4a" title="read_settings_file" alt="" coords="520,119,643,145"/>
+<area shape="rect" id="node16" href="$d7/dcd/read__xml__arch__file_8c.html#a75037d4e194e211e4c8bd7c6572540d2" title="XmlReadArch" alt="" coords="530,181,633,208"/>
+<area shape="rect" id="node6" href="$db/d3f/power__cmos__tech_8h.html#a89f96ad5271aa55c5f446b303864afbf" title="power_tech_init" alt="" coords="715,5,829,32"/>
+<area shape="rect" id="node7" href="$d3/d6a/power_8h.html#a3b4568a404e54c4ad43be065c64d8cdd" title="power_init" alt="" coords="898,5,979,32"/>
+<area shape="rect" id="node8" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="1048,5,1197,32"/>
+<area shape="rect" id="node9" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1245,64,1296,91"/>
+<area shape="rect" id="node11" href="$db/dc2/vpr__api_8h.html#a6e121f7670c1d36e3ff4733f5f9b7fb3" title="vpr_init_pre_place\l_and_route" alt="" coords="1059,57,1186,98"/>
+<area shape="rect" id="node13" href="$d6/dff/ReadOptions_8h.html#a6f9da03153ce52a3fe1cd0b09452fa24" title="ReadOptions" alt="" coords="723,131,821,157"/>
+<area shape="rect" id="node14" href="$db/dc2/vpr__api_8h.html#a9bd9340df0499b6ec5687b6ad0ac3e16" title="vpr_init" alt="" coords="907,169,971,196"/>
+<area shape="rect" id="node15" href="$db/dc2/vpr__api_8h.html#ac4cfd60860da31fb9202b7ef61c36ad8" title="vpr_read_options" alt="" coords="878,119,999,145"/>
+<area shape="rect" id="node17" href="$df/d2e/libarchfpga_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="747,181,797,208"/>
+<area shape="rect" id="node18" href="$da/d24/SetupVPR_8c.html#a093769a14f47f194103dbb73dbe4e516" title="SetupVPR" alt="" coords="731,232,813,259"/>
+<area shape="rect" id="node19" href="$db/dc2/vpr__api_8h.html#a274a4523cd1f7cfb426975be42ce6418" title="vpr_setup_vpr" alt="" coords="887,232,991,259"/>
+</map>

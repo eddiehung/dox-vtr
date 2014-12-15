@@ -1,0 +1,12 @@
+<map id="comp_width" name="comp_width">
+<area shape="rect" id="node2" href="$d5/d5a/place__and__route_8h.html#a05cefceae143887dde8b0f11d45c132e" title="init_chan" alt="" coords="147,96,221,123"/>
+<area shape="rect" id="node3" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="896,67,971,93"/>
+<area shape="rect" id="node7" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="1019,114,1159,155"/>
+<area shape="rect" id="node8" href="$de/dbf/route__export_8h.html#ad38805571e14b11ab1c4354866206507" title="try_route" alt="" coords="897,172,969,199"/>
+<area shape="rect" id="node9" href="$d5/d01/timing__place__lookup_8c.html#aac9e7f82c1830b6c01e4ca925da9026a" title="setup_chan_width" alt="" coords="270,16,397,43"/>
+<area shape="rect" id="node4" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="1208,121,1325,148"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="1374,121,1517,148"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1565,121,1616,148"/>
+<area shape="rect" id="node10" href="$dd/d75/timing__place__lookup_8h.html#a1d2181b94fee952fc0d04599df134407" title="compute_delay_lookup\l_tables" alt="" coords="445,5,600,46"/>
+<area shape="rect" id="node11" href="$db/d3c/timing__place_8h.html#a1565c2ac95e3032c61718efd0e711951" title="alloc_lookups_and_criticalities" alt="" coords="649,16,847,43"/>
+</map>

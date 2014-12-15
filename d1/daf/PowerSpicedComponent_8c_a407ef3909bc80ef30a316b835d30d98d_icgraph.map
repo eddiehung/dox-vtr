@@ -1,0 +1,8 @@
+<map id="sorter_PowerCallibInputs" name="sorter_PowerCallibInputs">
+<area shape="rect" id="node2" href="$de/db0/classPowerSpicedComponent.html#a744d15a6ddd823896b470c3e2827956e" title="PowerSpicedComponent\l::sort_me" alt="" coords="221,5,387,46"/>
+<area shape="rect" id="node3" href="$de/db0/classPowerSpicedComponent.html#a70fc81836e6aff333b8970c49b0b1bf0" title="PowerSpicedComponent\l::callibrate" alt="" coords="435,5,600,46"/>
+<area shape="rect" id="node4" href="$da/dac/power__callibrate_8h.html#a451ba5ab98d0cb6906c8d0c52b7f0adb" title="power_callibrate" alt="" coords="649,12,765,39"/>
+<area shape="rect" id="node5" href="$d3/d6a/power_8h.html#a3b4568a404e54c4ad43be065c64d8cdd" title="power_init" alt="" coords="814,12,895,39"/>
+<area shape="rect" id="node6" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="944,12,1093,39"/>
+<area shape="rect" id="node7" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1141,12,1192,39"/>
+</map>

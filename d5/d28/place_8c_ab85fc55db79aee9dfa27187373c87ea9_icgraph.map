@@ -1,0 +1,8 @@
+<map id="initial_placement_blocks" name="initial_placement_blocks">
+<area shape="rect" id="node2" href="$d5/d28/place_8c.html#a79048f177631c14528f22805ac08046d" title="initial_placement" alt="" coords="219,5,338,32"/>
+<area shape="rect" id="node3" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="387,5,461,32"/>
+<area shape="rect" id="node4" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="699,5,816,32"/>
+<area shape="rect" id="node7" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="510,27,650,69"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="865,5,1007,32"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1056,5,1107,32"/>
+</map>

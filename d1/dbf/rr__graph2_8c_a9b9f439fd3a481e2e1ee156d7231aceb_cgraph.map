@@ -1,0 +1,6 @@
+<map id="label_incoming_wires" name="label_incoming_wires">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="206,5,290,32"/>
+<area shape="rect" id="node3" href="$d1/dbf/rr__graph2_8c.html#a9b9dbfcf0619eb94874f29138540d3a6" title="get_seg_start" alt="" coords="344,107,445,133"/>
+<area shape="rect" id="node4" href="$d1/dbf/rr__graph2_8c.html#a1db0e684fb1d09a600e7c0bd67ac93d2" title="get_seg_end" alt="" coords="200,107,296,133"/>
+<area shape="rect" id="node5" href="$d1/dbf/rr__graph2_8c.html#a66b29caedf9c65c31c2c579437dd99d9" title="is_sbox" alt="" coords="215,157,281,184"/>
+</map>

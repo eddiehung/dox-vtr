@@ -1,0 +1,7 @@
+<map id="power_reset_pb_type" name="power_reset_pb_type">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html#a70bb7d9561f9ee82834b6412a8a36b9c" title="power_reset_tile_usage" alt="" coords="201,5,359,32"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#aa5848ac7e0ff88d1a50d7b8d3f77a233" title="power_usage_blocks" alt="" coords="408,5,552,32"/>
+<area shape="rect" id="node4" href="$d3/d6a/power_8h.html#a618a0ec5323986d02d47962e3153f00a" title="power_total" alt="" coords="601,5,690,32"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="739,5,888,32"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="936,5,987,32"/>
+</map>

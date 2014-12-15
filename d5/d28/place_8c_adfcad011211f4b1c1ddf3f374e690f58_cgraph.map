@@ -1,0 +1,5 @@
+<map id="initial_placement_pl_macros" name="initial_placement_pl_macros">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ab23e424631f4adabd831b92d980e87dd" title="my_irand" alt="" coords="211,5,285,32"/>
+<area shape="rect" id="node3" href="$d5/d28/place_8c.html#a166c67c05d15ec446c97c8586ea406cf" title="try_place_macro" alt="" coords="189,56,307,83"/>
+<area shape="rect" id="node4" href="$d5/d28/place_8c.html#ad16763b87acec27a1c09380879db528a" title="check_macro_can_be\l_placed" alt="" coords="355,49,504,90"/>
+</map>

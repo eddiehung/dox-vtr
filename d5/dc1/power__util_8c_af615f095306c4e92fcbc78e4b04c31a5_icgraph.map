@@ -1,0 +1,24 @@
+<map id="init_mux_arch_default" name="init_mux_arch_default">
+<area shape="rect" id="node2" href="$d7/d6e/power__util_8h.html#a261868edb06cfafcb7abfe62ca1ce779" title="power_get_mux_arch" alt="" coords="203,165,349,192"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#a07a077ef8a222ba2012e7ddc72a10b5e" title="power_usage_routing" alt="" coords="873,107,1018,133"/>
+<area shape="rect" id="node7" href="$da/dac/power__callibrate_8h.html#ad322bfc9cf11df0b3e924c4a6c93fa58" title="power_print_spice_comparison" alt="" coords="398,56,599,83"/>
+<area shape="rect" id="node8" href="$da/dac/power__callibrate_8h.html#a394b2695157298794b53664daae44d04" title="power_usage_mux_for\l_callibration" alt="" coords="660,347,812,389"/>
+<area shape="rect" id="node13" href="$d9/dc0/power__components_8h.html#ab5ea42c2d0b71139fef6b6179663a726" title="power_usage_local_interc_mux" alt="" coords="397,5,600,32"/>
+<area shape="rect" id="node16" href="$d0/d73/power__sizing_8c.html#a85c8091c70150adb7190b548265e72cf" title="power_count_transistors\l_connectionbox" alt="" coords="417,223,581,265"/>
+<area shape="rect" id="node19" href="$d0/d73/power__sizing_8c.html#af952e26cf24f98f3f9633355ac6e0c23" title="power_count_transistors\l_interc" alt="" coords="417,289,581,330"/>
+<area shape="rect" id="node23" href="$d0/d73/power__sizing_8c.html#aea6071a935b234fd754c134472d5223d" title="power_count_transistors\l_switchbox" alt="" coords="417,158,581,199"/>
+<area shape="rect" id="node4" href="$d3/d6a/power_8h.html#a618a0ec5323986d02d47962e3153f00a" title="power_total" alt="" coords="1107,107,1197,133"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="1587,229,1736,256"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1784,229,1835,256"/>
+<area shape="rect" id="node9" href="$d2/d55/power__cmos__tech_8c.html#a3ff6ff1aae4ac332ef728ec5fd27e014" title="power_tech_xml_load\l_components" alt="" coords="872,342,1019,383"/>
+<area shape="rect" id="node10" href="$d2/d55/power__cmos__tech_8c.html#a66742c5985744c61a661a30dda84385e" title="power_tech_load_xml_file" alt="" coords="1067,345,1237,372"/>
+<area shape="rect" id="node11" href="$db/d3f/power__cmos__tech_8h.html#a89f96ad5271aa55c5f446b303864afbf" title="power_tech_init" alt="" coords="1290,343,1403,369"/>
+<area shape="rect" id="node12" href="$d3/d6a/power_8h.html#a3b4568a404e54c4ad43be065c64d8cdd" title="power_init" alt="" coords="1457,287,1538,313"/>
+<area shape="rect" id="node14" href="$d4/d81/power_8c.html#a894137e7496df591f7f7c0f35b73e6f8" title="power_usage_pb" alt="" coords="676,19,796,45"/>
+<area shape="rect" id="node15" href="$d4/d81/power_8c.html#aa5848ac7e0ff88d1a50d7b8d3f77a233" title="power_usage_blocks" alt="" coords="873,31,1017,57"/>
+<area shape="rect" id="node17" href="$d0/d73/power__sizing_8c.html#a42724b2554d30373bef2b91959129209" title="power_transistors_per_tile" alt="" coords="649,231,823,257"/>
+<area shape="rect" id="node18" href="$da/dba/power__sizing_8h.html#a7d0843ddb5c4c9ca40e513be521ea1bf" title="power_sizing_init" alt="" coords="1286,287,1407,313"/>
+<area shape="rect" id="node20" href="$d0/d73/power__sizing_8c.html#a5ead39b87bc9f906c63db5f126a8e1ad" title="power_count_transistors\l_pb_node" alt="" coords="654,282,818,323"/>
+<area shape="rect" id="node21" href="$d0/d73/power__sizing_8c.html#a9b9d2cad162672945275c8475fcf28af" title="power_size_pb_rec" alt="" coords="879,288,1012,315"/>
+<area shape="rect" id="node22" href="$d0/d73/power__sizing_8c.html#ac28ceaaaf912ba47de0cdfdc50396497" title="power_size_pb" alt="" coords="1098,287,1206,313"/>
+</map>

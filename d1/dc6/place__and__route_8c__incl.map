@@ -1,0 +1,29 @@
+<map id="place_and_route.c" name="place_and_route.c">
+<area shape="rect" id="node6" href="$d8/d3c/util_8h.html" title="util.h" alt="" coords="967,528,1016,555"/>
+<area shape="rect" id="node10" href="$d1/d3f/vpr__types_8h.html" title="vpr_types.h" alt="" coords="356,155,444,181"/>
+<area shape="rect" id="node16" href="$df/dde/vpr__utils_8h.html" title="vpr_utils.h" alt="" coords="967,155,1048,181"/>
+<area shape="rect" id="node17" href="$d5/d87/globals_8h.html" title="globals.h" alt="" coords="1365,155,1437,181"/>
+<area shape="rect" id="node18" href="$d5/d5a/place__and__route_8h.html" title="place_and_route.h" alt="" coords="1895,80,2021,107"/>
+<area shape="rect" id="node19" href="$d2/d2e/place_8h.html" title="place.h" alt="" coords="2046,80,2108,107"/>
+<area shape="rect" id="node20" href="$d3/dc8/read__place_8h.html" title="read_place.h" alt="" coords="1462,155,1556,181"/>
+<area shape="rect" id="node21" href="$de/dbf/route__export_8h.html" title="route_export.h" alt="" coords="2133,80,2235,107"/>
+<area shape="rect" id="node22" href="$de/d28/draw_8h.html" title="draw.h" alt="" coords="1581,155,1640,181"/>
+<area shape="rect" id="node23" href="$d9/d9b/stats_8h.html" title="stats.h" alt="" coords="1665,155,1727,181"/>
+<area shape="rect" id="node24" href="$d0/dbb/check__route_8h.html" title="check_route.h" alt="" coords="1751,155,1853,181"/>
+<area shape="rect" id="node25" href="$df/dfd/rr__graph_8h.html" title="rr_graph.h" alt="" coords="1878,155,1956,181"/>
+<area shape="rect" id="node26" href="$dd/de5/path__delay_8h.html" title="path_delay.h" alt="" coords="1981,155,2075,181"/>
+<area shape="rect" id="node27" href="$d4/d8c/net__delay_8h.html" title="net_delay.h" alt="" coords="2099,155,2185,181"/>
+<area shape="rect" id="node28" href="$db/d3c/timing__place_8h.html" title="timing_place.h" alt="" coords="2210,155,2315,181"/>
+<area shape="rect" id="node29" href="$d9/d15/read__xml__arch__file_8h.html" title="read_xml_arch_file.h" alt="" coords="804,155,943,181"/>
+<area shape="rect" id="node30" href="$d6/dff/ReadOptions_8h.html" title="ReadOptions.h" alt="" coords="2340,155,2447,181"/>
+<area shape="rect" id="node32" href="$d1/dde/route__common_8h.html" title="route_common.h" alt="" coords="2259,80,2377,107"/>
+<area shape="rect" id="node33" href="$d2/d6a/place__macro_8h.html" title="place_macro.h" alt="" coords="2403,80,2509,107"/>
+<area shape="rect" id="node34" href="$de/d8d/verilog__writer_8h.html" title="verilog_writer.h" alt="" coords="1255,80,1364,107"/>
+<area shape="rect" id="node36" href="$d3/d6a/power_8h.html" title="power.h" alt="" coords="187,80,253,107"/>
+<area shape="rect" id="node11" href="$d5/d3c/arch__types_8h.html" title="arch_types.h" alt="" coords="785,229,879,256"/>
+<area shape="rect" id="node12" href="$d5/d14/logic__types_8h.html" title="logic_types.h" alt="" coords="798,453,895,480"/>
+<area shape="rect" id="node13" href="$df/d81/physical__types_8h.html" title="physical_types.h" alt="" coords="869,379,985,405"/>
+<area shape="rect" id="node14" href="$d5/d3f/cad__types_8h.html" title="cad_types.h" alt="" coords="704,304,795,331"/>
+<area shape="rect" id="node31" href="$d9/dde/OptionTokens_8h.html" title="OptionTokens.h" alt="" coords="2337,229,2449,256"/>
+<area shape="rect" id="node38" href="$df/dda/PowerSpicedComponent_8h.html" title="PowerSpicedComponent.h" alt="" coords="106,155,280,181"/>
+</map>

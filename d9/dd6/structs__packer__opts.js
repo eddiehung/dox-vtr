@@ -1,0 +1,25 @@
+var structs__packer__opts =
+[
+    [ "allow_early_exit", "d9/dd6/structs__packer__opts.html#a70f1e70be9cbd001cc21395d5b46ad8a", null ],
+    [ "allow_unrelated_clustering", "d9/dd6/structs__packer__opts.html#a39b516d8d6ab5fbc813da77e3da988a0", null ],
+    [ "alpha", "d9/dd6/structs__packer__opts.html#aa0dc88fdd50b3739b0f9521e2a646d91", null ],
+    [ "aspect", "d9/dd6/structs__packer__opts.html#aa9b7cac05f54bff1a234ab0d15f7469a", null ],
+    [ "auto_compute_inter_cluster_net_delay", "d9/dd6/structs__packer__opts.html#a4591c30c430c3e7b253e3c0d16d708e5", null ],
+    [ "beta", "d9/dd6/structs__packer__opts.html#a94bc18c9ea7f9f2d0af227df1ac4d75f", null ],
+    [ "blif_file_name", "d9/dd6/structs__packer__opts.html#ac470d733b5d32a8f1dca331787ea3113", null ],
+    [ "block_delay", "d9/dd6/structs__packer__opts.html#a502cb90a54df58a832c4362607976948", null ],
+    [ "cluster_seed_type", "d9/dd6/structs__packer__opts.html#af73e0536b1e2589dbcd282a93f9f9f3a", null ],
+    [ "connection_driven", "d9/dd6/structs__packer__opts.html#a724c1a972fc6969a404e649141561e3e", null ],
+    [ "doPacking", "d9/dd6/structs__packer__opts.html#a54ea869b8e6f501bff2b6dd2aa7d8d16", null ],
+    [ "global_clocks", "d9/dd6/structs__packer__opts.html#af1afc37784cb655e5e9a05cb803772f9", null ],
+    [ "hill_climbing_flag", "d9/dd6/structs__packer__opts.html#a2ce75acfa53bb36628c0731f3a81df8a", null ],
+    [ "inter_cluster_net_delay", "d9/dd6/structs__packer__opts.html#adc179fc94aba674ab08671705c7fc569", null ],
+    [ "intra_cluster_net_delay", "d9/dd6/structs__packer__opts.html#ac8e60cf0f3b304e69923f031d97454e5", null ],
+    [ "output_file", "d9/dd6/structs__packer__opts.html#a990aaae1f1827c47e08b2d59c7c6eea7", null ],
+    [ "packer_algorithm", "d9/dd6/structs__packer__opts.html#aae80a615f63946e4b672c6234b80a56e", null ],
+    [ "recompute_timing_after", "d9/dd6/structs__packer__opts.html#a94f89f966bfb88bebe831ee6d6de3fa4", null ],
+    [ "sdc_file_name", "d9/dd6/structs__packer__opts.html#a9e842a22dd3eafa123e1e7f0ce0b3305", null ],
+    [ "skip_clustering", "d9/dd6/structs__packer__opts.html#abe75ed2957c8bd5d1ce6fa675727ad1f", null ],
+    [ "sweep_hanging_nets_and_inputs", "d9/dd6/structs__packer__opts.html#adde26c23c103b336a8a048855c1f973b", null ],
+    [ "timing_driven", "d9/dd6/structs__packer__opts.html#a62e788da8c0bed6ef77a6e4791f53e65", null ]
+];

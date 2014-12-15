@@ -1,0 +1,9 @@
+<map id="power_util.h" name="power_util.h">
+<area shape="rect" id="node2" href="$d4/d81/power_8c.html" title="power.c" alt="" coords="5,80,72,107"/>
+<area shape="rect" id="node3" href="$df/d46/power__callibrate_8c.html" title="power_callibrate.c" alt="" coords="97,80,223,107"/>
+<area shape="rect" id="node4" href="$d2/d55/power__cmos__tech_8c.html" title="power_cmos_tech.c" alt="" coords="248,80,387,107"/>
+<area shape="rect" id="node5" href="$d7/dde/power__components_8c.html" title="power_components.c" alt="" coords="411,80,556,107"/>
+<area shape="rect" id="node6" href="$dc/d49/power__lowlevel_8c.html" title="power_lowlevel.c" alt="" coords="581,80,701,107"/>
+<area shape="rect" id="node7" href="$d0/d73/power__sizing_8c.html" title="power_sizing.c" alt="" coords="727,80,833,107"/>
+<area shape="rect" id="node8" href="$d5/dc1/power__util_8c.html" title="power_util.c" alt="" coords="857,80,948,107"/>
+</map>

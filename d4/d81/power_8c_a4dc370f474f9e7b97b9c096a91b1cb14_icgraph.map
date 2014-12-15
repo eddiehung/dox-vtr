@@ -1,0 +1,5 @@
+<map id="dealloc_mux_graph" name="dealloc_mux_graph">
+<area shape="rect" id="node2" href="$d3/d6a/power_8h.html#a6b6701e0fba762c9f81401e87c3d3f7a" title="power_uninit" alt="" coords="187,5,282,32"/>
+<area shape="rect" id="node3" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="331,5,480,32"/>
+<area shape="rect" id="node4" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="528,5,579,32"/>
+</map>

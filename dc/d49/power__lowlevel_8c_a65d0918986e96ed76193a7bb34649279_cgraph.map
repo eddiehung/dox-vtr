@@ -1,0 +1,8 @@
+<map id="power_calc_mux_v_out" name="power_calc_mux_v_out">
+<area shape="rect" id="node2" href="$d5/dc1/power__util_8c.html#aad9d874982fa729ad5063fbc11aaa791" title="power_log_msg" alt="" coords="239,31,353,57"/>
+<area shape="rect" id="node6" href="$d2/d55/power__cmos__tech_8c.html#a38ec8f73e8a2c1420bcb615a121693ce" title="power_find_mux_volt_inf" alt="" coords="214,81,378,108"/>
+<area shape="rect" id="node3" href="$d5/dc1/power__util_8c.html#a442cee8e7e5023432a29d09588a3f9b2" title="log_msg" alt="" coords="487,31,558,57"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#aa33f4d380fdc74d925d4450e32198baa" title="my_realloc" alt="" coords="667,5,751,32"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="669,56,749,83"/>
+<area shape="rect" id="node7" href="$d2/d55/power__cmos__tech_8c.html#a389619570dc8dbd238470af00c74a351" title="power_compare_voltage_pair" alt="" coords="427,81,618,108"/>
+</map>

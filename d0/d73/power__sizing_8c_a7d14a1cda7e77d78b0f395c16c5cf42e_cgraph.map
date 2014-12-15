@@ -1,0 +1,7 @@
+<map id="power_count_transistors_LUT" name="power_count_transistors_LUT">
+<area shape="rect" id="node2" href="$d0/d73/power__sizing_8c.html#a81d8d620f681fee39c6674fcfb5267cf" title="power_count_transistors_inv" alt="" coords="253,5,441,32"/>
+<area shape="rect" id="node3" href="$d0/d73/power__sizing_8c.html#ab0c52503c3bed7180ff79cfa38a71c4d" title="power_MTAs" alt="" coords="499,56,597,83"/>
+<area shape="rect" id="node4" href="$d0/d73/power__sizing_8c.html#adbeddb6c874593ce39810562c5a39d62" title="power_count_transistor\l_SRAM_bit" alt="" coords="268,107,425,149"/>
+<area shape="rect" id="node5" href="$d0/d73/power__sizing_8c.html#ae2f3d705a60109e2946f60d787b02c10" title="power_count_transistors_levr" alt="" coords="251,173,443,200"/>
+<area shape="rect" id="node6" href="$d0/d73/power__sizing_8c.html#ab8d8478dcbe3eb7b1acc303e146a1802" title="power_MTAs_L" alt="" coords="491,173,605,200"/>
+</map>

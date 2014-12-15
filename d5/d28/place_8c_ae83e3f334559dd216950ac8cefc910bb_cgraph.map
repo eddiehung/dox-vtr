@@ -1,0 +1,10 @@
+<map id="check_place" name="check_place">
+<area shape="rect" id="node2" href="$d5/d28/place_8c.html#aff821663272ee6257ef2f0a3d9994be2" title="comp_bb_cost" alt="" coords="152,107,259,133"/>
+<area shape="rect" id="node7" href="$d5/d28/place_8c.html#ade060a5066b3b67cd61e411e2bb65f01" title="comp_td_costs" alt="" coords="150,193,261,220"/>
+<area shape="rect" id="node9" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="163,244,247,271"/>
+<area shape="rect" id="node3" href="$d5/d28/place_8c.html#a3ef89b6a9907bcd9fba08d6ed89fc39f" title="get_bb_from_scratch" alt="" coords="317,5,461,32"/>
+<area shape="rect" id="node4" href="$d5/d28/place_8c.html#a1d93c15d44b818d4f8d62c46f09ca9b3" title="get_non_updateable_bb" alt="" coords="310,56,469,83"/>
+<area shape="rect" id="node5" href="$d5/d28/place_8c.html#a05c8129a438817c45b99796442879f17" title="get_net_cost" alt="" coords="341,107,438,133"/>
+<area shape="rect" id="node6" href="$d5/d28/place_8c.html#a768f1314da0fc1bf1fa89eab347d5923" title="get_net_wirelength\l_estimate" alt="" coords="324,158,455,199"/>
+<area shape="rect" id="node8" href="$d5/d28/place_8c.html#a91f0fabc63cfed10e16eab09311b4436" title="comp_td_point_to_point\l_delay" alt="" coords="309,223,469,265"/>
+</map>

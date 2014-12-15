@@ -1,0 +1,7 @@
+<map id="try_place_molecule" name="try_place_molecule">
+<area shape="rect" id="node2" href="$de/d3a/cluster__placement_8c.html#a09819ffc3d7b6e34427b9a41fecaaf5a" title="get_array_size_of_molecule" alt="" coords="187,5,370,32"/>
+<area shape="rect" id="node3" href="$d6/d8f/vpr__utils_8c.html#aa8f544aaadda4c1296f4640624e9f4c5" title="primitive_type_feasible" alt="" coords="420,81,575,108"/>
+<area shape="rect" id="node4" href="$de/d3a/cluster__placement_8c.html#a889cf776cc59fad1a3bad326b40228c1" title="root_passes_early_filter" alt="" coords="199,107,358,133"/>
+<area shape="rect" id="node5" href="$de/d3a/cluster__placement_8c.html#a39630ff51900ae3d2b4cc7f93e3d6557" title="expand_forced_pack\l_molecule_placement" alt="" coords="205,158,353,199"/>
+<area shape="rect" id="node6" href="$de/d3a/cluster__placement_8c.html#a70679b98e3cae0503134f09fd9788e80" title="expand_pack_molecule\l_pin_edge" alt="" coords="419,158,576,199"/>
+</map>

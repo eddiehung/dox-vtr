@@ -1,0 +1,31 @@
+<map id="match" name="match">
+<area shape="rect" id="node2" href="$d7/d6e/power__util_8h.html#ae84e8d0a806d5e8d4b28978dedc5039a" title="alloc_SRAM_values_from\l_truth_table" alt="" coords="113,19,285,61"/>
+<area shape="rect" id="node9" href="$d5/d64/SetupGrid_8c.html#a072db0c521540b73dc5cba61bd5709ed" title="find_type_col" alt="" coords="150,87,247,113"/>
+<area shape="rect" id="node13" href="$d2/d48/slre_8c.html#aa10c30901abcc1d7ffffe57c43e9932a" title="loop_greedy" alt="" coords="153,137,244,164"/>
+<area shape="rect" id="node14" href="$d2/d48/slre_8c.html#a7cb48201f7a52a39b782e1470fa51e39" title="loop_non_greedy" alt="" coords="139,188,258,215"/>
+<area shape="rect" id="node15" href="$d2/d48/slre_8c.html#ae076996502e8693c0beba626eb6dde54" title="match2" alt="" coords="166,240,231,267"/>
+<area shape="rect" id="node3" href="$d4/d81/power_8c.html#a185eecc3662fb00ba2f6ab5f99da9b2f" title="power_usage_primitive" alt="" coords="333,27,488,53"/>
+<area shape="rect" id="node4" href="$d4/d81/power_8c.html#a894137e7496df591f7f7c0f35b73e6f8" title="power_usage_pb" alt="" coords="539,5,659,32"/>
+<area shape="rect" id="node5" href="$d4/d81/power_8c.html#aa5848ac7e0ff88d1a50d7b8d3f77a233" title="power_usage_blocks" alt="" coords="709,12,853,39"/>
+<area shape="rect" id="node6" href="$d3/d6a/power_8h.html#a618a0ec5323986d02d47962e3153f00a" title="power_total" alt="" coords="902,37,991,64"/>
+<area shape="rect" id="node7" href="$db/dc2/vpr__api_8h.html#a24d8d4b96b042e3ccb7b3139fbb79e84" title="vpr_power_estimation" alt="" coords="1856,64,2005,91"/>
+<area shape="rect" id="node8" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="2245,181,2296,208"/>
+<area shape="rect" id="node10" href="$de/d0b/SetupGrid_8h.html#a9395f0c07fab477bff776f1495c5d098" title="alloc_and_load_grid" alt="" coords="343,87,479,113"/>
+<area shape="rect" id="node11" href="$d9/d4d/cluster_8c.html#a5ab5154fd25a2c5c4918921718262c35" title="start_new_cluster" alt="" coords="536,56,661,83"/>
+<area shape="rect" id="node12" href="$db/dc2/vpr__api_8h.html#a6e121f7670c1d36e3ff4733f5f9b7fb3" title="vpr_init_pre_place\l_and_route" alt="" coords="1491,158,1618,199"/>
+<area shape="rect" id="node16" href="$d5/d4d/slre_8h.html#a75f3ca2b5238ccdcb0d64c11173db7f8" title="slre_match" alt="" coords="367,244,454,271"/>
+<area shape="rect" id="node17" href="$da/d7d/read__sdc_8c.html#a7f6f81184d3d2ad566e44f0b9854f21a" title="regex_match" alt="" coords="551,244,647,271"/>
+<area shape="rect" id="node18" href="$da/d7d/read__sdc_8c.html#a4620e527904aa8d888881db34d5e3778" title="get_sdc_tok" alt="" coords="735,244,828,271"/>
+<area shape="rect" id="node19" href="$d6/d2a/read__sdc_8h.html#a6ba7a63f1a4352f2e3615fe006223079" title="read_sdc" alt="" coords="909,244,984,271"/>
+<area shape="rect" id="node20" href="$dd/de5/path__delay_8h.html#a78c049d0bcc59b189e16252ae1178ce9" title="alloc_and_load_timing\l_graph" alt="" coords="1042,237,1193,278"/>
+<area shape="rect" id="node27" href="$dd/de5/path__delay_8h.html#a10c928d52cf7a379c66e3bcf41ef0aa0" title="alloc_and_load_pre\l_packing_timing_graph" alt="" coords="1040,349,1195,390"/>
+<area shape="rect" id="node21" href="$dd/de5/path__delay_8h.html#aec547b889c10acf3c1dfc1e79c1cf780" title="do_constant_net_delay\l_timing_analysis" alt="" coords="1265,158,1420,199"/>
+<area shape="rect" id="node22" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="1872,265,1989,292"/>
+<area shape="rect" id="node24" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="1667,273,1807,314"/>
+<area shape="rect" id="node25" href="$db/d3c/timing__place_8h.html#a1565c2ac95e3032c61718efd0e711951" title="alloc_lookups_and_criticalities" alt="" coords="1243,325,1442,352"/>
+<area shape="rect" id="node23" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="2054,237,2197,264"/>
+<area shape="rect" id="node26" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="1517,325,1592,352"/>
+<area shape="rect" id="node28" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="1293,381,1392,408"/>
+<area shape="rect" id="node29" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="1519,385,1590,412"/>
+<area shape="rect" id="node30" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="2088,317,2163,344"/>
+</map>

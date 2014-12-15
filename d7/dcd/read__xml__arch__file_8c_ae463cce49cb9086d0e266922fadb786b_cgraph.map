@@ -1,0 +1,12 @@
+<map id="ProcessPb_TypePort_Power" name="ProcessPb_TypePort_Power">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="213,5,293,32"/>
+<area shape="rect" id="node3" href="$d9/dcc/read__xml__util_8h.html#a858591b3d7eaf692816ea613eff13890" title="FindElement" alt="" coords="206,56,301,83"/>
+<area shape="rect" id="node5" href="$d9/dcc/read__xml__util_8h.html#a31f341aeab673b749c0b4c00a7ecd0bb" title="FindProperty" alt="" coords="206,107,301,133"/>
+<area shape="rect" id="node7" href="$d4/d44/ezxml_8c.html#a4369a56a65a27c4e9836aa78f42ffa14" title="ezxml_set_attr" alt="" coords="200,157,307,184"/>
+<area shape="rect" id="node10" href="$d9/dcc/read__xml__util_8h.html#a05e05d34a0e16bf8005a91d9b91fc347" title="FreeNode" alt="" coords="214,208,293,235"/>
+<area shape="rect" id="node4" href="$d4/d44/ezxml_8c.html#a919b55676e0245e2347dcca26d727145" title="ezxml_child" alt="" coords="361,56,450,83"/>
+<area shape="rect" id="node6" href="$d4/d44/ezxml_8c.html#a48c47c7d79e06e6895bf1e18a2a71957" title="ezxml_attr" alt="" coords="365,107,446,133"/>
+<area shape="rect" id="node8" href="$d8/d3c/util_8h.html#a27b0289e7d294726d1e5a341fae7038d" title="my_strdup" alt="" coords="364,157,447,184"/>
+<area shape="rect" id="node9" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="505,157,589,184"/>
+<area shape="rect" id="node11" href="$dc/d7c/read__xml__util_8c.html#a5713532572dba05a4be93501e6edc4c9" title="IsWhitespace" alt="" coords="355,208,456,235"/>
+</map>

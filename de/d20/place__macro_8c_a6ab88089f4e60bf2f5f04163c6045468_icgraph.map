@@ -1,0 +1,12 @@
+<map id="alloc_and_load_imacro_from_iblk" name="alloc_and_load_imacro_from_iblk">
+<area shape="rect" id="node2" href="$d2/d6a/place__macro_8h.html#a8fd4a451b8de3c5e8ae8e86a645a6eef" title="get_imacro_from_iblk" alt="" coords="208,31,355,57"/>
+<area shape="rect" id="node3" href="$d5/d28/place_8c.html#a2b7922b8a5ca1b06d9e04343d50b92fd" title="setup_blocks_affected" alt="" coords="403,5,555,32"/>
+<area shape="rect" id="node4" href="$d5/d28/place_8c.html#a63bcd30dc4624255cb62bcb26b842618" title="find_affected_blocks" alt="" coords="603,31,743,57"/>
+<area shape="rect" id="node5" href="$d5/d28/place_8c.html#a1fd584f12dab4e1dc0e948c76fe280b5" title="try_swap" alt="" coords="792,31,867,57"/>
+<area shape="rect" id="node6" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="1040,31,1115,57"/>
+<area shape="rect" id="node11" href="$d5/d28/place_8c.html#a57c5c026ad442068e9e78f84c8820d37" title="starting_t" alt="" coords="915,56,991,83"/>
+<area shape="rect" id="node7" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="1352,31,1469,57"/>
+<area shape="rect" id="node10" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="1163,53,1303,94"/>
+<area shape="rect" id="node8" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="1518,31,1661,57"/>
+<area shape="rect" id="node9" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1709,31,1760,57"/>
+</map>

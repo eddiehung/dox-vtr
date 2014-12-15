@@ -1,0 +1,28 @@
+var structs__power__commonly__used =
+[
+    [ "component_callibration", "d6/dee/structs__power__commonly__used.html#a9dd352cd16f1aafe765d171f352d7edf", null ],
+    [ "INV_1X_C", "d6/dee/structs__power__commonly__used.html#ac767c679c5d8566fea65bf5adc1ae77e", null ],
+    [ "INV_1X_C_in", "d6/dee/structs__power__commonly__used.html#a9749643bcf565af060e78cf0a86682eb", null ],
+    [ "INV_2X_C", "d6/dee/structs__power__commonly__used.html#a0c10818a8ee5d80e69dd0c7c4e2f8fd4", null ],
+    [ "max_IPIN_fanin", "d6/dee/structs__power__commonly__used.html#a4f1953dbe63daae83acba353779feed7", null ],
+    [ "max_routing_mux_size", "d6/dee/structs__power__commonly__used.html#a0c4c3f894964fecefa7a05fa995e3b68", null ],
+    [ "max_seg_fanout", "d6/dee/structs__power__commonly__used.html#a162c1f63e5d25592fc6ae7bdf456c514", null ],
+    [ "max_seg_to_IPIN_fanout", "d6/dee/structs__power__commonly__used.html#a50d03b48645b674dbdb61f0ea6fd2342", null ],
+    [ "max_seg_to_seg_fanout", "d6/dee/structs__power__commonly__used.html#a669db7bf807b8f959143cafcfb4b12ab", null ],
+    [ "mux_info", "d6/dee/structs__power__commonly__used.html#a8cafcd42280b66062ca8b43b1dd8fb8d", null ],
+    [ "NMOS_1X_C_d", "d6/dee/structs__power__commonly__used.html#abec6d64bf8576f53480286f5aa115f20", null ],
+    [ "NMOS_1X_C_g", "d6/dee/structs__power__commonly__used.html#a46d12d5979745720a99baf4e71afddce", null ],
+    [ "NMOS_1X_C_s", "d6/dee/structs__power__commonly__used.html#a1743d32a60c0baf9f1e910903f02861a", null ],
+    [ "NMOS_1X_st_leakage", "d6/dee/structs__power__commonly__used.html#a80ff7a312dec75b2be5055b8c477b03a", null ],
+    [ "NMOS_2X_st_leakage", "d6/dee/structs__power__commonly__used.html#a61c5acd43066e87817a2a96951290d7c", null ],
+    [ "num_cb_buffers", "d6/dee/structs__power__commonly__used.html#acd282685623ee738412dd178590afce8", null ],
+    [ "num_sb_buffers", "d6/dee/structs__power__commonly__used.html#aa6f3df9dc37d4df147017ab074b0a830", null ],
+    [ "PMOS_1X_C_d", "d6/dee/structs__power__commonly__used.html#a9f1646c73b573be32dd3fe2067028556", null ],
+    [ "PMOS_1X_C_g", "d6/dee/structs__power__commonly__used.html#a666e4c6de97ef88b78b9e7e27ca3d287", null ],
+    [ "PMOS_1X_C_s", "d6/dee/structs__power__commonly__used.html#ab3c57a2409a0b66c69c91f18f3479948", null ],
+    [ "PMOS_1X_st_leakage", "d6/dee/structs__power__commonly__used.html#a4b30e5820d043fe0ed36d0f339fc542b", null ],
+    [ "PMOS_2X_st_leakage", "d6/dee/structs__power__commonly__used.html#a87abcbd58cf3b1013f5669585b4c8af6", null ],
+    [ "tile_length", "d6/dee/structs__power__commonly__used.html#ab6719d2bbc3beb303cacd5ddccffdaf4", null ],
+    [ "total_cb_buffer_size", "d6/dee/structs__power__commonly__used.html#a8c2c060a836bf9402e1e6c9753da4ff9", null ],
+    [ "total_sb_buffer_size", "d6/dee/structs__power__commonly__used.html#a7a8d5beac6295b8d7ad6b785ce497203", null ]
+];

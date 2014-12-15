@@ -1,0 +1,9 @@
+<map id="alloc_and_load_tnodes_from_prepacked_netlist" name="alloc_and_load_tnodes_from_prepacked_netlist">
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="257,5,341,32"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="259,56,339,83"/>
+<area shape="rect" id="node4" href="$d8/d3c/util_8h.html#a437d61786a5a4d38d63fa5359dbacf47" title="my_chunk_malloc" alt="" coords="235,107,362,133"/>
+<area shape="rect" id="node7" href="$d6/d8f/vpr__utils_8c.html#aa876870272d9af20f4ea24545ed25022" title="get_pb_graph_node_pin\l_from_model_port_pin" alt="" coords="219,158,378,199"/>
+<area shape="rect" id="node8" href="$dc/dfb/path__delay_8c.html#ab7d8619d6fdd99c266bf1d854f5cb42d" title="get_tnode_index" alt="" coords="241,224,357,251"/>
+<area shape="rect" id="node5" href="$de/df1/util_8c.html#a529692256011f679109a7ee33fdc6576" title="my_malloc" alt="" coords="601,107,685,133"/>
+<area shape="rect" id="node6" href="$de/df1/util_8c.html#ab9e2c4e8b8a1eba7feb31df1f7bffc64" title="insert_in_vptr_list" alt="" coords="427,132,551,159"/>
+</map>

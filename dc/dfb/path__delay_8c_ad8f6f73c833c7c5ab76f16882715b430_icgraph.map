@@ -1,0 +1,26 @@
+<map id="has_valid_T_arr" name="has_valid_T_arr">
+<area shape="rect" id="node2" href="$dc/dfb/path__delay_8c.html#a79ff5c268b4b15e333ca2be74e3a7706" title="process_constraints" alt="" coords="200,185,339,212"/>
+<area shape="rect" id="node16" href="$dc/dfb/path__delay_8c.html#a66aa5994f3f620704a3326f1fc310fba" title="update_slacks" alt="" coords="216,236,323,263"/>
+<area shape="rect" id="node21" href="$dd/de5/path__delay_8h.html#a9163ee1e068f8f869eaae3f79d6b6586" title="allocate_and_load_critical_path" alt="" coords="168,329,371,356"/>
+<area shape="rect" id="node25" href="$dc/dfb/path__delay_8c.html#a9c147ab6392380c3677558790ad1070b" title="update_normalized_costs" alt="" coords="185,135,354,161"/>
+<area shape="rect" id="node3" href="$dd/de5/path__delay_8h.html#a78c049d0bcc59b189e16252ae1178ce9" title="alloc_and_load_timing\l_graph" alt="" coords="421,263,571,305"/>
+<area shape="rect" id="node12" href="$dd/de5/path__delay_8h.html#a10c928d52cf7a379c66e3bcf41ef0aa0" title="alloc_and_load_pre\l_packing_timing_graph" alt="" coords="419,22,573,63"/>
+<area shape="rect" id="node4" href="$dd/de5/path__delay_8h.html#aec547b889c10acf3c1dfc1e79c1cf780" title="do_constant_net_delay\l_timing_analysis" alt="" coords="644,209,799,250"/>
+<area shape="rect" id="node7" href="$d5/d5a/place__and__route_8h.html#a8c4319cff81d17e539bf04528ae3122d" title="place_and_route" alt="" coords="1211,325,1328,352"/>
+<area shape="rect" id="node9" href="$dd/dc1/place__and__route_8c.html#ae5c9a9ebd4806faf81542abb3495af1c" title="binary_search_place\l_and_route" alt="" coords="1017,377,1157,418"/>
+<area shape="rect" id="node10" href="$db/d3c/timing__place_8h.html#a1565c2ac95e3032c61718efd0e711951" title="alloc_lookups_and_criticalities" alt="" coords="622,427,821,453"/>
+<area shape="rect" id="node5" href="$db/dc2/vpr__api_8h.html#a6e121f7670c1d36e3ff4733f5f9b7fb3" title="vpr_init_pre_place\l_and_route" alt="" coords="1206,166,1333,207"/>
+<area shape="rect" id="node6" href="$dc/d50/vpr_2SRC_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1573,173,1624,200"/>
+<area shape="rect" id="node8" href="$db/dc2/vpr__api_8h.html#a2bffc5107dfb09e9cfb68611389170ce" title="vpr_place_and_route" alt="" coords="1382,275,1525,301"/>
+<area shape="rect" id="node11" href="$d2/d2e/place_8h.html#a79c92726da20db18a6818bf2a46d12fd" title="try_place" alt="" coords="881,427,956,453"/>
+<area shape="rect" id="node13" href="$d9/d2f/cluster_8h.html#ab6693406397bd44fdcdba661835a61f1" title="do_clustering" alt="" coords="672,5,771,32"/>
+<area shape="rect" id="node14" href="$d5/dcb/pack_8h.html#afe1b3f6d4018c16e76d67eaf963453c9" title="try_pack" alt="" coords="883,33,954,60"/>
+<area shape="rect" id="node15" href="$db/dc2/vpr__api_8h.html#a8037564e4ec4a6d4b6f926fd056f08d0" title="vpr_pack" alt="" coords="1416,105,1491,132"/>
+<area shape="rect" id="node17" href="$dd/de5/path__delay_8h.html#a9f7b8f7b246024c1ea9579d95565d465" title="do_timing_analysis" alt="" coords="430,135,562,161"/>
+<area shape="rect" id="node18" href="$de/dcf/route__timing_8h.html#a31f0b993c660b890ec10460f6ec4a7ce" title="try_timing_driven_route" alt="" coords="643,56,799,83"/>
+<area shape="rect" id="node20" href="$d9/d9b/stats_8h.html#a93e3d9b7f6c5e2c2c3e6a4b7b4eaedd1" title="routing_stats" alt="" coords="870,325,967,352"/>
+<area shape="rect" id="node19" href="$de/dbf/route__export_8h.html#ad38805571e14b11ab1c4354866206507" title="try_route" alt="" coords="883,275,955,301"/>
+<area shape="rect" id="node22" href="$d6/dd9/draw_8c.html#adb31ae490eba351a019c8d087d2b4bd7" title="highlight_crit_path" alt="" coords="433,456,559,483"/>
+<area shape="rect" id="node24" href="$dd/de5/path__delay_8h.html#a4fea1e9c7ee3b0d674fad251face2739" title="print_critical_path" alt="" coords="434,329,558,356"/>
+<area shape="rect" id="node23" href="$de/d28/draw_8h.html#abd9f8f8ef9c098f28e7d45517b7ae95a" title="update_screen" alt="" coords="668,528,775,555"/>
+</map>

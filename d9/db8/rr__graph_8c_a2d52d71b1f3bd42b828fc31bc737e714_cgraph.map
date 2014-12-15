@@ -1,0 +1,7 @@
+<map id="alloc_and_load_clb_to_clb_directs" name="alloc_and_load_clb_to_clb_directs">
+<area shape="rect" id="node2" href="$d8/d3c/util_8h.html#ad97be0b911d0ab4b21416d7d23d49f6e" title="my_calloc" alt="" coords="235,5,315,32"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#a5eec99cda2984d6ba49ad0e91c35c927" title="my_malloc" alt="" coords="593,96,677,123"/>
+<area shape="rect" id="node4" href="$d6/d8f/vpr__utils_8c.html#a5d0184378c0c0c2aaefb41288cbb1ee0" title="parse_direct_pin_name" alt="" coords="197,107,353,133"/>
+<area shape="rect" id="node5" href="$d6/d8f/vpr__utils_8c.html#a62b868513731f29140ff304c5529991a" title="get_blk_pin_from_port_pin" alt="" coords="187,157,362,184"/>
+<area shape="rect" id="node6" href="$d6/d8f/vpr__utils_8c.html#a9fd4bee5b08bf7c2499128536aad78ca" title="alloc_and_load_blk\l_pin_from_port_pin" alt="" coords="411,129,543,170"/>
+</map>
